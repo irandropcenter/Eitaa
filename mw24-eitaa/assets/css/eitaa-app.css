@@ -1,0 +1,112 @@
+/**
+ * Eitaa Connect — styles loaded only inside the Eitaa mini-app.
+ * Uses the CSS variables injected by the Eitaa SDK (--tg-theme-*, --tg-safe-area-inset-*).
+ *
+ * @package MW24_Eitaa
+ */
+
+/* Visibility helpers */
+html.mw24-eitaa-app .mw24-hide-in-eitaa,
+body.mw24-eitaa-app .mw24-hide-in-eitaa {
+	display: none !important;
+}
+
+html:not(.mw24-eitaa-app) .mw24-show-in-eitaa {
+	display: none !important;
+}
+
+/* Safe area padding in full-screen mode */
+body.mw24-eitaa-app.mw24-eitaa-safe-area.mw24-eitaa-fullscreen {
+	padding-top: calc(var(--tg-safe-area-inset-top, 0px) + var(--tg-content-safe-area-inset-top, 0px));
+	padding-bottom: calc(var(--tg-safe-area-inset-bottom, 0px) + var(--tg-content-safe-area-inset-bottom, 0px));
+	padding-left: calc(var(--tg-safe-area-inset-left, 0px) + var(--tg-content-safe-area-inset-left, 0px));
+	padding-right: calc(var(--tg-safe-area-inset-right, 0px) + var(--tg-content-safe-area-inset-right, 0px));
+}
+
+/* Phone sharing bar */
+.mw24-eitaa-bar {
+	position: fixed;
+	z-index: 999999;
+	left: 12px;
+	right: 12px;
+	bottom: calc(12px + var(--tg-safe-area-inset-bottom, 0px));
+	box-sizing: border-box;
+	padding: 14px 16px;
+	border-radius: 14px;
+	background: var(--tg-theme-secondary-bg-color, #ffffff);
+	color: var(--tg-theme-text-color, #1f2328);
+	box-shadow: 0 8px 28px rgba(0, 0, 0, 0.18);
+	font-size: 14px;
+	line-height: 1.7;
+	direction: rtl;
+	text-align: right;
+	animation: mw24-eitaa-up 0.25s ease-out;
+}
+
+.mw24-eitaa-bar[hidden] {
+	display: none !important;
+}
+
+.mw24-eitaa-bar__text {
+	margin: 0 0 10px;
+}
+
+.mw24-eitaa-bar__actions {
+	display: flex;
+	gap: 8px;
+}
+
+.mw24-eitaa-bar__actions button {
+	flex: 1 1 auto;
+	min-height: 42px;
+	margin: 0;
+	padding: 8px 12px;
+	border: 0;
+	border-radius: 10px;
+	font: inherit;
+	font-weight: 600;
+	cursor: pointer;
+}
+
+.mw24-eitaa-bar__share {
+	background: var(--tg-theme-button-color, #1d72f3);
+	color: var(--tg-theme-button-text-color, #ffffff);
+}
+
+.mw24-eitaa-bar__later {
+	flex-grow: 0 !important;
+	background: transparent;
+	color: var(--tg-theme-hint-color, #6b7280);
+}
+
+.mw24-eitaa-bar button:disabled {
+	opacity: 0.6;
+	cursor: progress;
+}
+
+.mw24-eitaa-bar__status {
+	margin: 8px 0 0;
+	color: var(--tg-theme-hint-color, #6b7280);
+	font-size: 13px;
+}
+
+body.mw24-eitaa-bar-open {
+	padding-bottom: 120px;
+}
+
+@keyframes mw24-eitaa-up {
+	from {
+		transform: translateY(20px);
+		opacity: 0;
+	}
+	to {
+		transform: none;
+		opacity: 1;
+	}
+}
+
+@media (prefers-reduced-motion: reduce) {
+	.mw24-eitaa-bar {
+		animation: none;
+	}
+}

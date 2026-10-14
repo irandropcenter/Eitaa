@@ -1,0 +1,18 @@
+{
+	"id": "wp-sms",
+	"name": "WP SMS",
+	"version": "1.0.0",
+	"verified": true,
+	"priority": 50,
+	"source": "WP SMS stores the profile mobile in the 'mobile' meta key (filter wp_sms_user_mobile_field) or uses billing_phone in WooCommerce mode.",
+	"detect": {
+		"plugins": [ "wp-sms" ]
+	},
+	"fields": [
+		{ "meta_key": "mobile", "format": "+98", "lookup": true, "write": true }
+	],
+	"notes": {
+		"en": "WP SMS mobile field (international format +98…).",
+		"fa": "فیلد موبایل افزونهٔ WP SMS (قالب بین‌المللی +98…)."
+	}
+}

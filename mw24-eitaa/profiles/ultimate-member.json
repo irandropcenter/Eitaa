@@ -1,0 +1,19 @@
+{
+	"id": "ultimate-member",
+	"name": "Ultimate Member",
+	"version": "1.0.0",
+	"verified": true,
+	"priority": 55,
+	"source": "Ultimate Member predefined fields mobile_number and phone_number (metakey = field key).",
+	"detect": {
+		"plugins": [ "ultimate-member" ]
+	},
+	"fields": [
+		{ "meta_key": "mobile_number", "format": "0", "lookup": true, "write": true },
+		{ "meta_key": "phone_number", "format": "0", "lookup": true, "write": false }
+	],
+	"notes": {
+		"en": "Ultimate Member “Mobile Number” (written) and “Phone Number” (search only) fields.",
+		"fa": "فیلدهای «Mobile Number» (نوشتن) و «Phone Number» (فقط جست‌وجو) در Ultimate Member."
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"id": "user-registration",
+	"name": "User Registration (WPEverest)",
+	"version": "1.0.0",
+	"verified": false,
+	"priority": 70,
+	"source": "User Registration stores form fields as user_registration_{field_name}; phone field names are generated per form.",
+	"detect": {
+		"plugins": [ "user-registration", "user-registration-pro" ]
+	},
+	"fields": [
+		{ "meta_key_like": "user_registration_phone%", "format": "0", "lookup": true },
+		{ "meta_key_like": "user_registration_mobile%", "format": "0", "lookup": true }
+	],
+	"suggest_like": [ "user_registration_%phone%", "user_registration_%mobile%" ],
+	"notes": {
+		"en": "Search only, by pattern. To also write the number, add the exact key of your form field in the manual map.",
+		"fa": "فقط جست‌وجو با الگو. برای نوشتن شماره، کلید دقیق فیلد فرم خود را در نقشهٔ دستی اضافه کنید."
+	}
+}

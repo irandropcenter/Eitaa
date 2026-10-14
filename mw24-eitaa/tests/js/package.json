@@ -1,0 +1,11 @@
+{
+	"name": "mw24-eitaa-js-tests",
+	"private": true,
+	"description": "Behavioural tests of the Eitaa Connect mini-app script (jsdom + mocked Eitaa SDK).",
+	"scripts": {
+		"test": "node test-eitaa-app.js"
+	},
+	"devDependencies": {
+		"jsdom": "^24.0.0"
+	}
+}

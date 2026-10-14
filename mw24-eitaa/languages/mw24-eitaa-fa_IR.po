@@ -1,0 +1,1979 @@
+# Persian translation of Eitaa Connect — Mihanweb24.
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Eitaa Connect — Mihanweb24 1.0.0\n"
+"PO-Revision-Date: 2026-10-14 16:11+0000\n"
+"Last-Translator: Mihanweb24\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Domain: mw24-eitaa\n"
+
+msgid "Eitaa Connect — Mihanweb24"
+msgstr "اتصال به ایتا — میهن وب۲۴"
+
+msgid "Opens your WordPress / WooCommerce site as an Eitaa mini-app, logs visitors in with their Eitaa-verified mobile number, syncs that number with any login/registration plugin and sends Eitaa messages."
+msgstr "سایت وردپرسی/ووکامرسی شما را به‌صورت مینی‌اپ داخل ایتا باز می‌کند، کاربران را با شمارهٔ موبایل تأییدشدهٔ ایتا وارد یا ثبت‌نام می‌کند، شماره را با هر افزونهٔ ورود/ثبت‌نام همگام می‌کند و پیام ایتا ارسال می‌کند."
+
+msgid "Mihanweb24"
+msgstr "میهن وب۲۴"
+
+msgctxt "block title"
+msgid "Eitaa login button"
+msgstr "دکمهٔ ورود با ایتا"
+
+msgctxt "block description"
+msgid "Lets visitors log in with their Eitaa-verified mobile number inside the Eitaa mini-app."
+msgstr "بازدیدکنندگان داخل مینی‌اپ ایتا با شمارهٔ موبایل تأییدشدهٔ ایتا وارد می‌شوند."
+
+msgctxt "block keyword"
+msgid "eitaa"
+msgstr "ایتا"
+
+msgctxt "block keyword"
+msgid "login"
+msgstr "ورود"
+
+msgctxt "block keyword"
+msgid "mobile"
+msgstr "موبایل"
+
+msgid "Enabled"
+msgstr "فعال"
+
+msgid "Automatic (customer with WooCommerce, otherwise the site default)"
+msgstr "خودکار (با ووکامرس «مشتری»، در غیر این صورت نقش پیش‌فرض سایت)"
+
+msgid "Time"
+msgstr "زمان"
+
+msgid "Level"
+msgstr "سطح"
+
+msgid "Event"
+msgstr "رویداد"
+
+msgid "Message"
+msgstr "پیام"
+
+msgid "User"
+msgstr "کاربر"
+
+msgid "Eitaa ID"
+msgstr "شناسهٔ ایتا"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "All levels"
+msgstr "همهٔ سطح‌ها"
+
+msgid "All events"
+msgstr "همهٔ رویدادها"
+
+msgid "Filter"
+msgstr "فیلتر"
+
+msgid "The log is empty."
+msgstr "لاگ خالی است."
+
+msgid "Details"
+msgstr "جزئیات"
+
+msgid "Eitaa Connect"
+msgstr "اتصال به ایتا"
+
+msgid "Dashboard"
+msgstr "داشبورد"
+
+msgid "Connection"
+msgstr "تنظیمات اتصال"
+
+msgid "Appearance & behavior"
+msgstr "ظاهر و رفتار"
+
+msgid "Login & phone sync"
+msgstr "ورود و همگام‌سازی شماره"
+
+msgid "Notifications"
+msgstr "اعلان‌ها"
+
+msgid "Connected users"
+msgstr "کاربران متصل"
+
+msgid "Log"
+msgstr "لاگ"
+
+msgid "Tools"
+msgstr "ابزارها"
+
+msgid "Help"
+msgstr "راهنما"
+
+msgid "You do not have permission to access this page."
+msgstr "شما اجازهٔ دسترسی به این صفحه را ندارید."
+
+msgid "Loading…"
+msgstr "در حال بارگذاری…"
+
+msgid "Request failed."
+msgstr "درخواست ناموفق بود."
+
+msgid "Message sent."
+msgstr "پیام ارسال شد."
+
+msgid "Copied!"
+msgstr "کپی شد!"
+
+msgid "Are you sure?"
+msgstr "مطمئن هستید؟"
+
+msgid "Use"
+msgstr "استفاده"
+
+msgid "Meta key"
+msgstr "متاکلید"
+
+msgid "Rows"
+msgstr "تعداد ردیف"
+
+msgid "Phone-like"
+msgstr "شبیه شماره"
+
+msgid "Masked sample"
+msgstr "نمونهٔ ماسک‌شده"
+
+msgid "No meta keys found."
+msgstr "هیچ متاکلیدی پیدا نشد."
+
+msgid "— Select a table —"
+msgstr "— انتخاب جدول —"
+
+msgid "— Select a column —"
+msgstr "— انتخاب ستون —"
+
+msgid "required"
+msgstr "اجباری"
+
+msgid "Column"
+msgstr "ستون"
+
+msgid "Type"
+msgstr "نوع"
+
+msgid "Value"
+msgstr "مقدار"
+
+msgid "Not set (skip)"
+msgstr "تنظیم نشود (رد شود)"
+
+msgid "Fixed value"
+msgstr "مقدار ثابت"
+
+msgid "Current time (site)"
+msgstr "زمان فعلی (منطقهٔ زمانی سایت)"
+
+msgid "Current time (UTC)"
+msgstr "زمان فعلی (UTC)"
+
+msgid "Unix timestamp"
+msgstr "برچسب زمانی یونیکس"
+
+msgid "User ID"
+msgstr "شناسهٔ کاربر"
+
+msgid "Phone (formatted)"
+msgstr "شماره (با قالب انتخابی)"
+
+msgid "Empty string"
+msgstr "رشتهٔ خالی"
+
+msgid "Normalized"
+msgstr "شمارهٔ استانداردشده"
+
+msgid "Searched variants"
+msgstr "شکل‌های جست‌وجوشده"
+
+msgid "User that would log in"
+msgstr "کاربری که وارد می‌شود"
+
+msgid "No user found — a new account would be created."
+msgstr "کاربری پیدا نشد — حساب جدید ساخته می‌شود."
+
+msgid "Matches"
+msgstr "موارد منطبق"
+
+msgid "Warning: this number matches more than one user. The first match (by priority) is used."
+msgstr "هشدار: این شماره با بیش از یک کاربر منطبق است. اولین مورد (بر اساس اولویت) استفاده می‌شود."
+
+msgid "Values that would be written"
+msgstr "مقادیری که نوشته می‌شود"
+
+msgid "Field"
+msgstr "فیلد"
+
+msgid "Current"
+msgstr "مقدار فعلی"
+
+msgid "Action"
+msgstr "عملیات"
+
+msgid "write"
+msgstr "نوشتن"
+
+msgid "unchanged"
+msgstr "بدون تغییر"
+
+msgid "skip: different number already stored"
+msgstr "رد شد: شمارهٔ دیگری از قبل ذخیره شده است"
+
+msgid "skip: number belongs to another user"
+msgstr "رد شد: شماره متعلق به کاربر دیگری است"
+
+msgid "read-only"
+msgstr "فقط خواندنی"
+
+msgid "invalid table map"
+msgstr "نقشهٔ جدول نامعتبر است"
+
+msgid "error"
+msgstr "خطا"
+
+msgid "Not started"
+msgstr "شروع نشده"
+
+msgid "Running…"
+msgstr "در حال اجرا…"
+
+msgid "Finished"
+msgstr "پایان یافت"
+
+msgid "Cancelled"
+msgstr "لغو شد"
+
+msgid "%1$s of %2$s users processed — %3$s users updated, %4$s values written, %5$s skipped."
+msgstr "%1$s از %2$s کاربر بررسی شد — %3$s کاربر به‌روزرسانی شد، %4$s مقدار نوشته شد، %5$s مورد رد شد."
+
+msgid "Scanned %1$s users: %2$s have a phone, %3$s would be updated (%4$s values), %5$s skipped because of conflicts."
+msgstr "%1$s کاربر بررسی شد: %2$s کاربر شماره دارند، %3$s کاربر به‌روزرسانی می‌شوند (%4$s مقدار) و %5$s مورد به‌دلیل تداخل رد می‌شود."
+
+msgid "This message would be queued for %s users."
+msgstr "این پیام برای %s کاربر در صف قرار می‌گیرد."
+
+msgid "You do not have permission to do this."
+msgstr "شما اجازهٔ انجام این کار را ندارید."
+
+msgid "Settings saved."
+msgstr "تنظیمات ذخیره شد."
+
+msgid "The Eitaa account was disconnected."
+msgstr "اتصال حساب ایتا قطع شد."
+
+msgid "The log was cleared."
+msgstr "لاگ پاک شد."
+
+msgid "Queue processed: %1$d sent, %2$d failed."
+msgstr "صف پردازش شد: %1$d ارسال موفق، %2$d ناموفق."
+
+msgid "%d failed messages were put back in the queue."
+msgstr "%d پیام ناموفق دوباره به صف برگشت."
+
+msgid "Sent and failed messages were removed from the queue."
+msgstr "پیام‌های ارسال‌شده و ناموفق از صف حذف شدند."
+
+msgid "The message queue was emptied."
+msgstr "صف پیام خالی شد."
+
+msgid "Cached data was cleared."
+msgstr "داده‌های کش‌شده پاک شد."
+
+msgid "All settings were reset to their defaults. The token and phone maps were kept."
+msgstr "همهٔ تنظیمات به حالت پیش‌فرض برگشت. توکن و نقشه‌های شماره حفظ شدند."
+
+msgid "The app token was deleted."
+msgstr "توکن برنامه حذف شد."
+
+msgid "%d messages were added to the queue."
+msgstr "%d پیام به صف اضافه شد."
+
+msgid "Unknown action."
+msgstr "عملیات ناشناخته."
+
+msgid "Eitaa Connect: the saved app token can no longer be decrypted (the site security keys changed). Please enter the token again."
+msgstr "اتصال به ایتا: توکن ذخیره‌شده دیگر قابل رمزگشایی نیست (کلیدهای امنیتی سایت تغییر کرده است). لطفاً توکن را دوباره وارد کنید."
+
+msgid "Connection settings"
+msgstr "تنظیمات اتصال"
+
+msgid "Eitaa Connect is installed but not connected yet."
+msgstr "افزونهٔ اتصال به ایتا نصب شده اما هنوز متصل نیست."
+
+msgid "Start setup"
+msgstr "شروع راه‌اندازی"
+
+msgid "Auto-detected login plugins: %s. Please review and confirm the phone sync profile."
+msgstr "افزونه‌های ورود شناسایی‌شده: %s. لطفاً پروفایل همگام‌سازی شماره را بررسی و تأیید کنید."
+
+msgid "Review"
+msgstr "بررسی"
+
+msgid "Settings"
+msgstr "تنظیمات"
+
+msgid "Invalid form."
+msgstr "فرم نامعتبر است."
+
+msgid "Eitaa Connect %s — by Mihanweb24"
+msgstr "اتصال به ایتا %s — ساخت میهن وب۲۴"
+
+msgid "Eitaa Connect sections"
+msgstr "بخش‌های اتصال به ایتا"
+
+msgid "Save changes"
+msgstr "ذخیرهٔ تغییرات"
+
+msgid "Copy"
+msgstr "کپی"
+
+msgid "Window"
+msgstr "پنجره"
+
+msgid "Expand"
+msgstr "گسترش"
+
+msgid "Open the mini-app at full height (Android)."
+msgstr "مینی‌اپ با حداکثر ارتفاع باز شود (اندروید)."
+
+msgid "Expand automatically"
+msgstr "گسترش خودکار"
+
+msgid "Full screen"
+msgstr "تمام‌صفحه"
+
+msgid "Request full-screen mode where supported (SDK 1.3+)."
+msgstr "در صورت پشتیبانی، حالت تمام‌صفحه درخواست شود (SDK نسخهٔ ۱٫۳ به بالا)."
+
+msgid "Request full screen"
+msgstr "درخواست تمام‌صفحه"
+
+msgid "Safe area padding"
+msgstr "فاصلهٔ ناحیهٔ امن"
+
+msgid "In full-screen mode add padding from the --tg-safe-area-inset-* and --tg-content-safe-area-inset-* variables so content is not hidden behind system bars."
+msgstr "در حالت تمام‌صفحه از متغیرهای ‎--tg-safe-area-inset-*‎ و ‎--tg-content-safe-area-inset-*‎ فاصله اضافه می‌شود تا محتوا زیر نوارهای سیستم پنهان نشود."
+
+msgid "Add safe-area padding"
+msgstr "افزودن فاصلهٔ ناحیهٔ امن"
+
+msgid "Vertical swipes"
+msgstr "کشیدن عمودی"
+
+msgid "Useful when your pages use swipe gestures (sliders); users can still close the app from its header."
+msgstr "برای صفحه‌هایی که حرکات کشیدن دارند (مثل اسلایدر) مفید است؛ کاربر همچنان می‌تواند از سربرگ، مینی‌اپ را ببندد."
+
+msgid "Disable closing with a vertical swipe"
+msgstr "غیرفعال‌کردن بستن با کشیدن عمودی"
+
+msgid "Confirm before closing"
+msgstr "تأیید پیش از بستن"
+
+msgid "Never"
+msgstr "هرگز"
+
+msgid "Only when the cart is not empty (WooCommerce)"
+msgstr "فقط وقتی سبد خرید خالی نیست (ووکامرس)"
+
+msgid "Always"
+msgstr "همیشه"
+
+msgid "Haptic feedback"
+msgstr "بازخورد لمسی"
+
+msgid "Light vibration on button taps, success and errors."
+msgstr "لرزش ملایم هنگام لمس دکمه‌ها، موفقیت و خطا."
+
+msgid "Enable haptic feedback"
+msgstr "فعال‌کردن بازخورد لمسی"
+
+msgid "Eitaa buttons"
+msgstr "دکمه‌های ایتا"
+
+msgid "Back button"
+msgstr "دکمهٔ بازگشت"
+
+msgid "Shows Eitaa's back button on inner pages (goes back in history); hidden on the entry page."
+msgstr "دکمهٔ بازگشت ایتا در صفحه‌های داخلی نمایش داده می‌شود (بازگشت در تاریخچه) و در صفحهٔ ورودی مخفی است."
+
+msgid "Show back button"
+msgstr "نمایش دکمهٔ بازگشت"
+
+msgid "Main button"
+msgstr "دکمهٔ اصلی"
+
+msgid "Show the main bottom button"
+msgstr "نمایش دکمهٔ اصلی پایین صفحه"
+
+msgid "Smart shop button"
+msgstr "دکمهٔ هوشمند فروشگاه"
+
+msgid "Shows “Cart (n)” when the cart has items, “Continue to checkout” on the cart page and hides itself on checkout. Updated live after add-to-cart."
+msgstr "وقتی سبد کالا دارد «سبد خرید (n)»، در صفحهٔ سبد «ادامه و پرداخت» را نشان می‌دهد و در صفحهٔ تسویه مخفی می‌شود. پس از افزودن به سبد به‌صورت زنده به‌روز می‌شود."
+
+msgid "Use WooCommerce cart behavior"
+msgstr "استفاده از رفتار سبد خرید ووکامرس"
+
+msgid "Main button text"
+msgstr "متن دکمهٔ اصلی"
+
+msgid "Used when the smart shop button has nothing to show (e.g. empty cart). Leave empty to hide the button in that case."
+msgstr "وقتی دکمهٔ هوشمند چیزی برای نمایش ندارد (مثلاً سبد خالی) استفاده می‌شود. خالی بگذارید تا در این حالت دکمه مخفی شود."
+
+msgid "Main button link"
+msgstr "پیوند دکمهٔ اصلی"
+
+msgid "Main button color"
+msgstr "رنگ دکمهٔ اصلی"
+
+msgid "Empty = Eitaa theme color."
+msgstr "خالی = رنگ پوستهٔ ایتا."
+
+msgid "Main button text color"
+msgstr "رنگ متن دکمهٔ اصلی"
+
+msgid "Secondary button"
+msgstr "دکمهٔ دوم"
+
+msgid "Requires Eitaa SDK 1.3+."
+msgstr "به SDK ایتا نسخهٔ ۱٫۳ به بالا نیاز دارد."
+
+msgid "Show a secondary bottom button"
+msgstr "نمایش دکمهٔ دوم پایین صفحه"
+
+msgid "Secondary button text"
+msgstr "متن دکمهٔ دوم"
+
+msgid "Secondary button link"
+msgstr "پیوند دکمهٔ دوم"
+
+msgid "Secondary button position"
+msgstr "جایگاه دکمهٔ دوم"
+
+msgid "Left of the main button"
+msgstr "سمت چپ دکمهٔ اصلی"
+
+msgid "Right of the main button"
+msgstr "سمت راست دکمهٔ اصلی"
+
+msgid "Above the main button"
+msgstr "بالای دکمهٔ اصلی"
+
+msgid "Below the main button"
+msgstr "پایین دکمهٔ اصلی"
+
+msgid "Settings menu item"
+msgstr "گزینهٔ تنظیمات در منو"
+
+msgid "Show “Settings” in the mini-app menu"
+msgstr "نمایش «تنظیمات» در منوی مینی‌اپ"
+
+msgid "Settings item opens"
+msgstr "گزینهٔ تنظیمات باز می‌کند"
+
+msgid "Empty = the user account page."
+msgstr "خالی = صفحهٔ حساب کاربری."
+
+msgid "Colors"
+msgstr "رنگ‌ها"
+
+msgid "Leave empty to follow the user's Eitaa theme (themeParams)."
+msgstr "برای پیروی از پوستهٔ ایتای کاربر (themeParams) خالی بگذارید."
+
+msgid "Header color"
+msgstr "رنگ هدر"
+
+msgid "Background color"
+msgstr "رنگ پس‌زمینه"
+
+msgid "Bottom bar color"
+msgstr "رنگ نوار پایین"
+
+msgid "App-like layout"
+msgstr "چیدمان اپ‌گونه"
+
+msgid "Add the CSS class <code>mw24-hide-in-eitaa</code> to any block, menu or widget to hide it inside the mini-app, or <code>mw24-show-in-eitaa</code> to show it only inside the mini-app. The body gets the classes <code>mw24-eitaa-app</code> and <code>mw24-eitaa-dark</code> / <code>mw24-eitaa-light</code>."
+msgstr "با افزودن کلاس CSS ‏<code>mw24-hide-in-eitaa</code> به هر بلوک، منو یا ابزارک، آن را داخل مینی‌اپ مخفی کنید یا با <code>mw24-show-in-eitaa</code> فقط داخل مینی‌اپ نمایش دهید. بدنهٔ صفحه کلاس‌های <code>mw24-eitaa-app</code> و <code>mw24-eitaa-dark</code> / <code>mw24-eitaa-light</code> را می‌گیرد."
+
+msgid "Also hide these elements"
+msgstr "این المان‌ها هم مخفی شوند"
+
+msgid "CSS selectors separated by commas or new lines, e.g. <code>#masthead, .site-footer, .whatsapp-button</code>."
+msgstr "انتخاب‌گرهای CSS جداشده با ویرگول یا خط جدید؛ مثلاً <code>#masthead, .site-footer, .whatsapp-button</code>."
+
+msgid "Custom CSS in mini-app mode"
+msgstr "CSS سفارشی در حالت مینی‌اپ"
+
+msgid "Loaded only inside the mini-app."
+msgstr "فقط داخل مینی‌اپ بارگذاری می‌شود."
+
+msgid "Start parameter routes"
+msgstr "مسیرهای پارامتر شروع"
+
+msgid "Links to your mini-app can carry a start parameter. Supported values: <code>p123</code> (post or product with ID 123), <code>cart</code>, <code>checkout</code>, <code>account</code>, <code>home</code> and <code>u:slug</code> (or <code>u_slug</code>) for the routes below. Routing happens only once per session."
+msgstr "پیوندهای مینی‌اپ می‌توانند پارامتر شروع داشته باشند. مقادیر پشتیبانی‌شده: <code>p123</code> (نوشته یا محصول با شناسهٔ ۱۲۳)، <code>cart</code>، <code>checkout</code>، <code>account</code>، <code>home</code> و <code>u:slug</code> (یا <code>u_slug</code>) برای مسیرهای زیر. مسیریابی فقط یک‌بار در هر نشست انجام می‌شود."
+
+msgid "Custom routes"
+msgstr "مسیرهای سفارشی"
+
+msgid "One per line: <code>slug = /relative/path/</code>, e.g. <code>offers = /shop/offers/</code>. Only relative paths of this site are accepted."
+msgstr "در هر خط یک مسیر: <code>slug = /relative/path/</code>؛ مثلاً <code>offers = /shop/offers/</code>. فقط مسیرهای نسبی همین سایت پذیرفته می‌شوند."
+
+msgid "The token was saved, but its format looks unusual. Please double-check it in Eitaayar."
+msgstr "توکن ذخیره شد، اما قالب آن غیرمعمول به نظر می‌رسد. لطفاً آن را در ایتایار دوباره بررسی کنید."
+
+msgid "The connection was not enabled: your site address must start with https:// because Eitaa only opens secure addresses."
+msgstr "اتصال فعال نشد: نشانی سایت باید با https://‎ شروع شود، چون ایتا فقط نشانی‌های امن را باز می‌کند."
+
+msgid "The connection was not enabled: please enter the app token first."
+msgstr "اتصال فعال نشد: لطفاً ابتدا توکن برنامه را وارد کنید."
+
+msgid "Your site address does not use HTTPS. Eitaa only opens secure (https://) addresses, so the connection cannot be enabled yet."
+msgstr "نشانی سایت شما از HTTPS استفاده نمی‌کند. ایتا فقط نشانی‌های امن (https://‎) را باز می‌کند، بنابراین فعلاً امکان فعال‌سازی اتصال نیست."
+
+msgid "Enable connection"
+msgstr "فعال‌سازی اتصال"
+
+msgid "When disabled, the plugin adds nothing to your site and the site behaves exactly as before."
+msgstr "در حالت غیرفعال، افزونه هیچ چیزی به سایت اضافه نمی‌کند و سایت دقیقاً مثل قبل رفتار می‌کند."
+
+msgid "Open my site as an Eitaa mini-app"
+msgstr "سایتم به‌صورت مینی‌اپ ایتا باز شود"
+
+msgid "App token"
+msgstr "توکن برنامه"
+
+msgid "Defined in wp-config.php"
+msgstr "تعریف‌شده در wp-config.php"
+
+msgid "The token comes from the MW24_EITAA_APP_TOKEN constant and cannot be changed here."
+msgstr "توکن از ثابت MW24_EITAA_APP_TOKEN خوانده می‌شود و از اینجا قابل تغییر نیست."
+
+msgid "A token is saved — enter a new one to replace it"
+msgstr "توکن ذخیره شده است — برای جایگزینی، توکن جدید وارد کنید"
+
+msgid "Saved"
+msgstr "ذخیره‌شده"
+
+msgid "Cannot be decrypted"
+msgstr "قابل رمزگشایی نیست"
+
+msgid "Not set"
+msgstr "تنظیم نشده"
+
+msgid "Get the token from eitaayar.ir › Apps › your app. It is stored encrypted, is never shown again and is only sent to Eitaayar."
+msgstr "توکن را از eitaayar.ir › برنامه‌ها › برنامهٔ خودتان بگیرید. توکن رمزنگاری‌شده ذخیره می‌شود، دیگر نمایش داده نمی‌شود و فقط برای ایتایار ارسال می‌شود."
+
+msgid "Delete the saved token? The connection will stop working."
+msgstr "توکن ذخیره‌شده حذف شود؟ اتصال از کار می‌افتد."
+
+msgid "Delete the saved token"
+msgstr "حذف توکن ذخیره‌شده"
+
+msgid "Tip: for extra security define the token in wp-config.php: <code>define( 'MW24_EITAA_APP_TOKEN', '...' );</code>"
+msgstr "نکته: برای امنیت بیشتر توکن را در wp-config.php تعریف کنید: <code>define( 'MW24_EITAA_APP_TOKEN', '...' );</code>"
+
+msgid "Mini-app address"
+msgstr "نشانی مینی‌اپ"
+
+msgid "Eitaa opens this URL when users start your app. It must be HTTPS and must not redirect."
+msgstr "وقتی کاربر برنامهٔ شما را شروع می‌کند، ایتا این نشانی را باز می‌کند. نشانی باید HTTPS باشد و نباید ریدایرکت شود."
+
+msgid "Entry URL"
+msgstr "نشانی ورودی"
+
+msgid "Entry page path"
+msgstr "مسیر صفحهٔ ورودی"
+
+msgid "Relative path of the page that opens first, e.g. <code>/</code> or <code>/shop/</code>. The parameter <code>?mw24_eitaa=1</code> is added automatically."
+msgstr "مسیر نسبی صفحه‌ای که اول باز می‌شود؛ مثلاً <code>/</code> یا <code>/shop/</code>. پارامتر <code>?mw24_eitaa=1</code> خودکار اضافه می‌شود."
+
+msgid "Registered in Eitaayar"
+msgstr "ثبت در ایتایار"
+
+msgid "I have saved the entry URL as the destination address of my app in Eitaayar"
+msgstr "نشانی ورودی را به‌عنوان «آدرس مقصد» برنامه‌ام در ایتایار ذخیره کرده‌ام"
+
+msgid "Automatic detection"
+msgstr "تشخیص خودکار"
+
+msgid "Also treat visitors as mini-app users when their User-Agent or Referer contains one of the patterns below. <strong>Not reliable</strong> — Eitaa does not guarantee these values; the entry URL is the dependable method."
+msgstr "اگر User-Agent یا Referer بازدیدکننده شامل یکی از الگوهای زیر بود، او هم کاربر مینی‌اپ در نظر گرفته شود. <strong>قابل اتکا نیست</strong> — ایتا این مقادیر را تضمین نمی‌کند؛ روش مطمئن، نشانی ورودی است."
+
+msgid "Use User-Agent / Referer heuristics"
+msgstr "استفاده از تشخیص بر اساس User-Agent / Referer"
+
+msgid "Heuristic patterns"
+msgstr "الگوهای تشخیص"
+
+msgid "Comma separated, case-insensitive."
+msgstr "جداشده با ویرگول، بدون حساسیت به حروف کوچک و بزرگ."
+
+msgid "Security"
+msgstr "امنیت"
+
+msgid "Maximum age of Eitaa data"
+msgstr "حداکثر عمر دادهٔ ایتا"
+
+msgid "Signed initData older than this is rejected (auth_date check)."
+msgstr "initData امضاشدهٔ قدیمی‌تر از این مقدار رد می‌شود (بررسی auth_date)."
+
+msgid "hours"
+msgstr "ساعت"
+
+msgid "Second check with Eitaa server"
+msgstr "بررسی دوم با سرور ایتا"
+
+msgid "After the local HMAC check, also confirm the hash with eitaayar.ir/api/app/verify. Each hash can be verified once within one minute; successful results are cached. Network failures do not block logins."
+msgstr "پس از بررسی محلی HMAC، hash با eitaayar.ir/api/app/verify هم تأیید شود. هر hash فقط یک‌بار و تا یک دقیقه قابل تأیید است؛ نتیجهٔ موفق ذخیره می‌شود. خطای شبکه مانع ورود نمی‌شود."
+
+msgid "Verify hashes with Eitaayar"
+msgstr "تأیید hash با ایتایار"
+
+msgid "Client IP source"
+msgstr "منبع IP کاربر"
+
+msgid "Only change this when your site is behind a CDN or reverse proxy that sets the header (e.g. Cloudflare, ArvanCloud). Wrong values allow IP spoofing."
+msgstr "فقط وقتی سایت پشت CDN یا پراکسی معکوسی است که این هدر را تنظیم می‌کند (مثل کلودفلر یا ابر آروان) تغییر دهید. مقدار نادرست امکان جعل IP را فراهم می‌کند."
+
+msgid "default"
+msgstr "پیش‌فرض"
+
+msgid "Embedding (iframe)"
+msgstr "جاسازی (iframe)"
+
+msgid "Only needed if Eitaa shows your site inside a frame (e.g. a web client). Android and desktop apps use a normal WebView."
+msgstr "فقط وقتی لازم است که ایتا سایت را داخل فریم نمایش دهد (مثلاً نسخهٔ وب). اپ‌های اندروید و دسکتاپ از WebView معمولی استفاده می‌کنند."
+
+msgid "Allow framing by Eitaa"
+msgstr "اجازهٔ نمایش در فریم ایتا"
+
+msgid "In mini-app mode remove X-Frame-Options and send a Content-Security-Policy frame-ancestors header for the domains below. Headers added by your web server cannot be removed by WordPress."
+msgstr "در حالت مینی‌اپ، هدر X-Frame-Options حذف و هدر Content-Security-Policy با frame-ancestors برای دامنه‌های زیر ارسال می‌شود. هدرهایی که وب‌سرور اضافه می‌کند با وردپرس قابل حذف نیستند."
+
+msgid "Adjust frame headers in mini-app mode"
+msgstr "تنظیم هدرهای فریم در حالت مینی‌اپ"
+
+msgid "Allowed frame ancestors"
+msgstr "دامنه‌های مجاز برای فریم"
+
+msgid "Space separated sources."
+msgstr "منابع جداشده با فاصله."
+
+msgid "Cross-site cookies"
+msgstr "کوکی‌های بین‌سایتی"
+
+msgid "Send login and cart cookies with SameSite=None; Secure in mini-app mode so they work inside a third-party frame."
+msgstr "کوکی‌های ورود و سبد خرید در حالت مینی‌اپ با SameSite=None; Secure ارسال شوند تا داخل فریم شخص ثالث هم کار کنند."
+
+msgid "Use SameSite=None cookies in mini-app mode"
+msgstr "استفاده از کوکی SameSite=None در حالت مینی‌اپ"
+
+msgid "Advanced"
+msgstr "پیشرفته"
+
+msgid "Force SDK as first script"
+msgstr "اجبار SDK به‌عنوان اولین اسکریپت"
+
+msgid "The official SDK (developer.eitaa.com/eitaa-web-app.js) is printed at the very top of wp_head. Enable this only if your theme prints scripts before wp_head(): the SDK will be injected right after the opening &lt;head&gt; tag using output buffering."
+msgstr "SDK رسمی (developer.eitaa.com/eitaa-web-app.js) در بالاترین نقطهٔ wp_head چاپ می‌شود. فقط اگر قالب شما پیش از wp_head()‎ اسکریپت چاپ می‌کند این گزینه را فعال کنید: SDK با بافر خروجی بلافاصله بعد از تگ &lt;head&gt; تزریق می‌شود."
+
+msgid "Inject the SDK right after <head>"
+msgstr "تزریق SDK بلافاصله بعد از <head>"
+
+msgid "Eitaa Connect — Dashboard"
+msgstr "اتصال به ایتا — داشبورد"
+
+msgid "The site is served over HTTPS"
+msgstr "سایت روی HTTPS ارائه می‌شود"
+
+msgid "Eitaa only opens HTTPS addresses. Install an SSL certificate and switch the site address to https://."
+msgstr "ایتا فقط نشانی‌های HTTPS را باز می‌کند. گواهی SSL نصب کنید و نشانی سایت را به https://‎ تغییر دهید."
+
+msgid "App token saved"
+msgstr "توکن برنامه ذخیره شده است"
+
+msgid "Copy the token of your app from the Eitaayar panel and paste it in the connection settings."
+msgstr "توکن برنامه را از پنل ایتایار کپی کنید و در تنظیمات اتصال قرار دهید."
+
+msgid "Mini-app address registered in Eitaayar"
+msgstr "نشانی مینی‌اپ در ایتایار ثبت شده است"
+
+msgid "Register the entry URL shown in the connection settings as the destination address of your app, then tick the confirmation box."
+msgstr "نشانی ورودی نمایش‌داده‌شده در تنظیمات اتصال را به‌عنوان آدرس مقصد برنامه ثبت کنید و سپس گزینهٔ تأیید را تیک بزنید."
+
+msgid "Connection enabled"
+msgstr "اتصال فعال است"
+
+msgid "Turn on the connection switch in the connection settings."
+msgstr "کلید اتصال را در تنظیمات اتصال روشن کنید."
+
+msgid "Token tested with a test message"
+msgstr "توکن با پیام آزمایشی تست شده است"
+
+msgid "Open the mini-app once while logged in as administrator, then send a test message from Tools."
+msgstr "یک‌بار در حالی که با حساب مدیر وارد سایت هستید مینی‌اپ را باز کنید، سپس از بخش ابزارها پیام آزمایشی بفرستید."
+
+msgid "Phone sync reviewed"
+msgstr "همگام‌سازی شماره بررسی شده است"
+
+msgid "Review the detected login plugins and phone fields, then save the phone sync settings."
+msgstr "افزونه‌های ورود شناسایی‌شده و فیلدهای شماره را بررسی و تنظیمات همگام‌سازی را ذخیره کنید."
+
+msgid "At least one notification enabled"
+msgstr "دست‌کم یک اعلان فعال است"
+
+msgid "Choose which events should send an Eitaa message."
+msgstr "انتخاب کنید کدام رویدادها پیام ایتا ارسال کنند."
+
+msgid "Setup progress"
+msgstr "پیشرفت راه‌اندازی"
+
+msgid "%d%% ready"
+msgstr "%d%% آماده"
+
+msgid "Next step:"
+msgstr "قدم بعدی:"
+
+msgid "Do it now"
+msgstr "همین حالا انجام دهید"
+
+msgid "Everything is set up. Your site works as an Eitaa mini-app."
+msgstr "همه چیز آماده است. سایت شما به‌عنوان مینی‌اپ ایتا کار می‌کند."
+
+msgid "Mini-app entry URL"
+msgstr "نشانی ورودی مینی‌اپ"
+
+msgid "Register this address as the destination address of your app in Eitaayar (it must not redirect)."
+msgstr "این نشانی را به‌عنوان آدرس مقصد برنامه در ایتایار ثبت کنید (نباید ریدایرکت شود)."
+
+msgid "Active"
+msgstr "فعال"
+
+msgid "Inactive"
+msgstr "غیرفعال"
+
+msgid "Eitaa has no in-app payment API. Payments are made through your own site payment gateway, exactly as in a normal browser."
+msgstr "ایتا API پرداخت درون‌برنامه‌ای ندارد. پرداخت دقیقاً مثل مرورگر معمولی با درگاه پرداخت سایت خودتان انجام می‌شود."
+
+msgid "Registrations (30 days)"
+msgstr "ثبت‌نام‌ها (۳۰ روز)"
+
+msgid "Eitaa logins (30 days)"
+msgstr "ورودهای ایتا (۳۰ روز)"
+
+msgid "Messages sent (30 days)"
+msgstr "پیام‌های ارسال‌شده (۳۰ روز)"
+
+msgid "Failed messages (30 days)"
+msgstr "پیام‌های ناموفق (۳۰ روز)"
+
+msgid "Messages waiting in queue"
+msgstr "پیام‌های منتظر در صف"
+
+msgid "Last message"
+msgstr "آخرین پیام"
+
+msgid "No message has been sent yet."
+msgstr "هنوز پیامی ارسال نشده است."
+
+msgid "Delivered"
+msgstr "تحویل شد"
+
+msgid "Failed"
+msgstr "ناموفق"
+
+msgid "Recipient:"
+msgstr "گیرنده:"
+
+msgid "Recent events"
+msgstr "رویدادهای اخیر"
+
+msgid "Nothing logged yet."
+msgstr "هنوز چیزی ثبت نشده است."
+
+msgid "View full log"
+msgstr "مشاهدهٔ کامل لاگ"
+
+msgid "Help & guide"
+msgstr "راهنما"
+
+msgid "Quick start (about 10 minutes)"
+msgstr "شروع سریع (حدود ۱۰ دقیقه)"
+
+msgid "Make sure your site opens with <strong>https://</strong>. Eitaa does not open insecure addresses."
+msgstr "مطمئن شوید سایت شما با <strong>https://‎</strong> باز می‌شود. ایتا نشانی‌های ناامن را باز نمی‌کند."
+
+msgid "Log in to <a href=\"https://eitaayar.ir\" target=\"_blank\" rel=\"noopener noreferrer\">eitaayar.ir</a> and open <strong>Apps</strong> (برنامه). Complete the developer identity verification if you are asked to."
+msgstr "وارد <a href=\"https://eitaayar.ir\" target=\"_blank\" rel=\"noopener noreferrer\">eitaayar.ir</a> شوید و بخش <strong>برنامه</strong> را باز کنید. اگر خواسته شد، احراز هویت توسعه‌دهنده را کامل کنید."
+
+msgid "Click <strong>Add app</strong> and fill in the icon, title, username, description and button text."
+msgstr "روی <strong>افزودن برنامه</strong> بزنید و آیکون، عنوان، نام کاربری، توضیحات و عبارت دکمه را وارد کنید."
+
+msgid "In <strong>Destination address</strong> enter your entry URL: <code>%s</code> (it must not redirect, e.g. from http to https or from www to non-www)."
+msgstr "در فیلد <strong>آدرس مقصد</strong> نشانی ورودی را وارد کنید: <code>%s</code> (نباید ریدایرکت شود؛ مثلاً از http به https یا از www به بدون www)."
+
+msgid "Save the app and copy its <strong>token</strong> from Eitaayar."
+msgstr "برنامه را ذخیره کنید و <strong>توکن</strong> آن را از ایتایار کپی کنید."
+
+msgid "In WordPress go to <strong>Eitaa Connect › Connection</strong>, paste the token, tick “Registered in Eitaayar”, enable the connection and save."
+msgstr "در وردپرس به <strong>اتصال به ایتا › تنظیمات اتصال</strong> بروید، توکن را قرار دهید، گزینهٔ «ثبت در ایتایار» را تیک بزنید، اتصال را فعال و ذخیره کنید."
+
+msgid "Open your app in Eitaa (Android or desktop) while logged in to WordPress as administrator — this links your own Eitaa account."
+msgstr "در حالی که با حساب مدیر وارد وردپرس هستید، برنامه را در ایتا (اندروید یا دسکتاپ) باز کنید — حساب ایتای شما متصل می‌شود."
+
+msgid "Go to <strong>Tools › Test the token</strong> and send a test message to yourself. If it arrives, everything works."
+msgstr "به <strong>ابزارها › آزمایش توکن</strong> بروید و برای خودتان پیام آزمایشی بفرستید. اگر پیام رسید، همه چیز درست کار می‌کند."
+
+msgid "Review <strong>Login & phone sync</strong> (confirm detected plugins such as Digits) and choose your <strong>Notifications</strong>."
+msgstr "بخش <strong>ورود و همگام‌سازی شماره</strong> را بررسی کنید (افزونه‌های شناسایی‌شده مثل Digits را تأیید کنید) و <strong>اعلان‌ها</strong> را انتخاب کنید."
+
+msgid "Optional: under your app in Eitaayar add a mini-app (برنامک) with the same address and request publication in the Eitaa mini-app center."
+msgstr "اختیاری: زیر برنامهٔ خود در ایتایار یک برنامک با همین نشانی اضافه کنید و درخواست انتشار در مرکز برنامک‌های ایتا را بدهید."
+
+msgid "Important: Eitaa has no in-app payment API. Customers pay through your own site payment gateway inside the mini-app, exactly like in a browser."
+msgstr "مهم: ایتا API پرداخت درون‌برنامه‌ای ندارد. مشتری داخل مینی‌اپ، دقیقاً مثل مرورگر، با درگاه پرداخت سایت شما پرداخت می‌کند."
+
+msgid "How login works"
+msgstr "ورود چگونه کار می‌کند"
+
+msgid "When the mini-app opens, Eitaa gives the page a signed data string (initData). The plugin checks its HMAC-SHA256 signature with your token on the server."
+msgstr "با باز شدن مینی‌اپ، ایتا یک رشتهٔ دادهٔ امضاشده (initData) به صفحه می‌دهد. افزونه امضای HMAC-SHA256 آن را با توکن شما روی سرور بررسی می‌کند."
+
+msgid "If that Eitaa account is already linked to a user, the user is logged in at once."
+msgstr "اگر آن حساب ایتا قبلاً به کاربری متصل شده باشد، کاربر بلافاصله وارد می‌شود."
+
+msgid "Otherwise the visitor is asked to share the phone number. Eitaa signs the number too, so it is trusted without SMS codes."
+msgstr "در غیر این صورت از بازدیدکننده خواسته می‌شود شماره‌اش را به اشتراک بگذارد. ایتا شماره را هم امضا می‌کند، پس بدون کد پیامکی قابل اعتماد است."
+
+msgid "The number is searched in every phone field (Digits, WooCommerce, your own fields…). The matching user is logged in, or a new account is created."
+msgstr "شماره در همهٔ فیلدهای شماره (Digits، ووکامرس، فیلدهای خودتان…) جست‌وجو می‌شود. کاربر منطبق وارد می‌شود یا حساب جدید ساخته می‌شود."
+
+msgid "Administrators and editors are never logged in this way (unless you explicitly allow it)."
+msgstr "مدیران و ویرایشگران هرگز از این راه وارد نمی‌شوند (مگر اینکه صریحاً اجازه دهید)."
+
+msgid "Useful tools for designers"
+msgstr "ابزارهای کاربردی برای طراحان"
+
+msgid "Shortcode <code>[mw24_eitaa_login]</code> or the “Eitaa login button” block shows a login button."
+msgstr "شورت‌کد <code>[mw24_eitaa_login]</code> یا بلوک «دکمهٔ ورود با ایتا» دکمهٔ ورود را نمایش می‌دهد."
+
+msgid "CSS class <code>mw24-hide-in-eitaa</code> hides an element inside the mini-app; <code>mw24-show-in-eitaa</code> shows it only there."
+msgstr "کلاس CSS ‏<code>mw24-hide-in-eitaa</code> المان را داخل مینی‌اپ مخفی می‌کند و <code>mw24-show-in-eitaa</code> فقط همان‌جا نمایش می‌دهد."
+
+msgid "Body classes: <code>mw24-eitaa-app</code>, <code>mw24-eitaa-dark</code>, <code>mw24-eitaa-light</code>, <code>mw24-eitaa-fullscreen</code>."
+msgstr "کلاس‌های بدنه: <code>mw24-eitaa-app</code>، <code>mw24-eitaa-dark</code>، <code>mw24-eitaa-light</code>، <code>mw24-eitaa-fullscreen</code>."
+
+msgid "Eitaa theme colors are available as CSS variables such as <code>var(--tg-theme-bg-color)</code> and <code>var(--tg-theme-button-color)</code>."
+msgstr "رنگ‌های پوستهٔ ایتا به‌صورت متغیرهای CSS مثل <code>var(--tg-theme-bg-color)</code> و <code>var(--tg-theme-button-color)</code> در دسترس‌اند."
+
+msgid "Start parameters: <code>p123</code>, <code>cart</code>, <code>checkout</code>, <code>account</code>, <code>home</code>, <code>u:slug</code>."
+msgstr "پارامترهای شروع: <code>p123</code>، <code>cart</code>، <code>checkout</code>، <code>account</code>، <code>home</code>، <code>u:slug</code>."
+
+msgid "Debugging inside Eitaa"
+msgstr "رفع اشکال داخل ایتا"
+
+msgid "Android"
+msgstr "اندروید"
+
+msgid "Enable USB debugging on the phone."
+msgstr "اشکال‌زدایی USB را در تنظیمات گوشی فعال کنید."
+
+msgid "In Eitaa settings scroll to the bottom, touch and hold the version number, release, then touch and hold it again to open the debug menu."
+msgstr "در تنظیمات ایتا به پایین‌ترین سطر بروید، شمارهٔ نسخه را لمس کنید و نگه دارید، رها کنید و دوباره لمس کنید و نگه دارید تا منوی رفع اشکال باز شود."
+
+msgid "Choose <strong>Enable WebView Debug</strong>."
+msgstr "گزینهٔ <strong>Enable WebView Debug</strong> را انتخاب کنید."
+
+msgid "Connect the phone to a computer and open <code>chrome://inspect#devices</code> in Chrome or Edge."
+msgstr "گوشی را به رایانه وصل کنید و در کروم یا اج نشانی <code>chrome://inspect#devices</code> را باز کنید."
+
+msgid "Desktop"
+msgstr "دسکتاپ"
+
+msgid "Eitaa settings › Advanced › Experimental settings › enable <strong>Enable webview inspecting</strong>."
+msgstr "تنظیمات ایتا › پیشرفته › تنظیمات آزمایشی › گزینهٔ <strong>Enable webview inspecting</strong> را فعال کنید."
+
+msgid "Open the mini-app, right-click and choose Inspect."
+msgstr "مینی‌اپ را باز کنید، راست‌کلیک کنید و Inspect را بزنید."
+
+msgid "Turn on Debug mode in Tools to see the plugin's diagnostics in the console."
+msgstr "حالت اشکال‌زدایی را در ابزارها روشن کنید تا گزارش‌های افزونه را در کنسول ببینید."
+
+msgid "Frequently asked questions"
+msgstr "سؤالات متداول"
+
+msgid "The page opens in Eitaa but I am not logged in."
+msgstr "صفحه در ایتا باز می‌شود اما وارد حساب نمی‌شوم."
+
+msgid "Check that the address registered in Eitaayar is exactly the entry URL (with ?mw24_eitaa=1), that the token is correct and look at the Log page for “auth.failed” entries."
+msgstr "بررسی کنید نشانی ثبت‌شده در ایتایار دقیقاً همان نشانی ورودی (همراه ?mw24_eitaa=1) باشد و توکن درست باشد؛ همچنین در صفحهٔ لاگ دنبال رویدادهای «auth.failed» بگردید."
+
+msgid "My cache plugin breaks the mini-app."
+msgstr "افزونهٔ کش، مینی‌اپ را خراب می‌کند."
+
+msgid "Mini-app pages are sent as private/no-cache. If your cache still serves them, exclude the cookie mw24_eitaa_app and URLs containing mw24_eitaa in the cache settings."
+msgstr "صفحه‌های مینی‌اپ با هدر private/no-cache ارسال می‌شوند. اگر کش همچنان آن‌ها را تحویل می‌دهد، کوکی mw24_eitaa_app و نشانی‌های دارای mw24_eitaa را در تنظیمات کش مستثنا کنید."
+
+msgid "Messages are not delivered."
+msgstr "پیام‌ها تحویل نمی‌شوند."
+
+msgid "Eitaa only delivers to users who opened your mini-app and allowed messages. Check your message credit in Eitaayar and the Log page."
+msgstr "ایتا فقط به کاربرانی پیام می‌رساند که مینی‌اپ شما را باز کرده و اجازهٔ پیام داده‌اند. اعتبار پیام را در ایتایار و صفحهٔ لاگ بررسی کنید."
+
+msgid "Does it work on iPhone?"
+msgstr "روی آیفون کار می‌کند؟"
+
+msgid "Eitaa currently runs mini-apps on Android and desktop (Windows). Your site keeps working normally for all other visitors."
+msgstr "ایتا فعلاً مینی‌اپ‌ها را روی اندروید و دسکتاپ (ویندوز) اجرا می‌کند. سایت شما برای سایر بازدیدکنندگان مثل همیشه کار می‌کند."
+
+msgid "What happens when I disable the plugin?"
+msgstr "با غیرفعال‌کردن افزونه چه اتفاقی می‌افتد؟"
+
+msgid "With the connection switched off nothing is added to your pages and the site behaves exactly as before. Users keep their accounts and phone numbers."
+msgstr "با خاموش‌کردن اتصال هیچ چیزی به صفحه‌ها اضافه نمی‌شود و سایت دقیقاً مثل قبل رفتار می‌کند. حساب‌ها و شماره‌های کاربران باقی می‌ماند."
+
+msgid "For developers"
+msgstr "برای توسعه‌دهندگان"
+
+msgid "Main hooks and functions (see docs/developer-guide in the package for details):"
+msgstr "مهم‌ترین هوک‌ها و توابع (جزئیات در docs/developer-guide داخل بسته):"
+
+msgid "Login & registration"
+msgstr "ورود و ثبت‌نام"
+
+msgid "Phone sync"
+msgstr "همگام‌سازی شماره"
+
+msgid "Automatic login"
+msgstr "ورود خودکار"
+
+msgid "Users are identified by the mobile number that Eitaa signs and verifies — no password or SMS code is needed."
+msgstr "کاربران با شمارهٔ موبایلی که ایتا امضا و تأیید می‌کند شناسایی می‌شوند — بدون نیاز به رمز عبور یا کد پیامکی."
+
+msgid "Login with Eitaa"
+msgstr "ورود با ایتا"
+
+msgid "Log users in automatically inside the mini-app"
+msgstr "ورود خودکار کاربران داخل مینی‌اپ"
+
+msgid "Registration"
+msgstr "ثبت‌نام"
+
+msgid "Create an account when no user owns the shared number. Username: 98XXXXXXXXXX, e-mail: 98XXXXXXXXXX@eitaa.invalid (placeholder)."
+msgstr "اگر هیچ کاربری مالک شمارهٔ ارسالی نبود، حساب ساخته شود. نام کاربری: 98XXXXXXXXXX، ایمیل جایگزین: ‎98XXXXXXXXXX@eitaa.invalid."
+
+msgid "Create new accounts automatically"
+msgstr "ساخت خودکار حساب جدید"
+
+msgid "Role of new users"
+msgstr "نقش کاربران جدید"
+
+msgid "Only roles without editing or administration capabilities can be selected."
+msgstr "فقط نقش‌هایی که قابلیت ویرایش یا مدیریت ندارند قابل انتخاب‌اند."
+
+msgid "Names"
+msgstr "نام‌ها"
+
+msgid "Fill empty first/last names from Eitaa"
+msgstr "نام و نام خانوادگی خالی از ایتا پر شود"
+
+msgid "Trusted device"
+msgstr "دستگاه مورد اعتماد"
+
+msgid "Keeps the user logged in inside Eitaa with a long “remember me” cookie."
+msgstr "کاربر با کوکی طولانی «مرا به خاطر بسپار» داخل ایتا وارد باقی می‌ماند."
+
+msgid "Remember the login"
+msgstr "ورود به خاطر سپرده شود"
+
+msgid "Remember for"
+msgstr "مدت به خاطر سپردن"
+
+msgid "days"
+msgstr "روز"
+
+msgid "After login go to"
+msgstr "پس از ورود برو به"
+
+msgid "Empty = stay on the current page."
+msgstr "خالی = ماندن در همان صفحه."
+
+msgid "Message permission"
+msgstr "اجازهٔ ارسال پیام"
+
+msgid "After login, ask users who have not allowed messages yet to allow them (needed for notifications)."
+msgstr "پس از ورود، از کاربرانی که هنوز اجازهٔ پیام نداده‌اند درخواست اجازه شود (برای اعلان‌ها لازم است)."
+
+msgid "Ask for permission to send messages"
+msgstr "درخواست اجازهٔ ارسال پیام"
+
+msgid "Asking for the phone number"
+msgstr "درخواست شمارهٔ موبایل"
+
+msgid "When to ask"
+msgstr "زمان درخواست"
+
+msgid "“Later” hides the bar until the mini-app is opened again."
+msgstr "«بعداً» نوار را تا باز شدن دوبارهٔ مینی‌اپ پنهان می‌کند."
+
+msgid "Immediately on any page"
+msgstr "بلافاصله در هر صفحه"
+
+msgid "Only on cart and checkout pages"
+msgstr "فقط در صفحه‌های سبد خرید و تسویه‌حساب"
+
+msgid "Only when the login button is clicked"
+msgstr "فقط با کلیک روی دکمهٔ ورود"
+
+msgid "Native dialog"
+msgstr "پنجرهٔ بومی"
+
+msgid "Skip the bottom bar and open Eitaa's own phone sharing dialog directly."
+msgstr "بدون نوار پایین، مستقیماً پنجرهٔ اشتراک شمارهٔ خود ایتا باز شود."
+
+msgid "Open the Eitaa dialog without the bar"
+msgstr "باز کردن پنجرهٔ ایتا بدون نوار"
+
+msgid "Bar text"
+msgstr "متن نوار"
+
+msgid "“Share” button"
+msgstr "دکمهٔ «اشتراک شماره»"
+
+msgid "“Later” button"
+msgstr "دکمهٔ «بعداً»"
+
+msgid "Login button"
+msgstr "دکمهٔ ورود"
+
+msgid "Use the shortcode <code>[mw24_eitaa_login]</code> or the “Eitaa login button” block anywhere. Attributes: <code>label</code>, <code>class</code>, <code>redirect</code>, <code>show_linked=\"yes\"</code>."
+msgstr "شورت‌کد <code>[mw24_eitaa_login]</code> یا بلوک «دکمهٔ ورود با ایتا» را هر جا لازم دارید قرار دهید. ویژگی‌ها: <code>label</code>، <code>class</code>، <code>redirect</code>، <code>show_linked=\"yes\"</code>."
+
+msgid "Button text"
+msgstr "متن دکمه"
+
+msgid "WordPress login page"
+msgstr "صفحهٔ ورود وردپرس"
+
+msgid "Add the button to wp-login.php"
+msgstr "افزودن دکمه به wp-login.php"
+
+msgid "WooCommerce login form"
+msgstr "فرم ورود ووکامرس"
+
+msgid "Add the button to the My account login form"
+msgstr "افزودن دکمه به فرم ورود «حساب کاربری من»"
+
+msgid "Outside Eitaa"
+msgstr "خارج از ایتا"
+
+msgid "Eitaa login only works inside the mini-app."
+msgstr "ورود با ایتا فقط داخل مینی‌اپ کار می‌کند."
+
+msgid "Show a hint instead of the button"
+msgstr "نمایش پیام راهنما به‌جای دکمه"
+
+msgid "Hide the button"
+msgstr "مخفی‌کردن دکمه"
+
+msgid "Hint text"
+msgstr "متن راهنما"
+
+msgid "Mini-app link"
+msgstr "پیوند مینی‌اپ"
+
+msgid "Optional direct link to your mini-app in Eitaa (from Eitaayar). Shown under the hint."
+msgstr "پیوند مستقیم اختیاری به مینی‌اپ شما در ایتا (از ایتایار). زیر پیام راهنما نمایش داده می‌شود."
+
+msgid "Privileged accounts"
+msgstr "حساب‌های دارای دسترسی بالا"
+
+msgid "Administrators and editors"
+msgstr "مدیران و ویرایشگران"
+
+msgid "<strong>Not recommended.</strong> By default accounts that can edit posts or manage options can never log in through Eitaa. Enable only if you understand the risk: anyone with access to the linked Eitaa account could enter your admin area."
+msgstr "<strong>توصیه نمی‌شود.</strong> به‌طور پیش‌فرض حساب‌هایی که قابلیت ویرایش نوشته یا مدیریت تنظیمات دارند هرگز از طریق ایتا وارد نمی‌شوند. فقط در صورت آگاهی از خطر فعال کنید: هر کسی که به حساب ایتای متصل دسترسی داشته باشد می‌تواند وارد پیشخوان شما شود."
+
+msgid "Allow privileged accounts to log in with Eitaa"
+msgstr "اجازهٔ ورود حساب‌های دارای دسترسی بالا با ایتا"
+
+msgid "Tell the plugin where other login/registration plugins keep the mobile number. When a user logs in with Eitaa, every place below is searched (in five number formats) and the verified number is written back to all of them, so Digits, WooCommerce and others recognize the same user."
+msgstr "به افزونه بگویید سایر افزونه‌های ورود/ثبت‌نام شمارهٔ موبایل را کجا نگه می‌دارند. هنگام ورود با ایتا همهٔ این مکان‌ها (با پنج شکل شماره) جست‌وجو می‌شوند و شمارهٔ تأییدشده در همهٔ آن‌ها نوشته می‌شود تا Digits، ووکامرس و دیگران همان کاربر را بشناسند."
+
+msgid "1. Ready-made profiles"
+msgstr "۱. پروفایل‌های آماده"
+
+msgid "Detected plugins are enabled automatically; you only need to confirm. Undetected profiles can be enabled manually."
+msgstr "افزونه‌های شناسایی‌شده خودکار فعال می‌شوند و فقط کافی است تأیید کنید. پروفایل‌های شناسایی‌نشده را می‌توانید دستی فعال کنید."
+
+msgid "Plugin"
+msgstr "افزونه"
+
+msgid "Status"
+msgstr "وضعیت"
+
+msgid "Fields"
+msgstr "فیلدها"
+
+msgid "Auto-detected: %s"
+msgstr "تشخیص خودکار: %s"
+
+msgid "Confirmed"
+msgstr "تأییدشده"
+
+msgid "Needs confirmation"
+msgstr "نیازمند تأیید"
+
+msgid "Not detected"
+msgstr "شناسایی نشده"
+
+msgid "Template — verify the field"
+msgstr "الگو — فیلد را بررسی کنید"
+
+msgid "%1$s = %2$s (fixed)"
+msgstr "%1$s = %2$s (ثابت)"
+
+msgid "search"
+msgstr "جست‌وجو"
+
+msgid "No fixed field. Load the existing meta keys below and add the right one to the manual map."
+msgstr "فیلد ثابتی ندارد. متاکلیدهای موجود را در پایین بارگذاری کنید و کلید درست را به نقشهٔ دستی اضافه کنید."
+
+msgid "Suggested patterns:"
+msgstr "الگوهای پیشنهادی:"
+
+msgid "Developers can add or update profiles with JSON files in <code>profiles/</code> or the <code>mw24_eitaa_phone_profiles</code> filter."
+msgstr "توسعه‌دهندگان می‌توانند با فایل‌های JSON در پوشهٔ <code>profiles/</code> یا فیلتر <code>mw24_eitaa_phone_profiles</code> پروفایل اضافه یا به‌روزرسانی کنند."
+
+msgid "2. Manual map on user meta"
+msgstr "۲. نقشهٔ دستی روی متای کاربر"
+
+msgid "Pick one or more meta keys that really exist in your database and choose the format in which each one stores the number."
+msgstr "یک یا چند متاکلید که واقعاً در دیتابیس شما وجود دارد انتخاب کنید و قالب ذخیرهٔ شماره در هرکدام را تعیین کنید."
+
+msgid "Format"
+msgstr "قالب"
+
+msgid "Custom pattern"
+msgstr "الگوی سفارشی"
+
+msgid "Write"
+msgstr "نوشتن"
+
+msgid "+ Add meta key"
+msgstr "+ افزودن متاکلید"
+
+msgid "Custom pattern placeholders: <code>{cc}</code> = 98, <code>{national}</code> = 912XXXXXXX, <code>{local}</code> = 0912XXXXXXX. Example: <code>+{cc}-{national}</code>."
+msgstr "جای‌گذارهای الگوی سفارشی: <code>{cc}</code> = 98، <code>{national}</code> = 912XXXXXXX، <code>{local}</code> = 0912XXXXXXX. مثال: <code>+{cc}-{national}</code>."
+
+msgid "Helper fields with a fixed value"
+msgstr "فیلدهای کمکی با مقدار ثابت"
+
+msgid "Written together with the number, e.g. a country code field (+98) or a “verified” flag (1)."
+msgstr "همراه شماره نوشته می‌شوند؛ مثلاً فیلد کد کشور (+98) یا نشان «تأییدشده» (1)."
+
+msgid "+ Add helper field"
+msgstr "+ افزودن فیلد کمکی"
+
+msgid "Meta keys found in your database"
+msgstr "متاکلیدهای موجود در دیتابیس"
+
+msgid "Read-only list of user meta keys with the number of rows, the share of phone-like values and a masked sample. Keys that look like phone numbers are listed first. The list is cached for 12 hours."
+msgstr "فهرست فقط‌خواندنی متاکلیدهای کاربر همراه با تعداد ردیف، درصد مقادیر شبیه شماره و یک نمونهٔ ماسک‌شده. کلیدهای شبیه شماره در ابتدا می‌آیند. این فهرست ۱۲ ساعت کش می‌شود."
+
+msgid "Show meta keys"
+msgstr "نمایش متاکلیدها"
+
+msgid "Refresh list"
+msgstr "بازخوانی فهرست"
+
+msgid "3. Map on a custom table"
+msgstr "۳. نقشه روی جدول سفارشی"
+
+msgid "For plugins that keep phone numbers in their own table. Only existing tables/columns can be chosen (read with SHOW TABLES / DESCRIBE)."
+msgstr "برای افزونه‌هایی که شماره را در جدول اختصاصی خود نگه می‌دارند. فقط جدول‌ها و ستون‌های موجود قابل انتخاب‌اند (خوانده‌شده با SHOW TABLES / DESCRIBE)."
+
+msgid "Enable"
+msgstr "فعال‌سازی"
+
+msgid "Use a custom table"
+msgstr "استفاده از جدول سفارشی"
+
+msgid "Table"
+msgstr "جدول"
+
+msgid "Load tables"
+msgstr "بارگذاری جدول‌ها"
+
+msgid "Phone column"
+msgstr "ستون شماره"
+
+msgid "User ID column (wp_users.ID)"
+msgstr "ستون شناسهٔ کاربر (wp_users.ID)"
+
+msgid "Mode"
+msgstr "حالت"
+
+msgid "Read only (search users but never insert/update rows)"
+msgstr "فقط خواندنی (جست‌وجوی کاربر بدون درج یا به‌روزرسانی ردیف)"
+
+msgid "Other columns on insert"
+msgstr "سایر ستون‌ها هنگام درج"
+
+msgid "Select a table to see its columns. Required columns (NOT NULL without default) need a value."
+msgstr "برای دیدن ستون‌ها یک جدول انتخاب کنید. ستون‌های اجباری (NOT NULL بدون مقدار پیش‌فرض) باید مقدار داشته باشند."
+
+msgid "Matching options"
+msgstr "گزینه‌های تطبیق"
+
+msgid "Also match the number against usernames and the local part of e-mail addresses"
+msgstr "شماره با نام کاربری و بخش قبل از @ ایمیل‌ها هم تطبیق داده شود"
+
+msgid "Useful when a phone-login plugin used the number as username. Disable it if visitors can freely choose usernames on your site."
+msgstr "وقتی افزونهٔ ورود با موبایل، شماره را نام کاربری قرار داده مفید است. اگر بازدیدکنندگان می‌توانند آزادانه نام کاربری انتخاب کنند، غیرفعالش کنید."
+
+msgid "Save and confirm phone sync"
+msgstr "ذخیره و تأیید همگام‌سازی شماره"
+
+msgid "Test the map (dry-run)"
+msgstr "آزمایش نقشه (Dry-run)"
+
+msgid "Enter a mobile number to see which user would log in and which values would be written. Nothing is changed."
+msgstr "یک شمارهٔ موبایل وارد کنید تا ببینید کدام کاربر وارد می‌شود و چه مقادیری نوشته می‌شود. هیچ چیزی تغییر نمی‌کند."
+
+msgid "Test"
+msgstr "آزمایش"
+
+msgid "Remove"
+msgstr "حذف"
+
+msgid "Event log"
+msgstr "لاگ رویدادها"
+
+msgid "Logins, registrations, messages and errors. Phone numbers are masked and the app token is never logged."
+msgstr "ورودها، ثبت‌نام‌ها، پیام‌ها و خطاها. شماره‌ها ماسک می‌شوند و توکن برنامه هرگز ثبت نمی‌شود."
+
+msgid "Entries older than %d days are deleted automatically."
+msgstr "رویدادهای قدیمی‌تر از %d روز خودکار حذف می‌شوند."
+
+msgid "Entries are kept until you clear the log."
+msgstr "رویدادها تا زمانی که لاگ را پاک کنید باقی می‌مانند."
+
+msgid "Search log"
+msgstr "جست‌وجو در لاگ"
+
+msgid "Clear the log"
+msgstr "پاک‌کردن لاگ"
+
+msgid "Delete all log entries?"
+msgstr "همهٔ رویدادهای لاگ حذف شوند؟"
+
+msgid "Eitaa notifications"
+msgstr "اعلان‌های ایتا"
+
+msgid "Event notifications"
+msgstr "اعلان‌های رویدادی"
+
+msgid "Bulk send"
+msgstr "ارسال گروهی"
+
+msgid "Eitaa only delivers messages to users who opened your mini-app and allowed messages. The first 50,000 messages are free; more credit can be bought in Eitaayar."
+msgstr "ایتا فقط به کاربرانی پیام می‌رساند که مینی‌اپ شما را باز کرده و اجازهٔ پیام داده‌اند. ۵۰٬۰۰۰ پیام اول رایگان است و اعتبار بیشتر از ایتایار قابل خرید است."
+
+msgid "Placeholders: %s"
+msgstr "جای‌گذارها: %s"
+
+msgid "Send"
+msgstr "ارسال"
+
+msgid "Delivery"
+msgstr "نحوهٔ ارسال"
+
+msgid "Sending mode"
+msgstr "حالت ارسال"
+
+msgid "The queue keeps checkout and admin screens fast; messages are sent in the background by Action Scheduler or WP-Cron."
+msgstr "صف، سرعت تسویه‌حساب و پیشخوان را حفظ می‌کند؛ پیام‌ها در پس‌زمینه با Action Scheduler یا WP-Cron ارسال می‌شوند."
+
+msgid "Background queue (recommended)"
+msgstr "صف پس‌زمینه (پیشنهادی)"
+
+msgid "Immediately (slower pages)"
+msgstr "فوری (صفحه‌ها کندتر)"
+
+msgid "Queue speed"
+msgstr "سرعت صف"
+
+msgid "messages per minute"
+msgstr "پیام در دقیقه"
+
+msgid "Permission"
+msgstr "اجازه"
+
+msgid "Skip users whose signed Eitaa data says they did not allow messages."
+msgstr "کاربرانی که طبق دادهٔ امضاشدهٔ ایتا اجازهٔ پیام نداده‌اند رد شوند."
+
+msgid "Only message users who allowed messages"
+msgstr "فقط به کاربرانی که اجازهٔ پیام داده‌اند ارسال شود"
+
+msgid "Admin recipients"
+msgstr "گیرندگان مدیریتی"
+
+msgid "Administrators and shop managers receive admin notifications after they open the mini-app once while logged in (this links their account)."
+msgstr "مدیران و مدیران فروشگاه پس از یک‌بار باز کردن مینی‌اپ در حالت ورود (که حسابشان را متصل می‌کند) اعلان‌های مدیریتی را دریافت می‌کنند."
+
+msgid "All linked administrators and shop managers"
+msgstr "همهٔ مدیران و مدیران فروشگاه متصل"
+
+msgid "Extra admin chat IDs"
+msgstr "شناسه‌های ایتای مدیریتی اضافه"
+
+msgid "Eitaa user IDs, one per line."
+msgstr "شناسهٔ کاربری ایتا، در هر خط یکی."
+
+msgid "Account events"
+msgstr "رویدادهای حساب کاربری"
+
+msgid "Welcome (new Eitaa registration)"
+msgstr "خوش‌آمد (ثبت‌نام جدید با ایتا)"
+
+msgid "New registration (to admins)"
+msgstr "ثبت‌نام جدید (برای مدیران)"
+
+msgid "For every new user, whatever the registration method."
+msgstr "برای هر کاربر جدید، با هر روش ثبت‌نامی."
+
+msgid "New login (security alert)"
+msgstr "ورود جدید (هشدار امنیتی)"
+
+msgid "Password changed"
+msgstr "تغییر رمز عبور"
+
+msgid "WooCommerce orders"
+msgstr "سفارش‌های ووکامرس"
+
+msgid "Order status changes"
+msgstr "تغییر وضعیت سفارش"
+
+msgid "Sent to the customer when the order moves to one of the selected statuses."
+msgstr "وقتی سفارش به یکی از وضعیت‌های انتخاب‌شده می‌رود، برای مشتری ارسال می‌شود."
+
+msgid "Statuses"
+msgstr "وضعیت‌ها"
+
+msgid "Default message"
+msgstr "پیام پیش‌فرض"
+
+msgid "Per-status messages"
+msgstr "پیام برای هر وضعیت"
+
+msgid "Optional: a different text for each status"
+msgstr "اختیاری: متن جداگانه برای هر وضعیت"
+
+msgid "Empty = default message"
+msgstr "خالی = پیام پیش‌فرض"
+
+msgid "New order (to admins)"
+msgstr "سفارش جدید (برای مدیران)"
+
+msgid "Note to customer"
+msgstr "یادداشت برای مشتری"
+
+msgid "Tracking code"
+msgstr "کد رهگیری"
+
+msgid "Sent once when the tracking code meta of an order is filled or changed."
+msgstr "وقتی متای کد رهگیری سفارش پر یا تغییر داده شود، یک‌بار ارسال می‌شود."
+
+msgid "Tracking code meta key"
+msgstr "متاکلید کد رهگیری"
+
+msgid "Order meta key where your shipping plugin stores the code, e.g. <code>_tracking_code</code>."
+msgstr "متاکلید سفارش که افزونهٔ ارسال، کد را در آن ذخیره می‌کند؛ مثلاً <code>_tracking_code</code>."
+
+msgid "Abandoned cart"
+msgstr "سبد خرید رهاشده"
+
+msgid "Reminds linked users who left items in their cart (checked hourly, once per cart)."
+msgstr "به کاربران متصلی که کالا را در سبد رها کرده‌اند یادآوری می‌کند (بررسی ساعتی، یک‌بار برای هر سبد)."
+
+msgid "Remind after"
+msgstr "یادآوری پس از"
+
+msgid "Developers can change any text with the <code>mw24_eitaa_notification_text</code> filter."
+msgstr "توسعه‌دهندگان می‌توانند هر متنی را با فیلتر <code>mw24_eitaa_notification_text</code> تغییر دهند."
+
+msgid "All roles"
+msgstr "همهٔ نقش‌ها"
+
+msgid "New bulk message"
+msgstr "پیام گروهی جدید"
+
+msgid "Messages are queued and sent in the background at the queue speed set in the Event notifications tab."
+msgstr "پیام‌ها در صف قرار می‌گیرند و با سرعت تعیین‌شده در زبانهٔ «اعلان‌های رویدادی» در پس‌زمینه ارسال می‌شوند."
+
+msgid "Internal title"
+msgstr "عنوان داخلی"
+
+msgid "Role"
+msgstr "نقش"
+
+msgid "Connected between"
+msgstr "تاریخ اتصال بین"
+
+msgid "Only users who allowed messages"
+msgstr "فقط کاربرانی که اجازهٔ پیام داده‌اند"
+
+msgid "Count recipients"
+msgstr "شمارش گیرندگان"
+
+msgid "Queue this message for all matching users?"
+msgstr "این پیام برای همهٔ کاربران منطبق در صف قرار گیرد؟"
+
+msgid "Queue message"
+msgstr "قرار دادن در صف"
+
+msgid "Bulk send reports"
+msgstr "گزارش ارسال‌های گروهی"
+
+msgid "No bulk message has been sent yet."
+msgstr "هنوز پیام گروهی ارسال نشده است."
+
+msgid "Title"
+msgstr "عنوان"
+
+msgid "Created"
+msgstr "ایجاد"
+
+msgid "Total"
+msgstr "کل"
+
+msgid "Sent"
+msgstr "ارسال‌شده"
+
+msgid "Waiting"
+msgstr "در انتظار"
+
+msgid "Retry failed"
+msgstr "تلاش دوباره برای ناموفق‌ها"
+
+msgid "Test the token"
+msgstr "آزمایش توکن"
+
+msgid "Eitaa has no “check token” API, so the token is tested by sending a real test message."
+msgstr "ایتا API «بررسی توکن» ندارد، بنابراین توکن با ارسال یک پیام آزمایشی واقعی بررسی می‌شود."
+
+msgid "Your admin account is not linked yet: open the mini-app in Eitaa while logged in to this site (this links your account), or enter an Eitaa user ID below."
+msgstr "حساب مدیریتی شما هنوز متصل نیست: در حالی که وارد این سایت هستید مینی‌اپ را در ایتا باز کنید (حسابتان متصل می‌شود) یا شناسهٔ کاربری ایتا را در زیر وارد کنید."
+
+msgid "Recipient Eitaa ID"
+msgstr "شناسهٔ ایتای گیرنده"
+
+msgid "Text"
+msgstr "متن"
+
+msgid "Test message from %s — the Eitaa connection works."
+msgstr "پیام آزمایشی از %s — اتصال ایتا کار می‌کند."
+
+msgid "Send test message"
+msgstr "ارسال پیام آزمایشی"
+
+msgid "Last successful test: %s"
+msgstr "آخرین آزمایش موفق: %s"
+
+msgid "Test the phone map (dry-run)"
+msgstr "آزمایش نقشهٔ شماره (Dry-run)"
+
+msgid "Shows which user a number resolves to and what would be written. Nothing is changed."
+msgstr "نشان می‌دهد هر شماره به کدام کاربر می‌رسد و چه چیزی نوشته می‌شود. هیچ چیزی تغییر نمی‌کند."
+
+msgid "Sync existing users"
+msgstr "همگام‌سازی گذشته (کاربران موجود)"
+
+msgid "For users that already have a number in one phone field but not in the others, copy it to the missing fields. Different existing numbers are never overwritten and numbers owned by another user are skipped. Runs in the background in batches of 100 users."
+msgstr "برای کاربرانی که در یک فیلد شماره دارند اما در فیلدهای دیگر ندارند، شماره در فیلدهای خالی کپی می‌شود. شماره‌های متفاوتِ موجود هرگز بازنویسی نمی‌شوند و شماره‌ای که متعلق به کاربر دیگری است رد می‌شود. اجرا در پس‌زمینه و در دسته‌های ۱۰۰تایی."
+
+msgid "Preview (first 200 users)"
+msgstr "پیش‌نمایش (۲۰۰ کاربر اول)"
+
+msgid "Start syncing phone numbers of all users?"
+msgstr "همگام‌سازی شمارهٔ همهٔ کاربران شروع شود؟"
+
+msgid "Start sync"
+msgstr "شروع همگام‌سازی"
+
+msgid "Run one batch now"
+msgstr "اجرای یک دسته همین حالا"
+
+msgid "Cancel"
+msgstr "لغو"
+
+msgid "Message queue"
+msgstr "صف پیام"
+
+msgid "Waiting: %1$s — Sent: %2$s — Failed: %3$s"
+msgstr "در انتظار: %1$s — ارسال‌شده: %2$s — ناموفق: %3$s"
+
+msgid "Process queue now"
+msgstr "پردازش صف همین حالا"
+
+msgid "Retry failed messages"
+msgstr "تلاش دوباره برای پیام‌های ناموفق"
+
+msgid "Remove sent/failed"
+msgstr "حذف ارسال‌شده‌ها و ناموفق‌ها"
+
+msgid "Empty queue"
+msgstr "خالی‌کردن صف"
+
+msgid "Delete all queued messages, including those not sent yet?"
+msgstr "همهٔ پیام‌های صف، حتی پیام‌های ارسال‌نشده، حذف شوند؟"
+
+msgid "Maintenance"
+msgstr "نگهداری"
+
+msgid "Keep log entries for"
+msgstr "مدت نگهداری لاگ"
+
+msgid "0 = keep forever."
+msgstr "۰ = نگهداری دائمی."
+
+msgid "Debug mode"
+msgstr "حالت اشکال‌زدایی"
+
+msgid "Logs extra details and prints diagnostics in the browser console of the mini-app. Turn off on production sites."
+msgstr "جزئیات بیشتری ثبت و گزارش‌های عیب‌یابی را در کنسول مرورگر مینی‌اپ چاپ می‌کند. در سایت اصلی خاموش باشد."
+
+msgid "Enable debug mode"
+msgstr "فعال‌کردن حالت اشکال‌زدایی"
+
+msgid "Uninstall"
+msgstr "حذف افزونه"
+
+msgid "When the plugin is deleted, also remove its tables, settings, token and the Eitaa data of users. Phone numbers written to other plugins' fields are kept."
+msgstr "هنگام حذف افزونه، جدول‌ها، تنظیمات، توکن و داده‌های ایتای کاربران هم حذف شوند. شماره‌هایی که در فیلدهای افزونه‌های دیگر نوشته شده باقی می‌مانند."
+
+msgid "Delete all plugin data on uninstall"
+msgstr "حذف همهٔ داده‌های افزونه هنگام حذف"
+
+msgid "Clear cached data"
+msgstr "پاک‌کردن داده‌های کش"
+
+msgid "Reset settings to defaults"
+msgstr "بازگرداندن تنظیمات به پیش‌فرض"
+
+msgid "Reset all settings? The token and phone maps are kept."
+msgstr "همهٔ تنظیمات به پیش‌فرض برگردد؟ توکن و نقشه‌های شماره حفظ می‌شوند."
+
+msgid "Plugin version"
+msgstr "نسخهٔ افزونه"
+
+msgid "WordPress"
+msgstr "وردپرس"
+
+msgid "PHP"
+msgstr "PHP"
+
+msgid "WooCommerce"
+msgstr "ووکامرس"
+
+msgid "Not active"
+msgstr "غیرفعال"
+
+msgid "HTTPS"
+msgstr "HTTPS"
+
+msgid "Yes"
+msgstr "بله"
+
+msgid "No"
+msgstr "خیر"
+
+msgid "Token encryption"
+msgstr "رمزنگاری توکن"
+
+msgid "Token defined in wp-config.php"
+msgstr "توکن در wp-config.php تعریف شده است"
+
+msgid "OpenSSL missing — stored without encryption"
+msgstr "OpenSSL موجود نیست — بدون رمزنگاری ذخیره می‌شود"
+
+msgid "Background jobs"
+msgstr "کارهای پس‌زمینه"
+
+msgid "WP-Cron disabled — make sure a server cron calls wp-cron.php"
+msgstr "WP-Cron غیرفعال است — مطمئن شوید کران سرور، wp-cron.php را اجرا می‌کند"
+
+msgid "Detected login plugins"
+msgstr "افزونه‌های ورود شناسایی‌شده"
+
+msgid "Cache plugins"
+msgstr "افزونه‌های کش"
+
+msgid "exclude the cookie mw24_eitaa_app from page cache"
+msgstr "کوکی mw24_eitaa_app را از کش صفحه مستثنا کنید"
+
+msgid "REST endpoint"
+msgstr "نقطهٔ پایانی REST"
+
+msgid "System status"
+msgstr "وضعیت سیستم"
+
+msgid "Users connected to Eitaa"
+msgstr "کاربران متصل به ایتا"
+
+msgid "Send an Eitaa message"
+msgstr "ارسال پیام ایتا"
+
+msgid "Message text…"
+msgstr "متن پیام…"
+
+msgid "Send now"
+msgstr "ارسال فوری"
+
+msgid "Search name, mobile or Eitaa ID"
+msgstr "جست‌وجوی نام، موبایل یا شناسهٔ ایتا"
+
+msgid "Test message from Eitaa Connect."
+msgstr "پیام آزمایشی از افزونهٔ اتصال به ایتا."
+
+msgid "The test message was delivered. Your token works."
+msgstr "پیام آزمایشی تحویل شد. توکن شما درست کار می‌کند."
+
+msgid "Eitaa"
+msgstr "ایتا"
+
+msgid "Connected"
+msgstr "متصل"
+
+msgid "messages not allowed"
+msgstr "اجازهٔ پیام نداده"
+
+msgid "Not connected"
+msgstr "متصل نیست"
+
+msgid "Open the site from the Eitaa mini-app while logged in to connect."
+msgstr "برای اتصال، در حالت ورود، سایت را از مینی‌اپ ایتا باز کنید."
+
+msgid "Name in Eitaa"
+msgstr "نام در ایتا"
+
+msgid "Messages allowed"
+msgstr "اجازهٔ پیام"
+
+msgid "Connected on"
+msgstr "تاریخ اتصال"
+
+msgid "Last seen in mini-app"
+msgstr "آخرین حضور در مینی‌اپ"
+
+msgid "Verified mobile"
+msgstr "موبایل تأییدشده"
+
+msgid "Disconnect"
+msgstr "قطع اتصال"
+
+msgid "Disconnect this Eitaa account when saving"
+msgstr "با ذخیره، اتصال این حساب ایتا قطع شود"
+
+msgid "Send a message"
+msgstr "ارسال پیام"
+
+msgid "Last message:"
+msgstr "آخرین پیام:"
+
+msgid "Mobile"
+msgstr "موبایل"
+
+msgid "Actions"
+msgstr "عملیات"
+
+msgid "No user has connected an Eitaa account yet."
+msgstr "هنوز هیچ کاربری حساب ایتا متصل نکرده است."
+
+msgid "Send message"
+msgstr "ارسال پیام"
+
+msgid "Disconnect this Eitaa account?"
+msgstr "اتصال این حساب ایتا قطع شود؟"
+
+msgid "This Eitaa account is already connected to another user account."
+msgstr "این حساب ایتا قبلاً به حساب کاربری دیگری متصل شده است."
+
+msgid "Only Iranian mobile numbers can be used to log in."
+msgstr "فقط با شمارهٔ موبایل ایرانی می‌توان وارد شد."
+
+msgid "This mobile number belongs to another account on this site."
+msgstr "این شمارهٔ موبایل متعلق به حساب دیگری در این سایت است."
+
+msgid "No account was found for this mobile number and new registrations are closed."
+msgstr "حسابی با این شمارهٔ موبایل پیدا نشد و ثبت‌نام جدید بسته است."
+
+msgid "Eitaa connection is not active on this site."
+msgstr "اتصال ایتا در این سایت فعال نیست."
+
+msgid "Eitaa data is missing. Please open the site from the Eitaa mini-app."
+msgstr "دادهٔ ایتا ارسال نشده است. لطفاً سایت را از مینی‌اپ ایتا باز کنید."
+
+msgid "The shared contact is missing."
+msgstr "اطلاعات تماس ارسال نشده است."
+
+msgid "Eitaa login failed. Please close the mini-app, open it again and retry."
+msgstr "ورود با ایتا انجام نشد. لطفاً مینی‌اپ را ببندید، دوباره باز کنید و مجدد تلاش کنید."
+
+msgid "Too many attempts. Please wait a few minutes and try again."
+msgstr "تعداد تلاش‌ها زیاد است. چند دقیقه صبر کنید و دوباره تلاش کنید."
+
+msgid "Your account could not be created. Please contact the site administrator."
+msgstr "ساخت حساب شما ممکن نشد. لطفاً با مدیر سایت تماس بگیرید."
+
+msgid "Cart (%d)"
+msgstr "سبد خرید (%d)"
+
+msgid "Continue to checkout"
+msgstr "ادامه و پرداخت"
+
+msgid "Logging you in…"
+msgstr "در حال ورود…"
+
+msgid "You can log in with your Eitaa number any time from the login button."
+msgstr "هر زمان خواستید می‌توانید با دکمهٔ ورود، با شمارهٔ ایتا وارد شوید."
+
+msgid "Please update your Eitaa app to use this feature."
+msgstr "برای استفاده از این قابلیت، ایتا را به‌روزرسانی کنید."
+
+msgid "Connection problem. Please check your internet and try again."
+msgstr "مشکل در ارتباط. اتصال اینترنت را بررسی کنید و دوباره تلاش کنید."
+
+msgid "Your Eitaa account is now connected."
+msgstr "حساب ایتای شما متصل شد."
+
+msgid "Zhaket"
+msgstr "ژاکت"
+
+msgid "RTL-Theme"
+msgstr "راست‌چین"
+
+msgid "The marketplace license endpoint is not configured in this build."
+msgstr "نشانی سرویس لایسنس مارکت در این نسخه تنظیم نشده است."
+
+msgid "Unexpected response from the license server."
+msgstr "پاسخ غیرمنتظره از سرور لایسنس."
+
+msgid "The license was removed from this site."
+msgstr "لایسنس از این سایت حذف شد."
+
+msgid "No license entered"
+msgstr "لایسنسی وارد نشده است"
+
+msgid "License is valid — updates are enabled"
+msgstr "لایسنس معتبر است — به‌روزرسانی فعال است"
+
+msgid "License is not valid — automatic updates are disabled (all features keep working)"
+msgstr "لایسنس معتبر نیست — به‌روزرسانی خودکار غیرفعال است (همهٔ قابلیت‌ها کار می‌کنند)"
+
+msgid "License has expired — automatic updates are disabled (all features keep working)"
+msgstr "لایسنس منقضی شده — به‌روزرسانی خودکار غیرفعال است (همهٔ قابلیت‌ها کار می‌کنند)"
+
+msgid "License check is not available in this build"
+msgstr "بررسی لایسنس در این نسخه در دسترس نیست"
+
+msgid "The license server could not be reached"
+msgstr "ارتباط با سرور لایسنس برقرار نشد"
+
+msgid "Product license"
+msgstr "لایسنس محصول"
+
+msgid "The license is only used for automatic updates. Users, logins and messages never depend on it."
+msgstr "لایسنس فقط برای به‌روزرسانی خودکار استفاده می‌شود. کاربران، ورودها و پیام‌ها هرگز به آن وابسته نیستند."
+
+msgid "License key"
+msgstr "کلید لایسنس"
+
+msgid "expires: %s"
+msgstr "انقضا: %s"
+
+msgid "Activate / check"
+msgstr "فعال‌سازی / بررسی"
+
+msgid "Remove license"
+msgstr "حذف لایسنس"
+
+msgid "Connected to Eitaa"
+msgstr "متصل به ایتا"
+
+msgid "Connect my Eitaa account"
+msgstr "اتصال حساب ایتای من"
+
+msgid "Eitaa login button"
+msgstr "دکمهٔ ورود با ایتا"
+
+msgid "Leave empty to use the text from the plugin settings."
+msgstr "برای استفاده از متن تنظیمات افزونه خالی بگذارید."
+
+msgid "Shown only to guests. Inside the Eitaa mini-app it logs the visitor in with their Eitaa number; outside Eitaa it is hidden or shows a hint (see settings)."
+msgstr "فقط به مهمان‌ها نمایش داده می‌شود. داخل مینی‌اپ ایتا بازدیدکننده را با شمارهٔ ایتا وارد می‌کند و خارج از ایتا مخفی می‌شود یا پیام راهنما نشان می‌دهد (طبق تنظیمات)."
+
+msgid "The selected table does not exist."
+msgstr "جدول انتخاب‌شده وجود ندارد."
+
+msgid "No table selected."
+msgstr "هیچ جدولی انتخاب نشده است."
+
+msgid "The phone or user ID column does not exist in the selected table."
+msgstr "ستون شماره یا شناسهٔ کاربر در جدول انتخاب‌شده وجود ندارد."
+
+msgid "The phone column and the user ID column must be different."
+msgstr "ستون شماره و ستون شناسهٔ کاربر باید متفاوت باشند."
+
+msgid "An extra column does not exist in the selected table."
+msgstr "یکی از ستون‌های اضافه در جدول انتخاب‌شده وجود ندارد."
+
+msgid "The custom table map is not valid."
+msgstr "نقشهٔ جدول سفارشی معتبر نیست."
+
+msgid "The custom table map is read-only."
+msgstr "نقشهٔ جدول سفارشی فقط خواندنی است."
+
+msgid "Writing to the custom table failed."
+msgstr "نوشتن در جدول سفارشی ناموفق بود."
+
+msgid "The Eitaa app token is not configured."
+msgstr "توکن برنامهٔ ایتا تنظیم نشده است."
+
+msgid "The recipient has no Eitaa account connected."
+msgstr "گیرنده حساب ایتای متصل ندارد."
+
+msgid "The message text is empty."
+msgstr "متن پیام خالی است."
+
+msgid "Eitaayar rejected the message: %s"
+msgstr "ایتایار پیام را رد کرد: %s"
+
+msgid "Eitaayar did not confirm the delivery. Make sure the user opened your mini-app and allowed messages."
+msgstr "ایتایار تحویل پیام را تأیید نکرد. مطمئن شوید کاربر مینی‌اپ شما را باز کرده و اجازهٔ پیام داده است."
+
+msgid "Could not reach Eitaayar: %s"
+msgstr "ارتباط با ایتایار برقرار نشد: %s"
+
+msgid "Unexpected response from Eitaayar (HTTP %d)."
+msgstr "پاسخ غیرمنتظره از ایتایار (HTTP %d)."
+
+msgid "This is not a valid Iranian mobile number."
+msgstr "این شمارهٔ موبایل ایرانی معتبر نیست."
+
+msgid "Eitaa data must be sent in the X-Eitaa-Init-Data header, never in the URL."
+msgstr "دادهٔ ایتا باید در هدر X-Eitaa-Init-Data ارسال شود، هرگز در نشانی (URL)."
+
+msgid "Log in instantly with your Eitaa number — no password or SMS code needed."
+msgstr "با شمارهٔ ایتای خود فوری وارد شوید — بدون رمز عبور و کد پیامکی."
+
+msgid "Share my number"
+msgstr "اشتراک شماره"
+
+msgid "Later"
+msgstr "بعداً"
+
+msgid "Log in with Eitaa"
+msgstr "ورود با ایتا"
+
+msgid "To log in with Eitaa, open this site from our Eitaa mini-app."
+msgstr "برای ورود با ایتا، سایت را از مینی‌اپ ما در ایتا باز کنید."
+
+msgid ""
+"Hello {name}!\n"
+"Your account at {site} was created with your Eitaa number.\n"
+"{link}"
+msgstr ""
+"سلام {name}!\n"
+"حساب کاربری شما در {site} با شمارهٔ ایتا ساخته شد.\n"
+"{link}"
+
+msgid ""
+"New user registered at {site}: {name} ({user_login})\n"
+"{link}"
+msgstr ""
+"کاربر جدید در {site} ثبت‌نام کرد: {name} ({user_login})\n"
+"{link}"
+
+msgid ""
+"Hello {name}, a new login to your {site} account was recorded on {date}.\n"
+"If it wasn't you, change your password: {link}"
+msgstr ""
+"سلام {name}، ورود جدیدی به حساب شما در {site} در تاریخ {date} ثبت شد.\n"
+"اگر شما نبودید، رمز عبور را تغییر دهید: {link}"
+
+msgid ""
+"Hello {name}, the password of your {site} account was changed on {date}.\n"
+"If you did not do this, contact support immediately."
+msgstr ""
+"سلام {name}، رمز عبور حساب شما در {site} در تاریخ {date} تغییر کرد.\n"
+"اگر این کار را انجام نداده‌اید، فوراً با پشتیبانی تماس بگیرید."
+
+msgid ""
+"Hello {name}, order #{order_number} at {site} is now: {status}.\n"
+"Total: {total}\n"
+"{link}"
+msgstr ""
+"سلام {name}، وضعیت سفارش #{order_number} در {site}: {status}\n"
+"مبلغ: {total}\n"
+"{link}"
+
+msgid ""
+"New order #{order_number} at {site}\n"
+"Customer: {name}\n"
+"Total: {total}\n"
+"{link}"
+msgstr ""
+"سفارش جدید #{order_number} در {site}\n"
+"مشتری: {name}\n"
+"مبلغ: {total}\n"
+"{link}"
+
+msgid ""
+"Hello {name}, a new note was added to order #{order_number}:\n"
+"{note}\n"
+"{link}"
+msgstr ""
+"سلام {name}، یادداشت جدیدی برای سفارش #{order_number} ثبت شد:\n"
+"{note}\n"
+"{link}"
+
+msgid ""
+"Hello {name}, order #{order_number} has been shipped.\n"
+"Tracking code: {tracking}\n"
+"{link}"
+msgstr ""
+"سلام {name}، سفارش #{order_number} ارسال شد.\n"
+"کد رهگیری: {tracking}\n"
+"{link}"
+
+msgid ""
+"Hello {name}, you left {cart_count} item(s) in your cart at {site}. Complete your purchase here:\n"
+"{link}"
+msgstr ""
+"سلام {name}، {cart_count} کالا در سبد خرید شما در {site} مانده است. خریدتان را از اینجا کامل کنید:\n"
+"{link}"
+
+msgid "The message could not be queued."
+msgstr "قرار دادن پیام در صف ممکن نشد."
+
+msgid "Eitaa Connect needs PHP %1$s+ and WordPress %2$s+. The plugin is inactive until the server is upgraded."
+msgstr "افزونهٔ اتصال به ایتا به PHP نسخهٔ %1$s به بالا و وردپرس %2$s به بالا نیاز دارد. تا ارتقای سرور، افزونه غیرفعال می‌ماند."
+
+msgid "Open in Eitaa"
+msgstr "باز کردن در ایتا"
+

@@ -1,0 +1,17 @@
+{
+	"id": "mihanpanel",
+	"name": "MihanPanel",
+	"version": "1.0.0",
+	"verified": false,
+	"priority": 80,
+	"source": "Template: the phone field key depends on the MihanPanel version and its field settings.",
+	"detect": {
+		"plugins": [ "mihanpanel", "mihanpanel-lite", "mihanpanel-pro" ]
+	},
+	"fields": [],
+	"suggest_like": [ "%phone%", "%mobile%" ],
+	"notes": {
+		"en": "Detected, but the field name differs between installations: open “Meta keys found in your database” below and add the phone key to the manual map.",
+		"fa": "شناسایی شد، اما نام فیلد شماره در نصب‌های مختلف فرق دارد: از بخش «متاکلیدهای موجود در دیتابیس» کلید شماره را به نقشهٔ دستی اضافه کنید."
+	}
+}

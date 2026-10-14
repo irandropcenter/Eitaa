@@ -1,0 +1,88 @@
+/**
+ * Eitaa Connect — "Log in with Eitaa" button.
+ *
+ * Inside the mini-app (html.mw24-eitaa-app) the button is shown; outside Eitaa the
+ * optional hint is shown instead.
+ *
+ * @package MW24_Eitaa
+ */
+
+.mw24-eitaa-login {
+	margin: 12px 0;
+	text-align: center;
+}
+
+.mw24-eitaa-login__btn {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	gap: 8px;
+	width: 100%;
+	max-width: 360px;
+	min-height: 44px;
+	margin: 0;
+	padding: 10px 18px;
+	border: 0;
+	border-radius: 10px;
+	background: var(--tg-theme-button-color, #f37021);
+	color: var(--tg-theme-button-text-color, #ffffff);
+	font: inherit;
+	font-weight: 600;
+	line-height: 1.4;
+	cursor: pointer;
+}
+
+.mw24-eitaa-login__btn:hover,
+.mw24-eitaa-login__btn:focus {
+	filter: brightness(1.05);
+	color: var(--tg-theme-button-text-color, #ffffff);
+}
+
+.mw24-eitaa-login__icon {
+	display: inline-block;
+	width: 18px;
+	height: 18px;
+	border-radius: 50%;
+	background: currentColor;
+	-webkit-mask: radial-gradient(circle at 50% 50%, transparent 4px, #000 4.5px);
+	mask: radial-gradient(circle at 50% 50%, transparent 4px, #000 4.5px);
+}
+
+.mw24-eitaa-login__hint {
+	display: none;
+	margin: 8px 0 0;
+	font-size: 13px;
+	opacity: 0.85;
+}
+
+.mw24-eitaa-login__linked {
+	display: inline-flex;
+	align-items: center;
+	gap: 6px;
+	color: #16a34a;
+	font-weight: 600;
+}
+
+html:not(.mw24-eitaa-app) .mw24-eitaa-login__btn {
+	display: none;
+}
+
+html:not(.mw24-eitaa-app) .mw24-eitaa-login__hint {
+	display: block;
+}
+
+/* wp-login.php */
+.login .mw24-eitaa-login--wp {
+	margin: 0 0 16px;
+	clear: both;
+}
+
+/* Block editor preview */
+html .mw24-eitaa-login--preview .mw24-eitaa-login__btn {
+	display: inline-flex;
+}
+
+.mw24-eitaa-login__preview-note {
+	font-size: 12px;
+	opacity: 0.7;
+}

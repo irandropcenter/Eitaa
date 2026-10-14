@@ -1,0 +1,2550 @@
+[
+    {
+        "context": "",
+        "msgid": "Eitaa Connect — Mihanweb24"
+    },
+    {
+        "context": "",
+        "msgid": "Opens your WordPress / WooCommerce site as an Eitaa mini-app, logs visitors in with their Eitaa-verified mobile number, syncs that number with any login/registration plugin and sends Eitaa messages."
+    },
+    {
+        "context": "",
+        "msgid": "Mihanweb24"
+    },
+    {
+        "context": "block title",
+        "msgid": "Eitaa login button"
+    },
+    {
+        "context": "block description",
+        "msgid": "Lets visitors log in with their Eitaa-verified mobile number inside the Eitaa mini-app."
+    },
+    {
+        "context": "block keyword",
+        "msgid": "eitaa"
+    },
+    {
+        "context": "block keyword",
+        "msgid": "login"
+    },
+    {
+        "context": "block keyword",
+        "msgid": "mobile"
+    },
+    {
+        "context": "",
+        "msgid": "Enabled"
+    },
+    {
+        "context": "",
+        "msgid": "Automatic (customer with WooCommerce, otherwise the site default)"
+    },
+    {
+        "context": "",
+        "msgid": "Time"
+    },
+    {
+        "context": "",
+        "msgid": "Level"
+    },
+    {
+        "context": "",
+        "msgid": "Event"
+    },
+    {
+        "context": "",
+        "msgid": "Message"
+    },
+    {
+        "context": "",
+        "msgid": "User"
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa ID"
+    },
+    {
+        "context": "",
+        "msgid": "IP"
+    },
+    {
+        "context": "",
+        "msgid": "All levels"
+    },
+    {
+        "context": "",
+        "msgid": "All events"
+    },
+    {
+        "context": "",
+        "msgid": "Filter"
+    },
+    {
+        "context": "",
+        "msgid": "The log is empty."
+    },
+    {
+        "context": "",
+        "msgid": "Details"
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa Connect"
+    },
+    {
+        "context": "",
+        "msgid": "Dashboard"
+    },
+    {
+        "context": "",
+        "msgid": "Connection"
+    },
+    {
+        "context": "",
+        "msgid": "Appearance & behavior"
+    },
+    {
+        "context": "",
+        "msgid": "Login & phone sync"
+    },
+    {
+        "context": "",
+        "msgid": "Notifications"
+    },
+    {
+        "context": "",
+        "msgid": "Connected users"
+    },
+    {
+        "context": "",
+        "msgid": "Log"
+    },
+    {
+        "context": "",
+        "msgid": "Tools"
+    },
+    {
+        "context": "",
+        "msgid": "Help"
+    },
+    {
+        "context": "",
+        "msgid": "You do not have permission to access this page."
+    },
+    {
+        "context": "",
+        "msgid": "Loading…"
+    },
+    {
+        "context": "",
+        "msgid": "Request failed."
+    },
+    {
+        "context": "",
+        "msgid": "Message sent."
+    },
+    {
+        "context": "",
+        "msgid": "Copied!"
+    },
+    {
+        "context": "",
+        "msgid": "Are you sure?"
+    },
+    {
+        "context": "",
+        "msgid": "Use"
+    },
+    {
+        "context": "",
+        "msgid": "Meta key"
+    },
+    {
+        "context": "",
+        "msgid": "Rows"
+    },
+    {
+        "context": "",
+        "msgid": "Phone-like"
+    },
+    {
+        "context": "",
+        "msgid": "Masked sample"
+    },
+    {
+        "context": "",
+        "msgid": "No meta keys found."
+    },
+    {
+        "context": "",
+        "msgid": "— Select a table —"
+    },
+    {
+        "context": "",
+        "msgid": "— Select a column —"
+    },
+    {
+        "context": "",
+        "msgid": "required"
+    },
+    {
+        "context": "",
+        "msgid": "Column"
+    },
+    {
+        "context": "",
+        "msgid": "Type"
+    },
+    {
+        "context": "",
+        "msgid": "Value"
+    },
+    {
+        "context": "",
+        "msgid": "Not set (skip)"
+    },
+    {
+        "context": "",
+        "msgid": "Fixed value"
+    },
+    {
+        "context": "",
+        "msgid": "Current time (site)"
+    },
+    {
+        "context": "",
+        "msgid": "Current time (UTC)"
+    },
+    {
+        "context": "",
+        "msgid": "Unix timestamp"
+    },
+    {
+        "context": "",
+        "msgid": "User ID"
+    },
+    {
+        "context": "",
+        "msgid": "Phone (formatted)"
+    },
+    {
+        "context": "",
+        "msgid": "Empty string"
+    },
+    {
+        "context": "",
+        "msgid": "Normalized"
+    },
+    {
+        "context": "",
+        "msgid": "Searched variants"
+    },
+    {
+        "context": "",
+        "msgid": "User that would log in"
+    },
+    {
+        "context": "",
+        "msgid": "No user found — a new account would be created."
+    },
+    {
+        "context": "",
+        "msgid": "Matches"
+    },
+    {
+        "context": "",
+        "msgid": "Warning: this number matches more than one user. The first match (by priority) is used."
+    },
+    {
+        "context": "",
+        "msgid": "Values that would be written"
+    },
+    {
+        "context": "",
+        "msgid": "Field"
+    },
+    {
+        "context": "",
+        "msgid": "Current"
+    },
+    {
+        "context": "",
+        "msgid": "Action"
+    },
+    {
+        "context": "",
+        "msgid": "write"
+    },
+    {
+        "context": "",
+        "msgid": "unchanged"
+    },
+    {
+        "context": "",
+        "msgid": "skip: different number already stored"
+    },
+    {
+        "context": "",
+        "msgid": "skip: number belongs to another user"
+    },
+    {
+        "context": "",
+        "msgid": "read-only"
+    },
+    {
+        "context": "",
+        "msgid": "invalid table map"
+    },
+    {
+        "context": "",
+        "msgid": "error"
+    },
+    {
+        "context": "",
+        "msgid": "Not started"
+    },
+    {
+        "context": "",
+        "msgid": "Running…"
+    },
+    {
+        "context": "",
+        "msgid": "Finished"
+    },
+    {
+        "context": "",
+        "msgid": "Cancelled"
+    },
+    {
+        "context": "",
+        "msgid": "%1$s of %2$s users processed — %3$s users updated, %4$s values written, %5$s skipped."
+    },
+    {
+        "context": "",
+        "msgid": "Scanned %1$s users: %2$s have a phone, %3$s would be updated (%4$s values), %5$s skipped because of conflicts."
+    },
+    {
+        "context": "",
+        "msgid": "This message would be queued for %s users."
+    },
+    {
+        "context": "",
+        "msgid": "You do not have permission to do this."
+    },
+    {
+        "context": "",
+        "msgid": "Settings saved."
+    },
+    {
+        "context": "",
+        "msgid": "The Eitaa account was disconnected."
+    },
+    {
+        "context": "",
+        "msgid": "The log was cleared."
+    },
+    {
+        "context": "",
+        "msgid": "Queue processed: %1$d sent, %2$d failed."
+    },
+    {
+        "context": "",
+        "msgid": "%d failed messages were put back in the queue."
+    },
+    {
+        "context": "",
+        "msgid": "Sent and failed messages were removed from the queue."
+    },
+    {
+        "context": "",
+        "msgid": "The message queue was emptied."
+    },
+    {
+        "context": "",
+        "msgid": "Cached data was cleared."
+    },
+    {
+        "context": "",
+        "msgid": "All settings were reset to their defaults. The token and phone maps were kept."
+    },
+    {
+        "context": "",
+        "msgid": "The app token was deleted."
+    },
+    {
+        "context": "",
+        "msgid": "%d messages were added to the queue."
+    },
+    {
+        "context": "",
+        "msgid": "Unknown action."
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa Connect: the saved app token can no longer be decrypted (the site security keys changed). Please enter the token again."
+    },
+    {
+        "context": "",
+        "msgid": "Connection settings"
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa Connect is installed but not connected yet."
+    },
+    {
+        "context": "",
+        "msgid": "Start setup"
+    },
+    {
+        "context": "",
+        "msgid": "Auto-detected login plugins: %s. Please review and confirm the phone sync profile."
+    },
+    {
+        "context": "",
+        "msgid": "Review"
+    },
+    {
+        "context": "",
+        "msgid": "Settings"
+    },
+    {
+        "context": "",
+        "msgid": "Invalid form."
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa Connect %s — by Mihanweb24"
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa Connect sections"
+    },
+    {
+        "context": "",
+        "msgid": "Save changes"
+    },
+    {
+        "context": "",
+        "msgid": "Copy"
+    },
+    {
+        "context": "",
+        "msgid": "Window"
+    },
+    {
+        "context": "",
+        "msgid": "Expand"
+    },
+    {
+        "context": "",
+        "msgid": "Open the mini-app at full height (Android)."
+    },
+    {
+        "context": "",
+        "msgid": "Expand automatically"
+    },
+    {
+        "context": "",
+        "msgid": "Full screen"
+    },
+    {
+        "context": "",
+        "msgid": "Request full-screen mode where supported (SDK 1.3+)."
+    },
+    {
+        "context": "",
+        "msgid": "Request full screen"
+    },
+    {
+        "context": "",
+        "msgid": "Safe area padding"
+    },
+    {
+        "context": "",
+        "msgid": "In full-screen mode add padding from the --tg-safe-area-inset-* and --tg-content-safe-area-inset-* variables so content is not hidden behind system bars."
+    },
+    {
+        "context": "",
+        "msgid": "Add safe-area padding"
+    },
+    {
+        "context": "",
+        "msgid": "Vertical swipes"
+    },
+    {
+        "context": "",
+        "msgid": "Useful when your pages use swipe gestures (sliders); users can still close the app from its header."
+    },
+    {
+        "context": "",
+        "msgid": "Disable closing with a vertical swipe"
+    },
+    {
+        "context": "",
+        "msgid": "Confirm before closing"
+    },
+    {
+        "context": "",
+        "msgid": "Never"
+    },
+    {
+        "context": "",
+        "msgid": "Only when the cart is not empty (WooCommerce)"
+    },
+    {
+        "context": "",
+        "msgid": "Always"
+    },
+    {
+        "context": "",
+        "msgid": "Haptic feedback"
+    },
+    {
+        "context": "",
+        "msgid": "Light vibration on button taps, success and errors."
+    },
+    {
+        "context": "",
+        "msgid": "Enable haptic feedback"
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa buttons"
+    },
+    {
+        "context": "",
+        "msgid": "Back button"
+    },
+    {
+        "context": "",
+        "msgid": "Shows Eitaa's back button on inner pages (goes back in history); hidden on the entry page."
+    },
+    {
+        "context": "",
+        "msgid": "Show back button"
+    },
+    {
+        "context": "",
+        "msgid": "Main button"
+    },
+    {
+        "context": "",
+        "msgid": "Show the main bottom button"
+    },
+    {
+        "context": "",
+        "msgid": "Smart shop button"
+    },
+    {
+        "context": "",
+        "msgid": "Shows “Cart (n)” when the cart has items, “Continue to checkout” on the cart page and hides itself on checkout. Updated live after add-to-cart."
+    },
+    {
+        "context": "",
+        "msgid": "Use WooCommerce cart behavior"
+    },
+    {
+        "context": "",
+        "msgid": "Main button text"
+    },
+    {
+        "context": "",
+        "msgid": "Used when the smart shop button has nothing to show (e.g. empty cart). Leave empty to hide the button in that case."
+    },
+    {
+        "context": "",
+        "msgid": "Main button link"
+    },
+    {
+        "context": "",
+        "msgid": "Main button color"
+    },
+    {
+        "context": "",
+        "msgid": "Empty = Eitaa theme color."
+    },
+    {
+        "context": "",
+        "msgid": "Main button text color"
+    },
+    {
+        "context": "",
+        "msgid": "Secondary button"
+    },
+    {
+        "context": "",
+        "msgid": "Requires Eitaa SDK 1.3+."
+    },
+    {
+        "context": "",
+        "msgid": "Show a secondary bottom button"
+    },
+    {
+        "context": "",
+        "msgid": "Secondary button text"
+    },
+    {
+        "context": "",
+        "msgid": "Secondary button link"
+    },
+    {
+        "context": "",
+        "msgid": "Secondary button position"
+    },
+    {
+        "context": "",
+        "msgid": "Left of the main button"
+    },
+    {
+        "context": "",
+        "msgid": "Right of the main button"
+    },
+    {
+        "context": "",
+        "msgid": "Above the main button"
+    },
+    {
+        "context": "",
+        "msgid": "Below the main button"
+    },
+    {
+        "context": "",
+        "msgid": "Settings menu item"
+    },
+    {
+        "context": "",
+        "msgid": "Show “Settings” in the mini-app menu"
+    },
+    {
+        "context": "",
+        "msgid": "Settings item opens"
+    },
+    {
+        "context": "",
+        "msgid": "Empty = the user account page."
+    },
+    {
+        "context": "",
+        "msgid": "Colors"
+    },
+    {
+        "context": "",
+        "msgid": "Leave empty to follow the user's Eitaa theme (themeParams)."
+    },
+    {
+        "context": "",
+        "msgid": "Header color"
+    },
+    {
+        "context": "",
+        "msgid": "Background color"
+    },
+    {
+        "context": "",
+        "msgid": "Bottom bar color"
+    },
+    {
+        "context": "",
+        "msgid": "App-like layout"
+    },
+    {
+        "context": "",
+        "msgid": "Add the CSS class <code>mw24-hide-in-eitaa</code> to any block, menu or widget to hide it inside the mini-app, or <code>mw24-show-in-eitaa</code> to show it only inside the mini-app. The body gets the classes <code>mw24-eitaa-app</code> and <code>mw24-eitaa-dark</code> / <code>mw24-eitaa-light</code>."
+    },
+    {
+        "context": "",
+        "msgid": "Also hide these elements"
+    },
+    {
+        "context": "",
+        "msgid": "CSS selectors separated by commas or new lines, e.g. <code>#masthead, .site-footer, .whatsapp-button</code>."
+    },
+    {
+        "context": "",
+        "msgid": "Custom CSS in mini-app mode"
+    },
+    {
+        "context": "",
+        "msgid": "Loaded only inside the mini-app."
+    },
+    {
+        "context": "",
+        "msgid": "Start parameter routes"
+    },
+    {
+        "context": "",
+        "msgid": "Links to your mini-app can carry a start parameter. Supported values: <code>p123</code> (post or product with ID 123), <code>cart</code>, <code>checkout</code>, <code>account</code>, <code>home</code> and <code>u:slug</code> (or <code>u_slug</code>) for the routes below. Routing happens only once per session."
+    },
+    {
+        "context": "",
+        "msgid": "Custom routes"
+    },
+    {
+        "context": "",
+        "msgid": "One per line: <code>slug = /relative/path/</code>, e.g. <code>offers = /shop/offers/</code>. Only relative paths of this site are accepted."
+    },
+    {
+        "context": "",
+        "msgid": "The token was saved, but its format looks unusual. Please double-check it in Eitaayar."
+    },
+    {
+        "context": "",
+        "msgid": "The connection was not enabled: your site address must start with https:// because Eitaa only opens secure addresses."
+    },
+    {
+        "context": "",
+        "msgid": "The connection was not enabled: please enter the app token first."
+    },
+    {
+        "context": "",
+        "msgid": "Your site address does not use HTTPS. Eitaa only opens secure (https://) addresses, so the connection cannot be enabled yet."
+    },
+    {
+        "context": "",
+        "msgid": "Enable connection"
+    },
+    {
+        "context": "",
+        "msgid": "When disabled, the plugin adds nothing to your site and the site behaves exactly as before."
+    },
+    {
+        "context": "",
+        "msgid": "Open my site as an Eitaa mini-app"
+    },
+    {
+        "context": "",
+        "msgid": "App token"
+    },
+    {
+        "context": "",
+        "msgid": "Defined in wp-config.php"
+    },
+    {
+        "context": "",
+        "msgid": "The token comes from the MW24_EITAA_APP_TOKEN constant and cannot be changed here."
+    },
+    {
+        "context": "",
+        "msgid": "A token is saved — enter a new one to replace it"
+    },
+    {
+        "context": "",
+        "msgid": "Saved"
+    },
+    {
+        "context": "",
+        "msgid": "Cannot be decrypted"
+    },
+    {
+        "context": "",
+        "msgid": "Not set"
+    },
+    {
+        "context": "",
+        "msgid": "Get the token from eitaayar.ir › Apps › your app. It is stored encrypted, is never shown again and is only sent to Eitaayar."
+    },
+    {
+        "context": "",
+        "msgid": "Delete the saved token? The connection will stop working."
+    },
+    {
+        "context": "",
+        "msgid": "Delete the saved token"
+    },
+    {
+        "context": "",
+        "msgid": "Tip: for extra security define the token in wp-config.php: <code>define( 'MW24_EITAA_APP_TOKEN', '...' );</code>"
+    },
+    {
+        "context": "",
+        "msgid": "Mini-app address"
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa opens this URL when users start your app. It must be HTTPS and must not redirect."
+    },
+    {
+        "context": "",
+        "msgid": "Entry URL"
+    },
+    {
+        "context": "",
+        "msgid": "Entry page path"
+    },
+    {
+        "context": "",
+        "msgid": "Relative path of the page that opens first, e.g. <code>/</code> or <code>/shop/</code>. The parameter <code>?mw24_eitaa=1</code> is added automatically."
+    },
+    {
+        "context": "",
+        "msgid": "Registered in Eitaayar"
+    },
+    {
+        "context": "",
+        "msgid": "I have saved the entry URL as the destination address of my app in Eitaayar"
+    },
+    {
+        "context": "",
+        "msgid": "Automatic detection"
+    },
+    {
+        "context": "",
+        "msgid": "Also treat visitors as mini-app users when their User-Agent or Referer contains one of the patterns below. <strong>Not reliable</strong> — Eitaa does not guarantee these values; the entry URL is the dependable method."
+    },
+    {
+        "context": "",
+        "msgid": "Use User-Agent / Referer heuristics"
+    },
+    {
+        "context": "",
+        "msgid": "Heuristic patterns"
+    },
+    {
+        "context": "",
+        "msgid": "Comma separated, case-insensitive."
+    },
+    {
+        "context": "",
+        "msgid": "Security"
+    },
+    {
+        "context": "",
+        "msgid": "Maximum age of Eitaa data"
+    },
+    {
+        "context": "",
+        "msgid": "Signed initData older than this is rejected (auth_date check)."
+    },
+    {
+        "context": "",
+        "msgid": "hours"
+    },
+    {
+        "context": "",
+        "msgid": "Second check with Eitaa server"
+    },
+    {
+        "context": "",
+        "msgid": "After the local HMAC check, also confirm the hash with eitaayar.ir/api/app/verify. Each hash can be verified once within one minute; successful results are cached. Network failures do not block logins."
+    },
+    {
+        "context": "",
+        "msgid": "Verify hashes with Eitaayar"
+    },
+    {
+        "context": "",
+        "msgid": "Client IP source"
+    },
+    {
+        "context": "",
+        "msgid": "Only change this when your site is behind a CDN or reverse proxy that sets the header (e.g. Cloudflare, ArvanCloud). Wrong values allow IP spoofing."
+    },
+    {
+        "context": "",
+        "msgid": "default"
+    },
+    {
+        "context": "",
+        "msgid": "Embedding (iframe)"
+    },
+    {
+        "context": "",
+        "msgid": "Only needed if Eitaa shows your site inside a frame (e.g. a web client). Android and desktop apps use a normal WebView."
+    },
+    {
+        "context": "",
+        "msgid": "Allow framing by Eitaa"
+    },
+    {
+        "context": "",
+        "msgid": "In mini-app mode remove X-Frame-Options and send a Content-Security-Policy frame-ancestors header for the domains below. Headers added by your web server cannot be removed by WordPress."
+    },
+    {
+        "context": "",
+        "msgid": "Adjust frame headers in mini-app mode"
+    },
+    {
+        "context": "",
+        "msgid": "Allowed frame ancestors"
+    },
+    {
+        "context": "",
+        "msgid": "Space separated sources."
+    },
+    {
+        "context": "",
+        "msgid": "Cross-site cookies"
+    },
+    {
+        "context": "",
+        "msgid": "Send login and cart cookies with SameSite=None; Secure in mini-app mode so they work inside a third-party frame."
+    },
+    {
+        "context": "",
+        "msgid": "Use SameSite=None cookies in mini-app mode"
+    },
+    {
+        "context": "",
+        "msgid": "Advanced"
+    },
+    {
+        "context": "",
+        "msgid": "Force SDK as first script"
+    },
+    {
+        "context": "",
+        "msgid": "The official SDK (developer.eitaa.com/eitaa-web-app.js) is printed at the very top of wp_head. Enable this only if your theme prints scripts before wp_head(): the SDK will be injected right after the opening &lt;head&gt; tag using output buffering."
+    },
+    {
+        "context": "",
+        "msgid": "Inject the SDK right after <head>"
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa Connect — Dashboard"
+    },
+    {
+        "context": "",
+        "msgid": "The site is served over HTTPS"
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa only opens HTTPS addresses. Install an SSL certificate and switch the site address to https://."
+    },
+    {
+        "context": "",
+        "msgid": "App token saved"
+    },
+    {
+        "context": "",
+        "msgid": "Copy the token of your app from the Eitaayar panel and paste it in the connection settings."
+    },
+    {
+        "context": "",
+        "msgid": "Mini-app address registered in Eitaayar"
+    },
+    {
+        "context": "",
+        "msgid": "Register the entry URL shown in the connection settings as the destination address of your app, then tick the confirmation box."
+    },
+    {
+        "context": "",
+        "msgid": "Connection enabled"
+    },
+    {
+        "context": "",
+        "msgid": "Turn on the connection switch in the connection settings."
+    },
+    {
+        "context": "",
+        "msgid": "Token tested with a test message"
+    },
+    {
+        "context": "",
+        "msgid": "Open the mini-app once while logged in as administrator, then send a test message from Tools."
+    },
+    {
+        "context": "",
+        "msgid": "Phone sync reviewed"
+    },
+    {
+        "context": "",
+        "msgid": "Review the detected login plugins and phone fields, then save the phone sync settings."
+    },
+    {
+        "context": "",
+        "msgid": "At least one notification enabled"
+    },
+    {
+        "context": "",
+        "msgid": "Choose which events should send an Eitaa message."
+    },
+    {
+        "context": "",
+        "msgid": "Setup progress"
+    },
+    {
+        "context": "",
+        "msgid": "%d%% ready"
+    },
+    {
+        "context": "",
+        "msgid": "Next step:"
+    },
+    {
+        "context": "",
+        "msgid": "Do it now"
+    },
+    {
+        "context": "",
+        "msgid": "Everything is set up. Your site works as an Eitaa mini-app."
+    },
+    {
+        "context": "",
+        "msgid": "Mini-app entry URL"
+    },
+    {
+        "context": "",
+        "msgid": "Register this address as the destination address of your app in Eitaayar (it must not redirect)."
+    },
+    {
+        "context": "",
+        "msgid": "Active"
+    },
+    {
+        "context": "",
+        "msgid": "Inactive"
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa has no in-app payment API. Payments are made through your own site payment gateway, exactly as in a normal browser."
+    },
+    {
+        "context": "",
+        "msgid": "Registrations (30 days)"
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa logins (30 days)"
+    },
+    {
+        "context": "",
+        "msgid": "Messages sent (30 days)"
+    },
+    {
+        "context": "",
+        "msgid": "Failed messages (30 days)"
+    },
+    {
+        "context": "",
+        "msgid": "Messages waiting in queue"
+    },
+    {
+        "context": "",
+        "msgid": "Last message"
+    },
+    {
+        "context": "",
+        "msgid": "No message has been sent yet."
+    },
+    {
+        "context": "",
+        "msgid": "Delivered"
+    },
+    {
+        "context": "",
+        "msgid": "Failed"
+    },
+    {
+        "context": "",
+        "msgid": "Recipient:"
+    },
+    {
+        "context": "",
+        "msgid": "Recent events"
+    },
+    {
+        "context": "",
+        "msgid": "Nothing logged yet."
+    },
+    {
+        "context": "",
+        "msgid": "View full log"
+    },
+    {
+        "context": "",
+        "msgid": "Help & guide"
+    },
+    {
+        "context": "",
+        "msgid": "Quick start (about 10 minutes)"
+    },
+    {
+        "context": "",
+        "msgid": "Make sure your site opens with <strong>https://</strong>. Eitaa does not open insecure addresses."
+    },
+    {
+        "context": "",
+        "msgid": "Log in to <a href=\"https://eitaayar.ir\" target=\"_blank\" rel=\"noopener noreferrer\">eitaayar.ir</a> and open <strong>Apps</strong> (برنامه). Complete the developer identity verification if you are asked to."
+    },
+    {
+        "context": "",
+        "msgid": "Click <strong>Add app</strong> and fill in the icon, title, username, description and button text."
+    },
+    {
+        "context": "",
+        "msgid": "In <strong>Destination address</strong> enter your entry URL: <code>%s</code> (it must not redirect, e.g. from http to https or from www to non-www)."
+    },
+    {
+        "context": "",
+        "msgid": "Save the app and copy its <strong>token</strong> from Eitaayar."
+    },
+    {
+        "context": "",
+        "msgid": "In WordPress go to <strong>Eitaa Connect › Connection</strong>, paste the token, tick “Registered in Eitaayar”, enable the connection and save."
+    },
+    {
+        "context": "",
+        "msgid": "Open your app in Eitaa (Android or desktop) while logged in to WordPress as administrator — this links your own Eitaa account."
+    },
+    {
+        "context": "",
+        "msgid": "Go to <strong>Tools › Test the token</strong> and send a test message to yourself. If it arrives, everything works."
+    },
+    {
+        "context": "",
+        "msgid": "Review <strong>Login & phone sync</strong> (confirm detected plugins such as Digits) and choose your <strong>Notifications</strong>."
+    },
+    {
+        "context": "",
+        "msgid": "Optional: under your app in Eitaayar add a mini-app (برنامک) with the same address and request publication in the Eitaa mini-app center."
+    },
+    {
+        "context": "",
+        "msgid": "Important: Eitaa has no in-app payment API. Customers pay through your own site payment gateway inside the mini-app, exactly like in a browser."
+    },
+    {
+        "context": "",
+        "msgid": "How login works"
+    },
+    {
+        "context": "",
+        "msgid": "When the mini-app opens, Eitaa gives the page a signed data string (initData). The plugin checks its HMAC-SHA256 signature with your token on the server."
+    },
+    {
+        "context": "",
+        "msgid": "If that Eitaa account is already linked to a user, the user is logged in at once."
+    },
+    {
+        "context": "",
+        "msgid": "Otherwise the visitor is asked to share the phone number. Eitaa signs the number too, so it is trusted without SMS codes."
+    },
+    {
+        "context": "",
+        "msgid": "The number is searched in every phone field (Digits, WooCommerce, your own fields…). The matching user is logged in, or a new account is created."
+    },
+    {
+        "context": "",
+        "msgid": "Administrators and editors are never logged in this way (unless you explicitly allow it)."
+    },
+    {
+        "context": "",
+        "msgid": "Useful tools for designers"
+    },
+    {
+        "context": "",
+        "msgid": "Shortcode <code>[mw24_eitaa_login]</code> or the “Eitaa login button” block shows a login button."
+    },
+    {
+        "context": "",
+        "msgid": "CSS class <code>mw24-hide-in-eitaa</code> hides an element inside the mini-app; <code>mw24-show-in-eitaa</code> shows it only there."
+    },
+    {
+        "context": "",
+        "msgid": "Body classes: <code>mw24-eitaa-app</code>, <code>mw24-eitaa-dark</code>, <code>mw24-eitaa-light</code>, <code>mw24-eitaa-fullscreen</code>."
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa theme colors are available as CSS variables such as <code>var(--tg-theme-bg-color)</code> and <code>var(--tg-theme-button-color)</code>."
+    },
+    {
+        "context": "",
+        "msgid": "Start parameters: <code>p123</code>, <code>cart</code>, <code>checkout</code>, <code>account</code>, <code>home</code>, <code>u:slug</code>."
+    },
+    {
+        "context": "",
+        "msgid": "Debugging inside Eitaa"
+    },
+    {
+        "context": "",
+        "msgid": "Android"
+    },
+    {
+        "context": "",
+        "msgid": "Enable USB debugging on the phone."
+    },
+    {
+        "context": "",
+        "msgid": "In Eitaa settings scroll to the bottom, touch and hold the version number, release, then touch and hold it again to open the debug menu."
+    },
+    {
+        "context": "",
+        "msgid": "Choose <strong>Enable WebView Debug</strong>."
+    },
+    {
+        "context": "",
+        "msgid": "Connect the phone to a computer and open <code>chrome://inspect#devices</code> in Chrome or Edge."
+    },
+    {
+        "context": "",
+        "msgid": "Desktop"
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa settings › Advanced › Experimental settings › enable <strong>Enable webview inspecting</strong>."
+    },
+    {
+        "context": "",
+        "msgid": "Open the mini-app, right-click and choose Inspect."
+    },
+    {
+        "context": "",
+        "msgid": "Turn on Debug mode in Tools to see the plugin's diagnostics in the console."
+    },
+    {
+        "context": "",
+        "msgid": "Frequently asked questions"
+    },
+    {
+        "context": "",
+        "msgid": "The page opens in Eitaa but I am not logged in."
+    },
+    {
+        "context": "",
+        "msgid": "Check that the address registered in Eitaayar is exactly the entry URL (with ?mw24_eitaa=1), that the token is correct and look at the Log page for “auth.failed” entries."
+    },
+    {
+        "context": "",
+        "msgid": "My cache plugin breaks the mini-app."
+    },
+    {
+        "context": "",
+        "msgid": "Mini-app pages are sent as private/no-cache. If your cache still serves them, exclude the cookie mw24_eitaa_app and URLs containing mw24_eitaa in the cache settings."
+    },
+    {
+        "context": "",
+        "msgid": "Messages are not delivered."
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa only delivers to users who opened your mini-app and allowed messages. Check your message credit in Eitaayar and the Log page."
+    },
+    {
+        "context": "",
+        "msgid": "Does it work on iPhone?"
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa currently runs mini-apps on Android and desktop (Windows). Your site keeps working normally for all other visitors."
+    },
+    {
+        "context": "",
+        "msgid": "What happens when I disable the plugin?"
+    },
+    {
+        "context": "",
+        "msgid": "With the connection switched off nothing is added to your pages and the site behaves exactly as before. Users keep their accounts and phone numbers."
+    },
+    {
+        "context": "",
+        "msgid": "For developers"
+    },
+    {
+        "context": "",
+        "msgid": "Main hooks and functions (see docs/developer-guide in the package for details):"
+    },
+    {
+        "context": "",
+        "msgid": "Login & registration"
+    },
+    {
+        "context": "",
+        "msgid": "Phone sync"
+    },
+    {
+        "context": "",
+        "msgid": "Automatic login"
+    },
+    {
+        "context": "",
+        "msgid": "Users are identified by the mobile number that Eitaa signs and verifies — no password or SMS code is needed."
+    },
+    {
+        "context": "",
+        "msgid": "Login with Eitaa"
+    },
+    {
+        "context": "",
+        "msgid": "Log users in automatically inside the mini-app"
+    },
+    {
+        "context": "",
+        "msgid": "Registration"
+    },
+    {
+        "context": "",
+        "msgid": "Create an account when no user owns the shared number. Username: 98XXXXXXXXXX, e-mail: 98XXXXXXXXXX@eitaa.invalid (placeholder)."
+    },
+    {
+        "context": "",
+        "msgid": "Create new accounts automatically"
+    },
+    {
+        "context": "",
+        "msgid": "Role of new users"
+    },
+    {
+        "context": "",
+        "msgid": "Only roles without editing or administration capabilities can be selected."
+    },
+    {
+        "context": "",
+        "msgid": "Names"
+    },
+    {
+        "context": "",
+        "msgid": "Fill empty first/last names from Eitaa"
+    },
+    {
+        "context": "",
+        "msgid": "Trusted device"
+    },
+    {
+        "context": "",
+        "msgid": "Keeps the user logged in inside Eitaa with a long “remember me” cookie."
+    },
+    {
+        "context": "",
+        "msgid": "Remember the login"
+    },
+    {
+        "context": "",
+        "msgid": "Remember for"
+    },
+    {
+        "context": "",
+        "msgid": "days"
+    },
+    {
+        "context": "",
+        "msgid": "After login go to"
+    },
+    {
+        "context": "",
+        "msgid": "Empty = stay on the current page."
+    },
+    {
+        "context": "",
+        "msgid": "Message permission"
+    },
+    {
+        "context": "",
+        "msgid": "After login, ask users who have not allowed messages yet to allow them (needed for notifications)."
+    },
+    {
+        "context": "",
+        "msgid": "Ask for permission to send messages"
+    },
+    {
+        "context": "",
+        "msgid": "Asking for the phone number"
+    },
+    {
+        "context": "",
+        "msgid": "When to ask"
+    },
+    {
+        "context": "",
+        "msgid": "“Later” hides the bar until the mini-app is opened again."
+    },
+    {
+        "context": "",
+        "msgid": "Immediately on any page"
+    },
+    {
+        "context": "",
+        "msgid": "Only on cart and checkout pages"
+    },
+    {
+        "context": "",
+        "msgid": "Only when the login button is clicked"
+    },
+    {
+        "context": "",
+        "msgid": "Native dialog"
+    },
+    {
+        "context": "",
+        "msgid": "Skip the bottom bar and open Eitaa's own phone sharing dialog directly."
+    },
+    {
+        "context": "",
+        "msgid": "Open the Eitaa dialog without the bar"
+    },
+    {
+        "context": "",
+        "msgid": "Bar text"
+    },
+    {
+        "context": "",
+        "msgid": "“Share” button"
+    },
+    {
+        "context": "",
+        "msgid": "“Later” button"
+    },
+    {
+        "context": "",
+        "msgid": "Login button"
+    },
+    {
+        "context": "",
+        "msgid": "Use the shortcode <code>[mw24_eitaa_login]</code> or the “Eitaa login button” block anywhere. Attributes: <code>label</code>, <code>class</code>, <code>redirect</code>, <code>show_linked=\"yes\"</code>."
+    },
+    {
+        "context": "",
+        "msgid": "Button text"
+    },
+    {
+        "context": "",
+        "msgid": "WordPress login page"
+    },
+    {
+        "context": "",
+        "msgid": "Add the button to wp-login.php"
+    },
+    {
+        "context": "",
+        "msgid": "WooCommerce login form"
+    },
+    {
+        "context": "",
+        "msgid": "Add the button to the My account login form"
+    },
+    {
+        "context": "",
+        "msgid": "Outside Eitaa"
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa login only works inside the mini-app."
+    },
+    {
+        "context": "",
+        "msgid": "Show a hint instead of the button"
+    },
+    {
+        "context": "",
+        "msgid": "Hide the button"
+    },
+    {
+        "context": "",
+        "msgid": "Hint text"
+    },
+    {
+        "context": "",
+        "msgid": "Mini-app link"
+    },
+    {
+        "context": "",
+        "msgid": "Optional direct link to your mini-app in Eitaa (from Eitaayar). Shown under the hint."
+    },
+    {
+        "context": "",
+        "msgid": "Privileged accounts"
+    },
+    {
+        "context": "",
+        "msgid": "Administrators and editors"
+    },
+    {
+        "context": "",
+        "msgid": "<strong>Not recommended.</strong> By default accounts that can edit posts or manage options can never log in through Eitaa. Enable only if you understand the risk: anyone with access to the linked Eitaa account could enter your admin area."
+    },
+    {
+        "context": "",
+        "msgid": "Allow privileged accounts to log in with Eitaa"
+    },
+    {
+        "context": "",
+        "msgid": "Tell the plugin where other login/registration plugins keep the mobile number. When a user logs in with Eitaa, every place below is searched (in five number formats) and the verified number is written back to all of them, so Digits, WooCommerce and others recognize the same user."
+    },
+    {
+        "context": "",
+        "msgid": "1. Ready-made profiles"
+    },
+    {
+        "context": "",
+        "msgid": "Detected plugins are enabled automatically; you only need to confirm. Undetected profiles can be enabled manually."
+    },
+    {
+        "context": "",
+        "msgid": "Plugin"
+    },
+    {
+        "context": "",
+        "msgid": "Status"
+    },
+    {
+        "context": "",
+        "msgid": "Fields"
+    },
+    {
+        "context": "",
+        "msgid": "Auto-detected: %s"
+    },
+    {
+        "context": "",
+        "msgid": "Confirmed"
+    },
+    {
+        "context": "",
+        "msgid": "Needs confirmation"
+    },
+    {
+        "context": "",
+        "msgid": "Not detected"
+    },
+    {
+        "context": "",
+        "msgid": "Template — verify the field"
+    },
+    {
+        "context": "",
+        "msgid": "%1$s = %2$s (fixed)"
+    },
+    {
+        "context": "",
+        "msgid": "search"
+    },
+    {
+        "context": "",
+        "msgid": "No fixed field. Load the existing meta keys below and add the right one to the manual map."
+    },
+    {
+        "context": "",
+        "msgid": "Suggested patterns:"
+    },
+    {
+        "context": "",
+        "msgid": "Developers can add or update profiles with JSON files in <code>profiles/</code> or the <code>mw24_eitaa_phone_profiles</code> filter."
+    },
+    {
+        "context": "",
+        "msgid": "2. Manual map on user meta"
+    },
+    {
+        "context": "",
+        "msgid": "Pick one or more meta keys that really exist in your database and choose the format in which each one stores the number."
+    },
+    {
+        "context": "",
+        "msgid": "Format"
+    },
+    {
+        "context": "",
+        "msgid": "Custom pattern"
+    },
+    {
+        "context": "",
+        "msgid": "Write"
+    },
+    {
+        "context": "",
+        "msgid": "+ Add meta key"
+    },
+    {
+        "context": "",
+        "msgid": "Custom pattern placeholders: <code>{cc}</code> = 98, <code>{national}</code> = 912XXXXXXX, <code>{local}</code> = 0912XXXXXXX. Example: <code>+{cc}-{national}</code>."
+    },
+    {
+        "context": "",
+        "msgid": "Helper fields with a fixed value"
+    },
+    {
+        "context": "",
+        "msgid": "Written together with the number, e.g. a country code field (+98) or a “verified” flag (1)."
+    },
+    {
+        "context": "",
+        "msgid": "+ Add helper field"
+    },
+    {
+        "context": "",
+        "msgid": "Meta keys found in your database"
+    },
+    {
+        "context": "",
+        "msgid": "Read-only list of user meta keys with the number of rows, the share of phone-like values and a masked sample. Keys that look like phone numbers are listed first. The list is cached for 12 hours."
+    },
+    {
+        "context": "",
+        "msgid": "Show meta keys"
+    },
+    {
+        "context": "",
+        "msgid": "Refresh list"
+    },
+    {
+        "context": "",
+        "msgid": "3. Map on a custom table"
+    },
+    {
+        "context": "",
+        "msgid": "For plugins that keep phone numbers in their own table. Only existing tables/columns can be chosen (read with SHOW TABLES / DESCRIBE)."
+    },
+    {
+        "context": "",
+        "msgid": "Enable"
+    },
+    {
+        "context": "",
+        "msgid": "Use a custom table"
+    },
+    {
+        "context": "",
+        "msgid": "Table"
+    },
+    {
+        "context": "",
+        "msgid": "Load tables"
+    },
+    {
+        "context": "",
+        "msgid": "Phone column"
+    },
+    {
+        "context": "",
+        "msgid": "User ID column (wp_users.ID)"
+    },
+    {
+        "context": "",
+        "msgid": "Mode"
+    },
+    {
+        "context": "",
+        "msgid": "Read only (search users but never insert/update rows)"
+    },
+    {
+        "context": "",
+        "msgid": "Other columns on insert"
+    },
+    {
+        "context": "",
+        "msgid": "Select a table to see its columns. Required columns (NOT NULL without default) need a value."
+    },
+    {
+        "context": "",
+        "msgid": "Matching options"
+    },
+    {
+        "context": "",
+        "msgid": "Also match the number against usernames and the local part of e-mail addresses"
+    },
+    {
+        "context": "",
+        "msgid": "Useful when a phone-login plugin used the number as username. Disable it if visitors can freely choose usernames on your site."
+    },
+    {
+        "context": "",
+        "msgid": "Save and confirm phone sync"
+    },
+    {
+        "context": "",
+        "msgid": "Test the map (dry-run)"
+    },
+    {
+        "context": "",
+        "msgid": "Enter a mobile number to see which user would log in and which values would be written. Nothing is changed."
+    },
+    {
+        "context": "",
+        "msgid": "Test"
+    },
+    {
+        "context": "",
+        "msgid": "Remove"
+    },
+    {
+        "context": "",
+        "msgid": "Event log"
+    },
+    {
+        "context": "",
+        "msgid": "Logins, registrations, messages and errors. Phone numbers are masked and the app token is never logged."
+    },
+    {
+        "context": "",
+        "msgid": "Entries older than %d days are deleted automatically."
+    },
+    {
+        "context": "",
+        "msgid": "Entries are kept until you clear the log."
+    },
+    {
+        "context": "",
+        "msgid": "Search log"
+    },
+    {
+        "context": "",
+        "msgid": "Clear the log"
+    },
+    {
+        "context": "",
+        "msgid": "Delete all log entries?"
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa notifications"
+    },
+    {
+        "context": "",
+        "msgid": "Event notifications"
+    },
+    {
+        "context": "",
+        "msgid": "Bulk send"
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa only delivers messages to users who opened your mini-app and allowed messages. The first 50,000 messages are free; more credit can be bought in Eitaayar."
+    },
+    {
+        "context": "",
+        "msgid": "Placeholders: %s"
+    },
+    {
+        "context": "",
+        "msgid": "Send"
+    },
+    {
+        "context": "",
+        "msgid": "Delivery"
+    },
+    {
+        "context": "",
+        "msgid": "Sending mode"
+    },
+    {
+        "context": "",
+        "msgid": "The queue keeps checkout and admin screens fast; messages are sent in the background by Action Scheduler or WP-Cron."
+    },
+    {
+        "context": "",
+        "msgid": "Background queue (recommended)"
+    },
+    {
+        "context": "",
+        "msgid": "Immediately (slower pages)"
+    },
+    {
+        "context": "",
+        "msgid": "Queue speed"
+    },
+    {
+        "context": "",
+        "msgid": "messages per minute"
+    },
+    {
+        "context": "",
+        "msgid": "Permission"
+    },
+    {
+        "context": "",
+        "msgid": "Skip users whose signed Eitaa data says they did not allow messages."
+    },
+    {
+        "context": "",
+        "msgid": "Only message users who allowed messages"
+    },
+    {
+        "context": "",
+        "msgid": "Admin recipients"
+    },
+    {
+        "context": "",
+        "msgid": "Administrators and shop managers receive admin notifications after they open the mini-app once while logged in (this links their account)."
+    },
+    {
+        "context": "",
+        "msgid": "All linked administrators and shop managers"
+    },
+    {
+        "context": "",
+        "msgid": "Extra admin chat IDs"
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa user IDs, one per line."
+    },
+    {
+        "context": "",
+        "msgid": "Account events"
+    },
+    {
+        "context": "",
+        "msgid": "Welcome (new Eitaa registration)"
+    },
+    {
+        "context": "",
+        "msgid": "New registration (to admins)"
+    },
+    {
+        "context": "",
+        "msgid": "For every new user, whatever the registration method."
+    },
+    {
+        "context": "",
+        "msgid": "New login (security alert)"
+    },
+    {
+        "context": "",
+        "msgid": "Password changed"
+    },
+    {
+        "context": "",
+        "msgid": "WooCommerce orders"
+    },
+    {
+        "context": "",
+        "msgid": "Order status changes"
+    },
+    {
+        "context": "",
+        "msgid": "Sent to the customer when the order moves to one of the selected statuses."
+    },
+    {
+        "context": "",
+        "msgid": "Statuses"
+    },
+    {
+        "context": "",
+        "msgid": "Default message"
+    },
+    {
+        "context": "",
+        "msgid": "Per-status messages"
+    },
+    {
+        "context": "",
+        "msgid": "Optional: a different text for each status"
+    },
+    {
+        "context": "",
+        "msgid": "Empty = default message"
+    },
+    {
+        "context": "",
+        "msgid": "New order (to admins)"
+    },
+    {
+        "context": "",
+        "msgid": "Note to customer"
+    },
+    {
+        "context": "",
+        "msgid": "Tracking code"
+    },
+    {
+        "context": "",
+        "msgid": "Sent once when the tracking code meta of an order is filled or changed."
+    },
+    {
+        "context": "",
+        "msgid": "Tracking code meta key"
+    },
+    {
+        "context": "",
+        "msgid": "Order meta key where your shipping plugin stores the code, e.g. <code>_tracking_code</code>."
+    },
+    {
+        "context": "",
+        "msgid": "Abandoned cart"
+    },
+    {
+        "context": "",
+        "msgid": "Reminds linked users who left items in their cart (checked hourly, once per cart)."
+    },
+    {
+        "context": "",
+        "msgid": "Remind after"
+    },
+    {
+        "context": "",
+        "msgid": "Developers can change any text with the <code>mw24_eitaa_notification_text</code> filter."
+    },
+    {
+        "context": "",
+        "msgid": "All roles"
+    },
+    {
+        "context": "",
+        "msgid": "New bulk message"
+    },
+    {
+        "context": "",
+        "msgid": "Messages are queued and sent in the background at the queue speed set in the Event notifications tab."
+    },
+    {
+        "context": "",
+        "msgid": "Internal title"
+    },
+    {
+        "context": "",
+        "msgid": "Role"
+    },
+    {
+        "context": "",
+        "msgid": "Connected between"
+    },
+    {
+        "context": "",
+        "msgid": "Only users who allowed messages"
+    },
+    {
+        "context": "",
+        "msgid": "Count recipients"
+    },
+    {
+        "context": "",
+        "msgid": "Queue this message for all matching users?"
+    },
+    {
+        "context": "",
+        "msgid": "Queue message"
+    },
+    {
+        "context": "",
+        "msgid": "Bulk send reports"
+    },
+    {
+        "context": "",
+        "msgid": "No bulk message has been sent yet."
+    },
+    {
+        "context": "",
+        "msgid": "Title"
+    },
+    {
+        "context": "",
+        "msgid": "Created"
+    },
+    {
+        "context": "",
+        "msgid": "Total"
+    },
+    {
+        "context": "",
+        "msgid": "Sent"
+    },
+    {
+        "context": "",
+        "msgid": "Waiting"
+    },
+    {
+        "context": "",
+        "msgid": "Retry failed"
+    },
+    {
+        "context": "",
+        "msgid": "Test the token"
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa has no “check token” API, so the token is tested by sending a real test message."
+    },
+    {
+        "context": "",
+        "msgid": "Your admin account is not linked yet: open the mini-app in Eitaa while logged in to this site (this links your account), or enter an Eitaa user ID below."
+    },
+    {
+        "context": "",
+        "msgid": "Recipient Eitaa ID"
+    },
+    {
+        "context": "",
+        "msgid": "Text"
+    },
+    {
+        "context": "",
+        "msgid": "Test message from %s — the Eitaa connection works."
+    },
+    {
+        "context": "",
+        "msgid": "Send test message"
+    },
+    {
+        "context": "",
+        "msgid": "Last successful test: %s"
+    },
+    {
+        "context": "",
+        "msgid": "Test the phone map (dry-run)"
+    },
+    {
+        "context": "",
+        "msgid": "Shows which user a number resolves to and what would be written. Nothing is changed."
+    },
+    {
+        "context": "",
+        "msgid": "Sync existing users"
+    },
+    {
+        "context": "",
+        "msgid": "For users that already have a number in one phone field but not in the others, copy it to the missing fields. Different existing numbers are never overwritten and numbers owned by another user are skipped. Runs in the background in batches of 100 users."
+    },
+    {
+        "context": "",
+        "msgid": "Preview (first 200 users)"
+    },
+    {
+        "context": "",
+        "msgid": "Start syncing phone numbers of all users?"
+    },
+    {
+        "context": "",
+        "msgid": "Start sync"
+    },
+    {
+        "context": "",
+        "msgid": "Run one batch now"
+    },
+    {
+        "context": "",
+        "msgid": "Cancel"
+    },
+    {
+        "context": "",
+        "msgid": "Message queue"
+    },
+    {
+        "context": "",
+        "msgid": "Waiting: %1$s — Sent: %2$s — Failed: %3$s"
+    },
+    {
+        "context": "",
+        "msgid": "Process queue now"
+    },
+    {
+        "context": "",
+        "msgid": "Retry failed messages"
+    },
+    {
+        "context": "",
+        "msgid": "Remove sent/failed"
+    },
+    {
+        "context": "",
+        "msgid": "Empty queue"
+    },
+    {
+        "context": "",
+        "msgid": "Delete all queued messages, including those not sent yet?"
+    },
+    {
+        "context": "",
+        "msgid": "Maintenance"
+    },
+    {
+        "context": "",
+        "msgid": "Keep log entries for"
+    },
+    {
+        "context": "",
+        "msgid": "0 = keep forever."
+    },
+    {
+        "context": "",
+        "msgid": "Debug mode"
+    },
+    {
+        "context": "",
+        "msgid": "Logs extra details and prints diagnostics in the browser console of the mini-app. Turn off on production sites."
+    },
+    {
+        "context": "",
+        "msgid": "Enable debug mode"
+    },
+    {
+        "context": "",
+        "msgid": "Uninstall"
+    },
+    {
+        "context": "",
+        "msgid": "When the plugin is deleted, also remove its tables, settings, token and the Eitaa data of users. Phone numbers written to other plugins' fields are kept."
+    },
+    {
+        "context": "",
+        "msgid": "Delete all plugin data on uninstall"
+    },
+    {
+        "context": "",
+        "msgid": "Clear cached data"
+    },
+    {
+        "context": "",
+        "msgid": "Reset settings to defaults"
+    },
+    {
+        "context": "",
+        "msgid": "Reset all settings? The token and phone maps are kept."
+    },
+    {
+        "context": "",
+        "msgid": "Plugin version"
+    },
+    {
+        "context": "",
+        "msgid": "WordPress"
+    },
+    {
+        "context": "",
+        "msgid": "PHP"
+    },
+    {
+        "context": "",
+        "msgid": "WooCommerce"
+    },
+    {
+        "context": "",
+        "msgid": "Not active"
+    },
+    {
+        "context": "",
+        "msgid": "HTTPS"
+    },
+    {
+        "context": "",
+        "msgid": "Yes"
+    },
+    {
+        "context": "",
+        "msgid": "No"
+    },
+    {
+        "context": "",
+        "msgid": "Token encryption"
+    },
+    {
+        "context": "",
+        "msgid": "Token defined in wp-config.php"
+    },
+    {
+        "context": "",
+        "msgid": "OpenSSL missing — stored without encryption"
+    },
+    {
+        "context": "",
+        "msgid": "Background jobs"
+    },
+    {
+        "context": "",
+        "msgid": "WP-Cron disabled — make sure a server cron calls wp-cron.php"
+    },
+    {
+        "context": "",
+        "msgid": "Detected login plugins"
+    },
+    {
+        "context": "",
+        "msgid": "Cache plugins"
+    },
+    {
+        "context": "",
+        "msgid": "exclude the cookie mw24_eitaa_app from page cache"
+    },
+    {
+        "context": "",
+        "msgid": "REST endpoint"
+    },
+    {
+        "context": "",
+        "msgid": "System status"
+    },
+    {
+        "context": "",
+        "msgid": "Users connected to Eitaa"
+    },
+    {
+        "context": "",
+        "msgid": "Send an Eitaa message"
+    },
+    {
+        "context": "",
+        "msgid": "Message text…"
+    },
+    {
+        "context": "",
+        "msgid": "Send now"
+    },
+    {
+        "context": "",
+        "msgid": "Search name, mobile or Eitaa ID"
+    },
+    {
+        "context": "",
+        "msgid": "Test message from Eitaa Connect."
+    },
+    {
+        "context": "",
+        "msgid": "The test message was delivered. Your token works."
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa"
+    },
+    {
+        "context": "",
+        "msgid": "Connected"
+    },
+    {
+        "context": "",
+        "msgid": "messages not allowed"
+    },
+    {
+        "context": "",
+        "msgid": "Not connected"
+    },
+    {
+        "context": "",
+        "msgid": "Open the site from the Eitaa mini-app while logged in to connect."
+    },
+    {
+        "context": "",
+        "msgid": "Name in Eitaa"
+    },
+    {
+        "context": "",
+        "msgid": "Messages allowed"
+    },
+    {
+        "context": "",
+        "msgid": "Connected on"
+    },
+    {
+        "context": "",
+        "msgid": "Last seen in mini-app"
+    },
+    {
+        "context": "",
+        "msgid": "Verified mobile"
+    },
+    {
+        "context": "",
+        "msgid": "Disconnect"
+    },
+    {
+        "context": "",
+        "msgid": "Disconnect this Eitaa account when saving"
+    },
+    {
+        "context": "",
+        "msgid": "Send a message"
+    },
+    {
+        "context": "",
+        "msgid": "Last message:"
+    },
+    {
+        "context": "",
+        "msgid": "Mobile"
+    },
+    {
+        "context": "",
+        "msgid": "Actions"
+    },
+    {
+        "context": "",
+        "msgid": "No user has connected an Eitaa account yet."
+    },
+    {
+        "context": "",
+        "msgid": "Send message"
+    },
+    {
+        "context": "",
+        "msgid": "Disconnect this Eitaa account?"
+    },
+    {
+        "context": "",
+        "msgid": "This Eitaa account is already connected to another user account."
+    },
+    {
+        "context": "",
+        "msgid": "Only Iranian mobile numbers can be used to log in."
+    },
+    {
+        "context": "",
+        "msgid": "This mobile number belongs to another account on this site."
+    },
+    {
+        "context": "",
+        "msgid": "No account was found for this mobile number and new registrations are closed."
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa connection is not active on this site."
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa data is missing. Please open the site from the Eitaa mini-app."
+    },
+    {
+        "context": "",
+        "msgid": "The shared contact is missing."
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa login failed. Please close the mini-app, open it again and retry."
+    },
+    {
+        "context": "",
+        "msgid": "Too many attempts. Please wait a few minutes and try again."
+    },
+    {
+        "context": "",
+        "msgid": "Your account could not be created. Please contact the site administrator."
+    },
+    {
+        "context": "",
+        "msgid": "Cart (%d)"
+    },
+    {
+        "context": "",
+        "msgid": "Continue to checkout"
+    },
+    {
+        "context": "",
+        "msgid": "Logging you in…"
+    },
+    {
+        "context": "",
+        "msgid": "You can log in with your Eitaa number any time from the login button."
+    },
+    {
+        "context": "",
+        "msgid": "Please update your Eitaa app to use this feature."
+    },
+    {
+        "context": "",
+        "msgid": "Connection problem. Please check your internet and try again."
+    },
+    {
+        "context": "",
+        "msgid": "Your Eitaa account is now connected."
+    },
+    {
+        "context": "",
+        "msgid": "Zhaket"
+    },
+    {
+        "context": "",
+        "msgid": "RTL-Theme"
+    },
+    {
+        "context": "",
+        "msgid": "The marketplace license endpoint is not configured in this build."
+    },
+    {
+        "context": "",
+        "msgid": "Unexpected response from the license server."
+    },
+    {
+        "context": "",
+        "msgid": "The license was removed from this site."
+    },
+    {
+        "context": "",
+        "msgid": "No license entered"
+    },
+    {
+        "context": "",
+        "msgid": "License is valid — updates are enabled"
+    },
+    {
+        "context": "",
+        "msgid": "License is not valid — automatic updates are disabled (all features keep working)"
+    },
+    {
+        "context": "",
+        "msgid": "License has expired — automatic updates are disabled (all features keep working)"
+    },
+    {
+        "context": "",
+        "msgid": "License check is not available in this build"
+    },
+    {
+        "context": "",
+        "msgid": "The license server could not be reached"
+    },
+    {
+        "context": "",
+        "msgid": "Product license"
+    },
+    {
+        "context": "",
+        "msgid": "The license is only used for automatic updates. Users, logins and messages never depend on it."
+    },
+    {
+        "context": "",
+        "msgid": "License key"
+    },
+    {
+        "context": "",
+        "msgid": "expires: %s"
+    },
+    {
+        "context": "",
+        "msgid": "Activate / check"
+    },
+    {
+        "context": "",
+        "msgid": "Remove license"
+    },
+    {
+        "context": "",
+        "msgid": "Connected to Eitaa"
+    },
+    {
+        "context": "",
+        "msgid": "Connect my Eitaa account"
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa login button"
+    },
+    {
+        "context": "",
+        "msgid": "Leave empty to use the text from the plugin settings."
+    },
+    {
+        "context": "",
+        "msgid": "Shown only to guests. Inside the Eitaa mini-app it logs the visitor in with their Eitaa number; outside Eitaa it is hidden or shows a hint (see settings)."
+    },
+    {
+        "context": "",
+        "msgid": "The selected table does not exist."
+    },
+    {
+        "context": "",
+        "msgid": "No table selected."
+    },
+    {
+        "context": "",
+        "msgid": "The phone or user ID column does not exist in the selected table."
+    },
+    {
+        "context": "",
+        "msgid": "The phone column and the user ID column must be different."
+    },
+    {
+        "context": "",
+        "msgid": "An extra column does not exist in the selected table."
+    },
+    {
+        "context": "",
+        "msgid": "The custom table map is not valid."
+    },
+    {
+        "context": "",
+        "msgid": "The custom table map is read-only."
+    },
+    {
+        "context": "",
+        "msgid": "Writing to the custom table failed."
+    },
+    {
+        "context": "",
+        "msgid": "The Eitaa app token is not configured."
+    },
+    {
+        "context": "",
+        "msgid": "The recipient has no Eitaa account connected."
+    },
+    {
+        "context": "",
+        "msgid": "The message text is empty."
+    },
+    {
+        "context": "",
+        "msgid": "Eitaayar rejected the message: %s"
+    },
+    {
+        "context": "",
+        "msgid": "Eitaayar did not confirm the delivery. Make sure the user opened your mini-app and allowed messages."
+    },
+    {
+        "context": "",
+        "msgid": "Could not reach Eitaayar: %s"
+    },
+    {
+        "context": "",
+        "msgid": "Unexpected response from Eitaayar (HTTP %d)."
+    },
+    {
+        "context": "",
+        "msgid": "This is not a valid Iranian mobile number."
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa data must be sent in the X-Eitaa-Init-Data header, never in the URL."
+    },
+    {
+        "context": "",
+        "msgid": "Log in instantly with your Eitaa number — no password or SMS code needed."
+    },
+    {
+        "context": "",
+        "msgid": "Share my number"
+    },
+    {
+        "context": "",
+        "msgid": "Later"
+    },
+    {
+        "context": "",
+        "msgid": "Log in with Eitaa"
+    },
+    {
+        "context": "",
+        "msgid": "To log in with Eitaa, open this site from our Eitaa mini-app."
+    },
+    {
+        "context": "",
+        "msgid": "Hello {name}!\nYour account at {site} was created with your Eitaa number.\n{link}"
+    },
+    {
+        "context": "",
+        "msgid": "New user registered at {site}: {name} ({user_login})\n{link}"
+    },
+    {
+        "context": "",
+        "msgid": "Hello {name}, a new login to your {site} account was recorded on {date}.\nIf it wasn't you, change your password: {link}"
+    },
+    {
+        "context": "",
+        "msgid": "Hello {name}, the password of your {site} account was changed on {date}.\nIf you did not do this, contact support immediately."
+    },
+    {
+        "context": "",
+        "msgid": "Hello {name}, order #{order_number} at {site} is now: {status}.\nTotal: {total}\n{link}"
+    },
+    {
+        "context": "",
+        "msgid": "New order #{order_number} at {site}\nCustomer: {name}\nTotal: {total}\n{link}"
+    },
+    {
+        "context": "",
+        "msgid": "Hello {name}, a new note was added to order #{order_number}:\n{note}\n{link}"
+    },
+    {
+        "context": "",
+        "msgid": "Hello {name}, order #{order_number} has been shipped.\nTracking code: {tracking}\n{link}"
+    },
+    {
+        "context": "",
+        "msgid": "Hello {name}, you left {cart_count} item(s) in your cart at {site}. Complete your purchase here:\n{link}"
+    },
+    {
+        "context": "",
+        "msgid": "The message could not be queued."
+    },
+    {
+        "context": "",
+        "msgid": "Eitaa Connect needs PHP %1$s+ and WordPress %2$s+. The plugin is inactive until the server is upgraded."
+    },
+    {
+        "context": "",
+        "msgid": "Open in Eitaa"
+    }
+]

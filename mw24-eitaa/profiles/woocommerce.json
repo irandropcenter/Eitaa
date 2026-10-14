@@ -1,0 +1,19 @@
+{
+	"id": "woocommerce",
+	"name": "WooCommerce",
+	"version": "1.0.0",
+	"verified": true,
+	"priority": 20,
+	"source": "WooCommerce customer meta billing_phone.",
+	"detect": {
+		"plugins": [ "woocommerce" ],
+		"classes": [ "WooCommerce" ]
+	},
+	"fields": [
+		{ "meta_key": "billing_phone", "format": "0", "lookup": true, "write": true }
+	],
+	"notes": {
+		"en": "Uses the billing phone of the customer (09…). New Eitaa users get it pre-filled at checkout.",
+		"fa": "از تلفن صورت‌حساب مشتری (09…) استفاده می‌شود؛ برای کاربران جدید در تسویه‌حساب از پیش پر می‌شود."
+	}
+}

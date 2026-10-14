@@ -1,0 +1,18 @@
+{
+	"id": "login-with-phone-number",
+	"name": "Login with phone number (idehweb)",
+	"version": "1.0.0",
+	"verified": true,
+	"priority": 45,
+	"source": "OTP Login With Phone Number 1.8.x stores phone_number with the country code (default setting) and also uses it as username.",
+	"detect": {
+		"plugins": [ "login-with-phone-number" ]
+	},
+	"fields": [
+		{ "meta_key": "phone_number", "format": "98", "lookup": true, "write": true }
+	],
+	"notes": {
+		"en": "Stores phone_number as 98… by default. Keep “match usernames” enabled because this plugin also uses the number as username.",
+		"fa": "به‌صورت پیش‌فرض phone_number را با قالب 98… ذخیره می‌کند. چون شماره را نام کاربری هم می‌کند، گزینهٔ تطبیق نام کاربری را فعال نگه دارید."
+	}
+}

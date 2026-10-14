@@ -1,0 +1,19 @@
+{
+	"id": "pepro-ups",
+	"name": "PeproDev Ultimate Profile Solutions",
+	"version": "1.0.0",
+	"verified": true,
+	"priority": 40,
+	"source": "PeproDev UPS 8.x login module stores user_mobile without the 0/98 prefix and sets pepro_user_is_sms_verified = yes.",
+	"detect": {
+		"plugins": [ "peprodev-ups" ]
+	},
+	"fields": [
+		{ "meta_key": "user_mobile", "format": "9", "lookup": true, "write": true },
+		{ "meta_key": "pepro_user_is_sms_verified", "value": "yes", "write": true }
+	],
+	"notes": {
+		"en": "Pepro login with mobile (user_mobile, 9…) and its verified flag.",
+		"fa": "ورود با موبایل پپرو (user_mobile با قالب 9…) و نشان تأیید شماره."
+	}
+}

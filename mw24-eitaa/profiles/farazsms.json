@@ -1,0 +1,20 @@
+{
+	"id": "farazsms",
+	"name": "FarazSMS (فراز اس ام اس)",
+	"version": "1.0.0",
+	"verified": true,
+	"priority": 35,
+	"source": "Farazsms 2.7.x reads digits_phone_no, wupp_mobile and farazsms_affiliate_phone; mobile login itself is provided through its Digits integration.",
+	"detect": {
+		"plugins": [ "farazsms" ]
+	},
+	"fields": [
+		{ "meta_key": "digits_phone_no", "format": "9", "lookup": true, "write": false },
+		{ "meta_key": "wupp_mobile", "format": "0", "lookup": true, "write": false },
+		{ "meta_key": "farazsms_affiliate_phone", "format": "0", "lookup": true, "write": false }
+	],
+	"notes": {
+		"en": "Search only. FarazSMS uses Digits for mobile login, so also keep the Digits profile active when Digits is installed.",
+		"fa": "فقط جست‌وجو. فراز اس‌ام‌اس برای ورود با موبایل از Digits استفاده می‌کند؛ اگر Digits نصب است پروفایل آن را هم فعال نگه دارید."
+	}
+}

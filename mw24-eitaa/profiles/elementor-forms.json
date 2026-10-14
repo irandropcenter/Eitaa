@@ -1,0 +1,15 @@
+{
+	"id": "elementor-forms",
+	"name": "Elementor registration forms",
+	"version": "1.0.0",
+	"verified": false,
+	"priority": 90,
+	"source": "Template: Elementor (and its add-ons) let you choose any user meta key for a phone field, so there is no standard key.",
+	"detect": {},
+	"fields": [],
+	"suggest_like": [ "%phone%", "%mobile%", "%tel%" ],
+	"notes": {
+		"en": "Not detected automatically. Look up the meta key configured in your Elementor registration form and add it to the manual map.",
+		"fa": "خودکار شناسایی نمی‌شود. متاکلیدی را که در فرم ثبت‌نام المنتور تنظیم کرده‌اید پیدا کنید و به نقشهٔ دستی اضافه کنید."
+	}
+}

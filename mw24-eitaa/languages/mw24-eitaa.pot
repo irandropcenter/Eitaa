@@ -1,0 +1,2641 @@
+# Copyright (C) 2026 Mihanweb24
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Eitaa Connect — Mihanweb24 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-14 16:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Domain: mw24-eitaa\n"
+
+#. Plugin Name of the plugin
+#: mw24-eitaa.php
+msgid "Eitaa Connect — Mihanweb24"
+msgstr ""
+
+#. Description of the plugin
+#: mw24-eitaa.php
+msgid "Opens your WordPress / WooCommerce site as an Eitaa mini-app, logs visitors in with their Eitaa-verified mobile number, syncs that number with any login/registration plugin and sends Eitaa messages."
+msgstr ""
+
+#. Author of the plugin
+#: mw24-eitaa.php
+msgid "Mihanweb24"
+msgstr ""
+
+#: blocks/login-button/block.json
+msgctxt "block title"
+msgid "Eitaa login button"
+msgstr ""
+
+#: blocks/login-button/block.json
+msgctxt "block description"
+msgid "Lets visitors log in with their Eitaa-verified mobile number inside the Eitaa mini-app."
+msgstr ""
+
+#: blocks/login-button/block.json
+msgctxt "block keyword"
+msgid "eitaa"
+msgstr ""
+
+#: blocks/login-button/block.json
+msgctxt "block keyword"
+msgid "login"
+msgstr ""
+
+#: blocks/login-button/block.json
+msgctxt "block keyword"
+msgid "mobile"
+msgstr ""
+
+#: includes/Admin/Fields.php:101
+msgid "Enabled"
+msgstr ""
+
+#: includes/Admin/Fields.php:122
+msgid "Automatic (customer with WooCommerce, otherwise the site default)"
+msgstr ""
+
+#: includes/Admin/Log_Table.php:49
+msgid "Time"
+msgstr ""
+
+#: includes/Admin/Log_Table.php:50
+msgid "Level"
+msgstr ""
+
+#: includes/Admin/Log_Table.php:51
+msgid "Event"
+msgstr ""
+
+#: includes/Admin/Log_Table.php:52 includes/Admin/Page_Notifications.php:80 includes/Admin/Page_Notifications.php:169 includes/Admin/Page_Notifications.php:188 includes/Admin/Page_Notifications.php:217
+msgid "Message"
+msgstr ""
+
+#: includes/Admin/Log_Table.php:53 includes/Admin/Users_Table.php:39
+msgid "User"
+msgstr ""
+
+#: includes/Admin/Log_Table.php:54 includes/Admin/User_Profile.php:105 includes/Admin/Users_Table.php:41
+msgid "Eitaa ID"
+msgstr ""
+
+#: includes/Admin/Log_Table.php:55
+msgid "IP"
+msgstr ""
+
+#: includes/Admin/Log_Table.php:109
+msgid "All levels"
+msgstr ""
+
+#: includes/Admin/Log_Table.php:113
+msgid "All events"
+msgstr ""
+
+#: includes/Admin/Log_Table.php:118
+msgid "Filter"
+msgstr ""
+
+#: includes/Admin/Log_Table.php:128
+msgid "The log is empty."
+msgstr ""
+
+#: includes/Admin/Log_Table.php:150
+msgid "Details"
+msgstr ""
+
+#: includes/Admin/Menu.php:125 includes/Admin/Menu.php:126
+msgid "Eitaa Connect"
+msgstr ""
+
+#: includes/Admin/Menu.php:134 includes/Admin/Menu.php:156
+msgid "Dashboard"
+msgstr ""
+
+#: includes/Admin/Menu.php:135 includes/Admin/Menu.php:157 includes/Admin/Page_Connection.php:84
+msgid "Connection"
+msgstr ""
+
+#: includes/Admin/Menu.php:136 includes/Admin/Menu.php:158 includes/Admin/Page_Appearance.php:21
+msgid "Appearance & behavior"
+msgstr ""
+
+#: includes/Admin/Menu.php:137 includes/Admin/Menu.php:159 includes/Admin/Page_Login.php:21
+msgid "Login & phone sync"
+msgstr ""
+
+#: includes/Admin/Menu.php:138 includes/Admin/Menu.php:160
+msgid "Notifications"
+msgstr ""
+
+#: includes/Admin/Menu.php:139 includes/Admin/Menu.php:161 includes/Admin/Page_Dashboard.php:197
+msgid "Connected users"
+msgstr ""
+
+#: includes/Admin/Menu.php:140 includes/Admin/Menu.php:162
+msgid "Log"
+msgstr ""
+
+#: includes/Admin/Menu.php:141 includes/Admin/Menu.php:163 includes/Admin/Page_Tools.php:21
+msgid "Tools"
+msgstr ""
+
+#: includes/Admin/Menu.php:142 includes/Admin/Menu.php:164 includes/Admin/Menu.php:548
+msgid "Help"
+msgstr ""
+
+#: includes/Admin/Menu.php:175
+msgid "You do not have permission to access this page."
+msgstr ""
+
+#: includes/Admin/Menu.php:211
+msgid "Loading…"
+msgstr ""
+
+#: includes/Admin/Menu.php:212
+msgid "Request failed."
+msgstr ""
+
+#: includes/Admin/Menu.php:213 includes/Admin/Rest.php:224
+msgid "Message sent."
+msgstr ""
+
+#: includes/Admin/Menu.php:214
+msgid "Copied!"
+msgstr ""
+
+#: includes/Admin/Menu.php:215
+msgid "Are you sure?"
+msgstr ""
+
+#: includes/Admin/Menu.php:216
+msgid "Use"
+msgstr ""
+
+#: includes/Admin/Menu.php:217 includes/Admin/Page_Login.php:227 includes/Admin/Page_Login.php:248
+msgid "Meta key"
+msgstr ""
+
+#: includes/Admin/Menu.php:218
+msgid "Rows"
+msgstr ""
+
+#: includes/Admin/Menu.php:219
+msgid "Phone-like"
+msgstr ""
+
+#: includes/Admin/Menu.php:220
+msgid "Masked sample"
+msgstr ""
+
+#: includes/Admin/Menu.php:221
+msgid "No meta keys found."
+msgstr ""
+
+#: includes/Admin/Menu.php:222 includes/Admin/Page_Login.php:275
+msgid "— Select a table —"
+msgstr ""
+
+#: includes/Admin/Menu.php:223 includes/Admin/Page_Login.php:285
+msgid "— Select a column —"
+msgstr ""
+
+#: includes/Admin/Menu.php:224
+msgid "required"
+msgstr ""
+
+#: includes/Admin/Menu.php:225
+msgid "Column"
+msgstr ""
+
+#: includes/Admin/Menu.php:226
+msgid "Type"
+msgstr ""
+
+#: includes/Admin/Menu.php:227 includes/Admin/Menu.php:246
+msgid "Value"
+msgstr ""
+
+#: includes/Admin/Menu.php:228
+msgid "Not set (skip)"
+msgstr ""
+
+#: includes/Admin/Menu.php:230 includes/Admin/Page_Login.php:248
+msgid "Fixed value"
+msgstr ""
+
+#: includes/Admin/Menu.php:231
+msgid "Current time (site)"
+msgstr ""
+
+#: includes/Admin/Menu.php:232
+msgid "Current time (UTC)"
+msgstr ""
+
+#: includes/Admin/Menu.php:233
+msgid "Unix timestamp"
+msgstr ""
+
+#: includes/Admin/Menu.php:234
+msgid "User ID"
+msgstr ""
+
+#: includes/Admin/Menu.php:235
+msgid "Phone (formatted)"
+msgstr ""
+
+#: includes/Admin/Menu.php:236
+msgid "Empty string"
+msgstr ""
+
+#: includes/Admin/Menu.php:238
+msgid "Normalized"
+msgstr ""
+
+#: includes/Admin/Menu.php:239
+msgid "Searched variants"
+msgstr ""
+
+#: includes/Admin/Menu.php:240
+msgid "User that would log in"
+msgstr ""
+
+#: includes/Admin/Menu.php:241
+msgid "No user found — a new account would be created."
+msgstr ""
+
+#: includes/Admin/Menu.php:242
+msgid "Matches"
+msgstr ""
+
+#: includes/Admin/Menu.php:243
+msgid "Warning: this number matches more than one user. The first match (by priority) is used."
+msgstr ""
+
+#: includes/Admin/Menu.php:244
+msgid "Values that would be written"
+msgstr ""
+
+#: includes/Admin/Menu.php:245
+msgid "Field"
+msgstr ""
+
+#: includes/Admin/Menu.php:247
+msgid "Current"
+msgstr ""
+
+#: includes/Admin/Menu.php:248
+msgid "Action"
+msgstr ""
+
+#: includes/Admin/Menu.php:250 includes/Admin/Page_Login.php:205
+msgid "write"
+msgstr ""
+
+#: includes/Admin/Menu.php:251
+msgid "unchanged"
+msgstr ""
+
+#: includes/Admin/Menu.php:252
+msgid "skip: different number already stored"
+msgstr ""
+
+#: includes/Admin/Menu.php:253
+msgid "skip: number belongs to another user"
+msgstr ""
+
+#: includes/Admin/Menu.php:254
+msgid "read-only"
+msgstr ""
+
+#: includes/Admin/Menu.php:255
+msgid "invalid table map"
+msgstr ""
+
+#: includes/Admin/Menu.php:256
+msgid "error"
+msgstr ""
+
+#: includes/Admin/Menu.php:259
+msgid "Not started"
+msgstr ""
+
+#: includes/Admin/Menu.php:260
+msgid "Running…"
+msgstr ""
+
+#: includes/Admin/Menu.php:261
+msgid "Finished"
+msgstr ""
+
+#: includes/Admin/Menu.php:262
+msgid "Cancelled"
+msgstr ""
+
+#. translators: 1: processed users, 2: total users, 3: updated users, 4: values written, 5: conflicts.
+#: includes/Admin/Menu.php:265
+#, php-format
+msgid "%1$s of %2$s users processed — %3$s users updated, %4$s values written, %5$s skipped."
+msgstr ""
+
+#. translators: 1: scanned users, 2: users with phone, 3: users to update, 4: values, 5: conflicts.
+#: includes/Admin/Menu.php:267
+#, php-format
+msgid "Scanned %1$s users: %2$s have a phone, %3$s would be updated (%4$s values), %5$s skipped because of conflicts."
+msgstr ""
+
+#. translators: %s: number of users.
+#: includes/Admin/Menu.php:269
+#, php-format
+msgid "This message would be queued for %s users."
+msgstr ""
+
+#: includes/Admin/Menu.php:332 includes/Admin/Menu.php:361
+msgid "You do not have permission to do this."
+msgstr ""
+
+#: includes/Admin/Menu.php:346
+msgid "Settings saved."
+msgstr ""
+
+#: includes/Admin/Menu.php:372
+msgid "The Eitaa account was disconnected."
+msgstr ""
+
+#: includes/Admin/Menu.php:379
+msgid "The log was cleared."
+msgstr ""
+
+#. translators: 1: sent count, 2: failed count.
+#: includes/Admin/Menu.php:386
+#, php-format
+msgid "Queue processed: %1$d sent, %2$d failed."
+msgstr ""
+
+#. translators: %d: number of messages.
+#: includes/Admin/Menu.php:392
+#, php-format
+msgid "%d failed messages were put back in the queue."
+msgstr ""
+
+#: includes/Admin/Menu.php:402
+msgid "Sent and failed messages were removed from the queue."
+msgstr ""
+
+#: includes/Admin/Menu.php:407
+msgid "The message queue was emptied."
+msgstr ""
+
+#: includes/Admin/Menu.php:413
+msgid "Cached data was cleared."
+msgstr ""
+
+#: includes/Admin/Menu.php:419
+msgid "All settings were reset to their defaults. The token and phone maps were kept."
+msgstr ""
+
+#: includes/Admin/Menu.php:425
+msgid "The app token was deleted."
+msgstr ""
+
+#. translators: %d: number of messages.
+#: includes/Admin/Menu.php:443
+#, php-format
+msgid "%d messages were added to the queue."
+msgstr ""
+
+#: includes/Admin/Menu.php:456
+msgid "Unknown action."
+msgstr ""
+
+#: includes/Admin/Menu.php:503
+msgid "Eitaa Connect: the saved app token can no longer be decrypted (the site security keys changed). Please enter the token again."
+msgstr ""
+
+#: includes/Admin/Menu.php:505 includes/Admin/Page_Connection.php:21
+msgid "Connection settings"
+msgstr ""
+
+#: includes/Admin/Menu.php:511
+msgid "Eitaa Connect is installed but not connected yet."
+msgstr ""
+
+#: includes/Admin/Menu.php:513
+msgid "Start setup"
+msgstr ""
+
+#. translators: %s: list of plugin names.
+#: includes/Admin/Menu.php:528
+#, php-format
+msgid "Auto-detected login plugins: %s. Please review and confirm the phone sync profile."
+msgstr ""
+
+#: includes/Admin/Menu.php:533
+msgid "Review"
+msgstr ""
+
+#: includes/Admin/Menu.php:547
+msgid "Settings"
+msgstr ""
+
+#: includes/Admin/Page.php:80 includes/Admin/Page_Connection.php:42
+msgid "Invalid form."
+msgstr ""
+
+#. translators: %s: plugin version.
+#: includes/Admin/Page.php:101
+#, php-format
+msgid "Eitaa Connect %s — by Mihanweb24"
+msgstr ""
+
+#: includes/Admin/Page.php:114
+msgid "Eitaa Connect sections"
+msgstr ""
+
+#: includes/Admin/Page.php:182
+msgid "Save changes"
+msgstr ""
+
+#: includes/Admin/Page.php:307
+msgid "Copy"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:42
+msgid "Window"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:44
+msgid "Expand"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:44
+msgid "Open the mini-app at full height (Android)."
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:44
+msgid "Expand automatically"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:45
+msgid "Full screen"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:45
+msgid "Request full-screen mode where supported (SDK 1.3+)."
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:45
+msgid "Request full screen"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:46
+msgid "Safe area padding"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:46
+msgid "In full-screen mode add padding from the --tg-safe-area-inset-* and --tg-content-safe-area-inset-* variables so content is not hidden behind system bars."
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:46
+msgid "Add safe-area padding"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:47
+msgid "Vertical swipes"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:47
+msgid "Useful when your pages use swipe gestures (sliders); users can still close the app from its header."
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:47
+msgid "Disable closing with a vertical swipe"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:50
+msgid "Confirm before closing"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:54
+msgid "Never"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:55
+msgid "Only when the cart is not empty (WooCommerce)"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:56
+msgid "Always"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:60
+msgid "Haptic feedback"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:60
+msgid "Light vibration on button taps, success and errors."
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:60
+msgid "Enable haptic feedback"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:64
+msgid "Eitaa buttons"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:66
+msgid "Back button"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:66
+msgid "Shows Eitaa's back button on inner pages (goes back in history); hidden on the entry page."
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:66
+msgid "Show back button"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:67
+msgid "Main button"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:67
+msgid "Show the main bottom button"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:71
+msgid "Smart shop button"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:72
+msgid "Shows “Cart (n)” when the cart has items, “Continue to checkout” on the cart page and hides itself on checkout. Updated live after add-to-cart."
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:74
+msgid "Use WooCommerce cart behavior"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:79
+msgid "Main button text"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:79
+msgid "Used when the smart shop button has nothing to show (e.g. empty cart). Leave empty to hide the button in that case."
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:82
+msgid "Main button link"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:89
+msgid "Main button color"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:89 includes/Admin/Page_Appearance.php:90
+msgid "Empty = Eitaa theme color."
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:90
+msgid "Main button text color"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:91
+msgid "Secondary button"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:91
+msgid "Requires Eitaa SDK 1.3+."
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:91
+msgid "Show a secondary bottom button"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:92
+msgid "Secondary button text"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:93
+msgid "Secondary button link"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:96
+msgid "Secondary button position"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:101
+msgid "Left of the main button"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:102
+msgid "Right of the main button"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:103
+msgid "Above the main button"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:104
+msgid "Below the main button"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:108
+msgid "Settings menu item"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:108
+msgid "Show “Settings” in the mini-app menu"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:109
+msgid "Settings item opens"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:109
+msgid "Empty = the user account page."
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:113
+msgid "Colors"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:113
+msgid "Leave empty to follow the user's Eitaa theme (themeParams)."
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:115
+msgid "Header color"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:116
+msgid "Background color"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:117
+msgid "Bottom bar color"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:121
+msgid "App-like layout"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:122
+msgid "Add the CSS class <code>mw24-hide-in-eitaa</code> to any block, menu or widget to hide it inside the mini-app, or <code>mw24-show-in-eitaa</code> to show it only inside the mini-app. The body gets the classes <code>mw24-eitaa-app</code> and <code>mw24-eitaa-dark</code> / <code>mw24-eitaa-light</code>."
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:124
+msgid "Also hide these elements"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:124
+msgid "CSS selectors separated by commas or new lines, e.g. <code>#masthead, .site-footer, .whatsapp-button</code>."
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:125
+msgid "Custom CSS in mini-app mode"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:125
+msgid "Loaded only inside the mini-app."
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:129
+msgid "Start parameter routes"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:130
+msgid "Links to your mini-app can carry a start parameter. Supported values: <code>p123</code> (post or product with ID 123), <code>cart</code>, <code>checkout</code>, <code>account</code>, <code>home</code> and <code>u:slug</code> (or <code>u_slug</code>) for the routes below. Routing happens only once per session."
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:132
+msgid "Custom routes"
+msgstr ""
+
+#: includes/Admin/Page_Appearance.php:132
+msgid "One per line: <code>slug = /relative/path/</code>, e.g. <code>offers = /shop/offers/</code>. Only relative paths of this site are accepted."
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:55
+msgid "The token was saved, but its format looks unusual. Please double-check it in Eitaayar."
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:62
+msgid "The connection was not enabled: your site address must start with https:// because Eitaa only opens secure addresses."
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:65
+msgid "The connection was not enabled: please enter the app token first."
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:86
+msgid "Your site address does not use HTTPS. Eitaa only opens secure (https://) addresses, so the connection cannot be enabled yet."
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:89
+msgid "Enable connection"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:89
+msgid "When disabled, the plugin adds nothing to your site and the site behaves exactly as before."
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:89
+msgid "Open my site as an Eitaa mini-app"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:91
+msgid "App token"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:93
+msgid "Defined in wp-config.php"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:94
+msgid "The token comes from the MW24_EITAA_APP_TOKEN constant and cannot be changed here."
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:99
+msgid "A token is saved — enter a new one to replace it"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:101
+msgid "Saved"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:101
+msgid "Cannot be decrypted"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:101
+msgid "Not set"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:102
+msgid "Get the token from eitaayar.ir › Apps › your app. It is stored encrypted, is never shown again and is only sent to Eitaayar."
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:104
+msgid "Delete the saved token? The connection will stop working."
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:104
+msgid "Delete the saved token"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:106
+msgid "Tip: for extra security define the token in wp-config.php: <code>define( 'MW24_EITAA_APP_TOKEN', '...' );</code>"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:112
+msgid "Mini-app address"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:112
+msgid "Eitaa opens this URL when users start your app. It must be HTTPS and must not redirect."
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:114
+msgid "Entry URL"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:117
+msgid "Entry page path"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:117
+msgid "Relative path of the page that opens first, e.g. <code>/</code> or <code>/shop/</code>. The parameter <code>?mw24_eitaa=1</code> is added automatically."
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:118
+msgid "Registered in Eitaayar"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:118
+msgid "I have saved the entry URL as the destination address of my app in Eitaayar"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:119
+msgid "Automatic detection"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:119
+msgid "Also treat visitors as mini-app users when their User-Agent or Referer contains one of the patterns below. <strong>Not reliable</strong> — Eitaa does not guarantee these values; the entry URL is the dependable method."
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:119
+msgid "Use User-Agent / Referer heuristics"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:122
+msgid "Heuristic patterns"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:123
+msgid "Comma separated, case-insensitive."
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:132
+msgid "Security"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:134
+msgid "Maximum age of Eitaa data"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:134
+msgid "Signed initData older than this is rejected (auth_date check)."
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:134 includes/Admin/Page_Notifications.php:182
+msgid "hours"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:135
+msgid "Second check with Eitaa server"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:135
+msgid "After the local HMAC check, also confirm the hash with eitaayar.ir/api/app/verify. Each hash can be verified once within one minute; successful results are cached. Network failures do not block logins."
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:135
+msgid "Verify hashes with Eitaayar"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:138
+msgid "Client IP source"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:139
+msgid "Only change this when your site is behind a CDN or reverse proxy that sets the header (e.g. Cloudflare, ArvanCloud). Wrong values allow IP spoofing."
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:142
+msgid "default"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:153
+msgid "Embedding (iframe)"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:153
+msgid "Only needed if Eitaa shows your site inside a frame (e.g. a web client). Android and desktop apps use a normal WebView."
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:155
+msgid "Allow framing by Eitaa"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:155
+msgid "In mini-app mode remove X-Frame-Options and send a Content-Security-Policy frame-ancestors header for the domains below. Headers added by your web server cannot be removed by WordPress."
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:155
+msgid "Adjust frame headers in mini-app mode"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:158
+msgid "Allowed frame ancestors"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:159
+msgid "Space separated sources."
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:165
+msgid "Cross-site cookies"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:165
+msgid "Send login and cart cookies with SameSite=None; Secure in mini-app mode so they work inside a third-party frame."
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:165
+msgid "Use SameSite=None cookies in mini-app mode"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:169
+msgid "Advanced"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:171
+msgid "Force SDK as first script"
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:171
+msgid "The official SDK (developer.eitaa.com/eitaa-web-app.js) is printed at the very top of wp_head. Enable this only if your theme prints scripts before wp_head(): the SDK will be injected right after the opening &lt;head&gt; tag using output buffering."
+msgstr ""
+
+#: includes/Admin/Page_Connection.php:171
+msgid "Inject the SDK right after <head>"
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:21
+msgid "Eitaa Connect — Dashboard"
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:43
+msgid "The site is served over HTTPS"
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:44
+msgid "Eitaa only opens HTTPS addresses. Install an SSL certificate and switch the site address to https://."
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:50
+msgid "App token saved"
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:51
+msgid "Copy the token of your app from the Eitaayar panel and paste it in the connection settings."
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:57
+msgid "Mini-app address registered in Eitaayar"
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:58
+msgid "Register the entry URL shown in the connection settings as the destination address of your app, then tick the confirmation box."
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:64
+msgid "Connection enabled"
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:65
+msgid "Turn on the connection switch in the connection settings."
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:71
+msgid "Token tested with a test message"
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:72
+msgid "Open the mini-app once while logged in as administrator, then send a test message from Tools."
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:78
+msgid "Phone sync reviewed"
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:79
+msgid "Review the detected login plugins and phone fields, then save the phone sync settings."
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:85
+msgid "At least one notification enabled"
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:86
+msgid "Choose which events should send an Eitaa message."
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:157
+msgid "Setup progress"
+msgstr ""
+
+#. translators: %d: percentage.
+#: includes/Admin/Page_Dashboard.php:164
+#, php-format
+msgid "%d%% ready"
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:181
+msgid "Next step:"
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:181
+msgid "Do it now"
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:183
+msgid "Everything is set up. Your site works as an Eitaa mini-app."
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:187
+msgid "Mini-app entry URL"
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:187
+msgid "Register this address as the destination address of your app in Eitaayar (it must not redirect)."
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:189 includes/Admin/Page_Login.php:174
+msgid "Active"
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:189
+msgid "Inactive"
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:190
+msgid "Eitaa has no in-app payment API. Payments are made through your own site payment gateway, exactly as in a normal browser."
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:198
+msgid "Registrations (30 days)"
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:199
+msgid "Eitaa logins (30 days)"
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:200
+msgid "Messages sent (30 days)"
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:201
+msgid "Failed messages (30 days)"
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:202
+msgid "Messages waiting in queue"
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:210
+msgid "Last message"
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:212
+msgid "No message has been sent yet."
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:214
+msgid "Delivered"
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:214 includes/Admin/Page_Notifications.php:236
+msgid "Failed"
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:215
+msgid "Recipient:"
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:222
+msgid "Recent events"
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:225
+msgid "Nothing logged yet."
+msgstr ""
+
+#: includes/Admin/Page_Dashboard.php:239
+msgid "View full log"
+msgstr ""
+
+#: includes/Admin/Page_Help.php:21
+msgid "Help & guide"
+msgstr ""
+
+#: includes/Admin/Page_Help.php:47
+msgid "Quick start (about 10 minutes)"
+msgstr ""
+
+#: includes/Admin/Page_Help.php:50
+msgid "Make sure your site opens with <strong>https://</strong>. Eitaa does not open insecure addresses."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:51
+msgid "Log in to <a href=\"https://eitaayar.ir\" target=\"_blank\" rel=\"noopener noreferrer\">eitaayar.ir</a> and open <strong>Apps</strong> (برنامه). Complete the developer identity verification if you are asked to."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:52
+msgid "Click <strong>Add app</strong> and fill in the icon, title, username, description and button text."
+msgstr ""
+
+#. translators: %s: entry URL.
+#: includes/Admin/Page_Help.php:54
+#, php-format
+msgid "In <strong>Destination address</strong> enter your entry URL: <code>%s</code> (it must not redirect, e.g. from http to https or from www to non-www)."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:55
+msgid "Save the app and copy its <strong>token</strong> from Eitaayar."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:56
+msgid "In WordPress go to <strong>Eitaa Connect › Connection</strong>, paste the token, tick “Registered in Eitaayar”, enable the connection and save."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:57
+msgid "Open your app in Eitaa (Android or desktop) while logged in to WordPress as administrator — this links your own Eitaa account."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:58
+msgid "Go to <strong>Tools › Test the token</strong> and send a test message to yourself. If it arrives, everything works."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:59
+msgid "Review <strong>Login & phone sync</strong> (confirm detected plugins such as Digits) and choose your <strong>Notifications</strong>."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:60
+msgid "Optional: under your app in Eitaayar add a mini-app (برنامک) with the same address and request publication in the Eitaa mini-app center."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:66
+msgid "Important: Eitaa has no in-app payment API. Customers pay through your own site payment gateway inside the mini-app, exactly like in a browser."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:69
+msgid "How login works"
+msgstr ""
+
+#: includes/Admin/Page_Help.php:72
+msgid "When the mini-app opens, Eitaa gives the page a signed data string (initData). The plugin checks its HMAC-SHA256 signature with your token on the server."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:73
+msgid "If that Eitaa account is already linked to a user, the user is logged in at once."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:74
+msgid "Otherwise the visitor is asked to share the phone number. Eitaa signs the number too, so it is trusted without SMS codes."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:75
+msgid "The number is searched in every phone field (Digits, WooCommerce, your own fields…). The matching user is logged in, or a new account is created."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:76
+msgid "Administrators and editors are never logged in this way (unless you explicitly allow it)."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:82
+msgid "Useful tools for designers"
+msgstr ""
+
+#: includes/Admin/Page_Help.php:85
+msgid "Shortcode <code>[mw24_eitaa_login]</code> or the “Eitaa login button” block shows a login button."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:86
+msgid "CSS class <code>mw24-hide-in-eitaa</code> hides an element inside the mini-app; <code>mw24-show-in-eitaa</code> shows it only there."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:87
+msgid "Body classes: <code>mw24-eitaa-app</code>, <code>mw24-eitaa-dark</code>, <code>mw24-eitaa-light</code>, <code>mw24-eitaa-fullscreen</code>."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:88
+msgid "Eitaa theme colors are available as CSS variables such as <code>var(--tg-theme-bg-color)</code> and <code>var(--tg-theme-button-color)</code>."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:89
+msgid "Start parameters: <code>p123</code>, <code>cart</code>, <code>checkout</code>, <code>account</code>, <code>home</code>, <code>u:slug</code>."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:97
+msgid "Debugging inside Eitaa"
+msgstr ""
+
+#: includes/Admin/Page_Help.php:98
+msgid "Android"
+msgstr ""
+
+#: includes/Admin/Page_Help.php:101
+msgid "Enable USB debugging on the phone."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:102
+msgid "In Eitaa settings scroll to the bottom, touch and hold the version number, release, then touch and hold it again to open the debug menu."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:103
+msgid "Choose <strong>Enable WebView Debug</strong>."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:104
+msgid "Connect the phone to a computer and open <code>chrome://inspect#devices</code> in Chrome or Edge."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:107
+msgid "Desktop"
+msgstr ""
+
+#: includes/Admin/Page_Help.php:110
+msgid "Eitaa settings › Advanced › Experimental settings › enable <strong>Enable webview inspecting</strong>."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:111
+msgid "Open the mini-app, right-click and choose Inspect."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:114
+msgid "Turn on Debug mode in Tools to see the plugin's diagnostics in the console."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:117
+msgid "Frequently asked questions"
+msgstr ""
+
+#: includes/Admin/Page_Help.php:119
+msgid "The page opens in Eitaa but I am not logged in."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:119
+msgid "Check that the address registered in Eitaayar is exactly the entry URL (with ?mw24_eitaa=1), that the token is correct and look at the Log page for “auth.failed” entries."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:120
+msgid "My cache plugin breaks the mini-app."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:120
+msgid "Mini-app pages are sent as private/no-cache. If your cache still serves them, exclude the cookie mw24_eitaa_app and URLs containing mw24_eitaa in the cache settings."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:121
+msgid "Messages are not delivered."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:121
+msgid "Eitaa only delivers to users who opened your mini-app and allowed messages. Check your message credit in Eitaayar and the Log page."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:122
+msgid "Does it work on iPhone?"
+msgstr ""
+
+#: includes/Admin/Page_Help.php:122
+msgid "Eitaa currently runs mini-apps on Android and desktop (Windows). Your site keeps working normally for all other visitors."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:123
+msgid "What happens when I disable the plugin?"
+msgstr ""
+
+#: includes/Admin/Page_Help.php:123
+msgid "With the connection switched off nothing is added to your pages and the site behaves exactly as before. Users keep their accounts and phone numbers."
+msgstr ""
+
+#: includes/Admin/Page_Help.php:131
+msgid "For developers"
+msgstr ""
+
+#: includes/Admin/Page_Help.php:132
+msgid "Main hooks and functions (see docs/developer-guide in the package for details):"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:63
+msgid "Login & registration"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:64
+msgid "Phone sync"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:83
+msgid "Automatic login"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:83
+msgid "Users are identified by the mobile number that Eitaa signs and verifies — no password or SMS code is needed."
+msgstr ""
+
+#: includes/Admin/Page_Login.php:85
+msgid "Login with Eitaa"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:85
+msgid "Log users in automatically inside the mini-app"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:86
+msgid "Registration"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:86
+msgid "Create an account when no user owns the shared number. Username: 98XXXXXXXXXX, e-mail: 98XXXXXXXXXX@eitaa.invalid (placeholder)."
+msgstr ""
+
+#: includes/Admin/Page_Login.php:86
+msgid "Create new accounts automatically"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:87
+msgid "Role of new users"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:87
+msgid "Only roles without editing or administration capabilities can be selected."
+msgstr ""
+
+#: includes/Admin/Page_Login.php:88
+msgid "Names"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:88
+msgid "Fill empty first/last names from Eitaa"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:89
+msgid "Trusted device"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:89
+msgid "Keeps the user logged in inside Eitaa with a long “remember me” cookie."
+msgstr ""
+
+#: includes/Admin/Page_Login.php:89
+msgid "Remember the login"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:92
+msgid "Remember for"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:95 includes/Admin/Page_Tools.php:111
+msgid "days"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:99
+msgid "After login go to"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:99
+msgid "Empty = stay on the current page."
+msgstr ""
+
+#: includes/Admin/Page_Login.php:100
+msgid "Message permission"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:100
+msgid "After login, ask users who have not allowed messages yet to allow them (needed for notifications)."
+msgstr ""
+
+#: includes/Admin/Page_Login.php:100
+msgid "Ask for permission to send messages"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:104
+msgid "Asking for the phone number"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:108
+msgid "When to ask"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:109
+msgid "“Later” hides the bar until the mini-app is opened again."
+msgstr ""
+
+#: includes/Admin/Page_Login.php:112
+msgid "Immediately on any page"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:113
+msgid "Only on cart and checkout pages"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:114
+msgid "Only when the login button is clicked"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:118
+msgid "Native dialog"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:118
+msgid "Skip the bottom bar and open Eitaa's own phone sharing dialog directly."
+msgstr ""
+
+#: includes/Admin/Page_Login.php:118
+msgid "Open the Eitaa dialog without the bar"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:119
+msgid "Bar text"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:120
+msgid "“Share” button"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:121
+msgid "“Later” button"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:125
+msgid "Login button"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:125
+msgid "Use the shortcode <code>[mw24_eitaa_login]</code> or the “Eitaa login button” block anywhere. Attributes: <code>label</code>, <code>class</code>, <code>redirect</code>, <code>show_linked=\"yes\"</code>."
+msgstr ""
+
+#: includes/Admin/Page_Login.php:127 includes/Login_Button.php:169
+msgid "Button text"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:128
+msgid "WordPress login page"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:128
+msgid "Add the button to wp-login.php"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:130
+msgid "WooCommerce login form"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:130
+msgid "Add the button to the My account login form"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:134
+msgid "Outside Eitaa"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:135
+msgid "Eitaa login only works inside the mini-app."
+msgstr ""
+
+#: includes/Admin/Page_Login.php:138
+msgid "Show a hint instead of the button"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:139
+msgid "Hide the button"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:143
+msgid "Hint text"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:144
+msgid "Mini-app link"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:144
+msgid "Optional direct link to your mini-app in Eitaa (from Eitaayar). Shown under the hint."
+msgstr ""
+
+#: includes/Admin/Page_Login.php:148
+msgid "Privileged accounts"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:150
+msgid "Administrators and editors"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:150
+msgid "<strong>Not recommended.</strong> By default accounts that can edit posts or manage options can never log in through Eitaa. Enable only if you understand the risk: anyone with access to the linked Eitaa account could enter your admin area."
+msgstr ""
+
+#: includes/Admin/Page_Login.php:150
+msgid "Allow privileged accounts to log in with Eitaa"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:168
+msgid "Tell the plugin where other login/registration plugins keep the mobile number. When a user logs in with Eitaa, every place below is searched (in five number formats) and the verified number is written back to all of them, so Digits, WooCommerce and others recognize the same user."
+msgstr ""
+
+#: includes/Admin/Page_Login.php:173
+msgid "1. Ready-made profiles"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:173
+msgid "Detected plugins are enabled automatically; you only need to confirm. Undetected profiles can be enabled manually."
+msgstr ""
+
+#: includes/Admin/Page_Login.php:174
+msgid "Plugin"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:174 includes/Admin/User_Profile.php:99
+msgid "Status"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:174
+msgid "Fields"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: includes/Admin/Page_Login.php:183
+#, php-format
+msgid "Auto-detected: %s"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:184
+msgid "Confirmed"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:184
+msgid "Needs confirmation"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:186
+msgid "Not detected"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:189
+msgid "Template — verify the field"
+msgstr ""
+
+#. translators: 1: meta key, 2: fixed value.
+#: includes/Admin/Page_Login.php:198
+#, php-format
+msgid "%1$s = %2$s (fixed)"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:202
+msgid "search"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:213
+msgid "No fixed field. Load the existing meta keys below and add the right one to the manual map."
+msgstr ""
+
+#: includes/Admin/Page_Login.php:216
+msgid "Suggested patterns:"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:221
+msgid "Developers can add or update profiles with JSON files in <code>profiles/</code> or the <code>mw24_eitaa_phone_profiles</code> filter."
+msgstr ""
+
+#: includes/Admin/Page_Login.php:225
+msgid "2. Manual map on user meta"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:225
+msgid "Pick one or more meta keys that really exist in your database and choose the format in which each one stores the number."
+msgstr ""
+
+#: includes/Admin/Page_Login.php:227 includes/Admin/Page_Login.php:291
+msgid "Format"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:227 includes/Phone_Normalizer.php:193
+msgid "Custom pattern"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:227 includes/Admin/Page_Login.php:335
+msgid "Write"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:242
+msgid "+ Add meta key"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:243
+msgid "Custom pattern placeholders: <code>{cc}</code> = 98, <code>{national}</code> = 912XXXXXXX, <code>{local}</code> = 0912XXXXXXX. Example: <code>+{cc}-{national}</code>."
+msgstr ""
+
+#: includes/Admin/Page_Login.php:245
+msgid "Helper fields with a fixed value"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:246
+msgid "Written together with the number, e.g. a country code field (+98) or a “verified” flag (1)."
+msgstr ""
+
+#: includes/Admin/Page_Login.php:260
+msgid "+ Add helper field"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:262
+msgid "Meta keys found in your database"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:263
+msgid "Read-only list of user meta keys with the number of rows, the share of phone-like values and a masked sample. Keys that look like phone numbers are listed first. The list is cached for 12 hours."
+msgstr ""
+
+#: includes/Admin/Page_Login.php:264
+msgid "Show meta keys"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:264
+msgid "Refresh list"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:270
+msgid "3. Map on a custom table"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:270
+msgid "For plugins that keep phone numbers in their own table. Only existing tables/columns can be chosen (read with SHOW TABLES / DESCRIBE)."
+msgstr ""
+
+#: includes/Admin/Page_Login.php:273
+msgid "Enable"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:273
+msgid "Use a custom table"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:274
+msgid "Table"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:279
+msgid "Load tables"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:281
+msgid "Phone column"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:282
+msgid "User ID column (wp_users.ID)"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:296
+msgid "Mode"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:296
+msgid "Read only (search users but never insert/update rows)"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:297
+msgid "Other columns on insert"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:297
+msgid "Select a table to see its columns. Required columns (NOT NULL without default) need a value."
+msgstr ""
+
+#: includes/Admin/Page_Login.php:301
+msgid "Matching options"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:305
+msgid "Also match the number against usernames and the local part of e-mail addresses"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:306
+msgid "Useful when a phone-login plugin used the number as username. Disable it if visitors can freely choose usernames on your site."
+msgstr ""
+
+#: includes/Admin/Page_Login.php:310
+msgid "Save and confirm phone sync"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:312
+msgid "Test the map (dry-run)"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:312
+msgid "Enter a mobile number to see which user would log in and which values would be written. Nothing is changed."
+msgstr ""
+
+#: includes/Admin/Page_Login.php:313 includes/Admin/Page_Tools.php:71
+msgid "Test"
+msgstr ""
+
+#: includes/Admin/Page_Login.php:336 includes/Admin/Page_Login.php:352
+msgid "Remove"
+msgstr ""
+
+#: includes/Admin/Page_Logs.php:21
+msgid "Event log"
+msgstr ""
+
+#: includes/Admin/Page_Logs.php:30
+msgid "Logins, registrations, messages and errors. Phone numbers are masked and the app token is never logged."
+msgstr ""
+
+#. translators: %d: number of days.
+#: includes/Admin/Page_Logs.php:35
+#, php-format
+msgid "Entries older than %d days are deleted automatically."
+msgstr ""
+
+#: includes/Admin/Page_Logs.php:36
+msgid "Entries are kept until you clear the log."
+msgstr ""
+
+#: includes/Admin/Page_Logs.php:43
+msgid "Search log"
+msgstr ""
+
+#: includes/Admin/Page_Logs.php:46
+msgid "Clear the log"
+msgstr ""
+
+#: includes/Admin/Page_Logs.php:46
+msgid "Delete all log entries?"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:21
+msgid "Eitaa notifications"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:42
+msgid "Event notifications"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:43
+msgid "Bulk send"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:47
+msgid "Eitaa only delivers messages to users who opened your mini-app and allowed messages. The first 50,000 messages are free; more credit can be bought in Eitaayar."
+msgstr ""
+
+#. translators: %s: list of placeholders.
+#: includes/Admin/Page_Notifications.php:63
+#, php-format
+msgid "Placeholders: %s"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:77 includes/Admin/Page_Notifications.php:133 includes/Admin/Page_Notifications.php:165 includes/Admin/Page_Notifications.php:176
+msgid "Send"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:98
+msgid "Delivery"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:102
+msgid "Sending mode"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:103
+msgid "The queue keeps checkout and admin screens fast; messages are sent in the background by Action Scheduler or WP-Cron."
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:106
+msgid "Background queue (recommended)"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:107
+msgid "Immediately (slower pages)"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:111
+msgid "Queue speed"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:111
+msgid "messages per minute"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:112 includes/Admin/Page_Notifications.php:224
+msgid "Permission"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:112
+msgid "Skip users whose signed Eitaa data says they did not allow messages."
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:112
+msgid "Only message users who allowed messages"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:113
+msgid "Admin recipients"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:113
+msgid "Administrators and shop managers receive admin notifications after they open the mini-app once while logged in (this links their account)."
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:113
+msgid "All linked administrators and shop managers"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:114
+msgid "Extra admin chat IDs"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:114
+msgid "Eitaa user IDs, one per line."
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:118
+msgid "Account events"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:120
+msgid "Welcome (new Eitaa registration)"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:121
+msgid "New registration (to admins)"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:121
+msgid "For every new user, whatever the registration method."
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:122
+msgid "New login (security alert)"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:123
+msgid "Password changed"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:131
+msgid "WooCommerce orders"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:133
+msgid "Order status changes"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:133
+msgid "Sent to the customer when the order moves to one of the selected statuses."
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:136
+msgid "Statuses"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:145
+msgid "Default message"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:152
+msgid "Per-status messages"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:152
+msgid "Optional: a different text for each status"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:158
+msgid "Empty = default message"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:163
+msgid "New order (to admins)"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:164
+msgid "Note to customer"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:165
+msgid "Tracking code"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:165
+msgid "Sent once when the tracking code meta of an order is filled or changed."
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:166
+msgid "Tracking code meta key"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:166
+msgid "Order meta key where your shipping plugin stores the code, e.g. <code>_tracking_code</code>."
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:176
+msgid "Abandoned cart"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:176
+msgid "Reminds linked users who left items in their cart (checked hourly, once per cart)."
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:179
+msgid "Remind after"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:199
+msgid "Developers can change any text with the <code>mw24_eitaa_notification_text</code> filter."
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:209
+msgid "All roles"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:211
+msgid "New bulk message"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:211
+msgid "Messages are queued and sent in the background at the queue speed set in the Event notifications tab."
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:216
+msgid "Internal title"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:218
+msgid "Role"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:223
+msgid "Connected between"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:224
+msgid "Only users who allowed messages"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:226
+msgid "Count recipients"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:227
+msgid "Queue this message for all matching users?"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:227
+msgid "Queue message"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:231
+msgid "Bulk send reports"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:234
+msgid "No bulk message has been sent yet."
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:236
+msgid "Title"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:236
+msgid "Created"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:236
+msgid "Total"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:236
+msgid "Sent"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:236
+msgid "Waiting"
+msgstr ""
+
+#: includes/Admin/Page_Notifications.php:240
+msgid "Retry failed"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:45
+msgid "Test the token"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:45
+msgid "Eitaa has no “check token” API, so the token is tested by sending a real test message."
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:47
+msgid "Your admin account is not linked yet: open the mini-app in Eitaa while logged in to this site (this links your account), or enter an Eitaa user ID below."
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:50
+msgid "Recipient Eitaa ID"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:53
+msgid "Text"
+msgstr ""
+
+#. translators: %s: site name.
+#: includes/Admin/Page_Tools.php:57
+#, php-format
+msgid "Test message from %s — the Eitaa connection works."
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:62
+msgid "Send test message"
+msgstr ""
+
+#. translators: %s: date.
+#: includes/Admin/Page_Tools.php:66
+#, php-format
+msgid "Last successful test: %s"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:70
+msgid "Test the phone map (dry-run)"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:70
+msgid "Shows which user a number resolves to and what would be written. Nothing is changed."
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:76
+msgid "Sync existing users"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:76
+msgid "For users that already have a number in one phone field but not in the others, copy it to the missing fields. Different existing numbers are never overwritten and numbers owned by another user are skipped. Runs in the background in batches of 100 users."
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:78
+msgid "Preview (first 200 users)"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:79
+msgid "Start syncing phone numbers of all users?"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:79
+msgid "Start sync"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:80
+msgid "Run one batch now"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:81 includes/Admin/Page_Users.php:36
+msgid "Cancel"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:87
+msgid "Message queue"
+msgstr ""
+
+#. translators: 1: pending, 2: sent, 3: failed.
+#: includes/Admin/Page_Tools.php:93
+#, php-format
+msgid "Waiting: %1$s — Sent: %2$s — Failed: %3$s"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:101
+msgid "Process queue now"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:102
+msgid "Retry failed messages"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:103
+msgid "Remove sent/failed"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:104
+msgid "Empty queue"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:104
+msgid "Delete all queued messages, including those not sent yet?"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:108
+msgid "Maintenance"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:111
+msgid "Keep log entries for"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:111
+msgid "0 = keep forever."
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:112
+msgid "Debug mode"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:112
+msgid "Logs extra details and prints diagnostics in the browser console of the mini-app. Turn off on production sites."
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:112
+msgid "Enable debug mode"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:113
+msgid "Uninstall"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:113
+msgid "When the plugin is deleted, also remove its tables, settings, token and the Eitaa data of users. Phone numbers written to other plugins' fields are kept."
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:113
+msgid "Delete all plugin data on uninstall"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:117
+msgid "Clear cached data"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:118
+msgid "Reset settings to defaults"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:118
+msgid "Reset all settings? The token and phone maps are kept."
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:140
+msgid "Plugin version"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:141
+msgid "WordPress"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:142
+msgid "PHP"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:143
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:143
+msgid "Not active"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:144
+msgid "HTTPS"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:144 includes/Admin/User_Profile.php:107 includes/Admin/Users_Table.php:132
+msgid "Yes"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:144 includes/Admin/User_Profile.php:107 includes/Admin/Users_Table.php:132
+msgid "No"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:145
+msgid "Token encryption"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:145
+msgid "Token defined in wp-config.php"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:145
+msgid "OpenSSL missing — stored without encryption"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:146
+msgid "Background jobs"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:146
+msgid "WP-Cron disabled — make sure a server cron calls wp-cron.php"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:147
+msgid "Detected login plugins"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:148
+msgid "Cache plugins"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:148
+msgid "exclude the cookie mw24_eitaa_app from page cache"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:149
+msgid "REST endpoint"
+msgstr ""
+
+#: includes/Admin/Page_Tools.php:151
+msgid "System status"
+msgstr ""
+
+#: includes/Admin/Page_Users.php:21
+msgid "Users connected to Eitaa"
+msgstr ""
+
+#: includes/Admin/Page_Users.php:34
+msgid "Send an Eitaa message"
+msgstr ""
+
+#: includes/Admin/Page_Users.php:35
+msgid "Message text…"
+msgstr ""
+
+#: includes/Admin/Page_Users.php:36 includes/Admin/User_Profile.php:121
+msgid "Send now"
+msgstr ""
+
+#: includes/Admin/Page_Users.php:41
+msgid "Search name, mobile or Eitaa ID"
+msgstr ""
+
+#: includes/Admin/Rest.php:177
+msgid "Test message from Eitaa Connect."
+msgstr ""
+
+#: includes/Admin/Rest.php:195
+msgid "The test message was delivered. Your token works."
+msgstr ""
+
+#: includes/Admin/User_Profile.php:52 includes/Admin/User_Profile.php:97
+msgid "Eitaa"
+msgstr ""
+
+#: includes/Admin/User_Profile.php:74 includes/Admin/User_Profile.php:101
+msgid "Connected"
+msgstr ""
+
+#: includes/Admin/User_Profile.php:76
+msgid "messages not allowed"
+msgstr ""
+
+#: includes/Admin/User_Profile.php:102
+msgid "Not connected"
+msgstr ""
+
+#: includes/Admin/User_Profile.php:102
+msgid "Open the site from the Eitaa mini-app while logged in to connect."
+msgstr ""
+
+#: includes/Admin/User_Profile.php:106
+msgid "Name in Eitaa"
+msgstr ""
+
+#: includes/Admin/User_Profile.php:107 includes/Admin/Users_Table.php:42
+msgid "Messages allowed"
+msgstr ""
+
+#: includes/Admin/User_Profile.php:108 includes/Admin/Users_Table.php:43
+msgid "Connected on"
+msgstr ""
+
+#: includes/Admin/User_Profile.php:109 includes/Admin/Users_Table.php:44
+msgid "Last seen in mini-app"
+msgstr ""
+
+#: includes/Admin/User_Profile.php:112
+msgid "Verified mobile"
+msgstr ""
+
+#: includes/Admin/User_Profile.php:116 includes/Admin/Users_Table.php:139
+msgid "Disconnect"
+msgstr ""
+
+#: includes/Admin/User_Profile.php:116
+msgid "Disconnect this Eitaa account when saving"
+msgstr ""
+
+#: includes/Admin/User_Profile.php:119
+msgid "Send a message"
+msgstr ""
+
+#: includes/Admin/User_Profile.php:130
+msgid "Last message:"
+msgstr ""
+
+#: includes/Admin/Users_Table.php:40
+msgid "Mobile"
+msgstr ""
+
+#: includes/Admin/Users_Table.php:45
+msgid "Actions"
+msgstr ""
+
+#: includes/Admin/Users_Table.php:111
+msgid "No user has connected an Eitaa account yet."
+msgstr ""
+
+#: includes/Admin/Users_Table.php:138
+msgid "Send message"
+msgstr ""
+
+#: includes/Admin/Users_Table.php:139
+msgid "Disconnect this Eitaa account?"
+msgstr ""
+
+#: includes/Auth.php:122 includes/Auth.php:203 includes/Auth.php:512
+msgid "This Eitaa account is already connected to another user account."
+msgstr ""
+
+#: includes/Auth.php:195
+msgid "Only Iranian mobile numbers can be used to log in."
+msgstr ""
+
+#: includes/Auth.php:216
+msgid "This mobile number belongs to another account on this site."
+msgstr ""
+
+#: includes/Auth.php:261
+msgid "No account was found for this mobile number and new registrations are closed."
+msgstr ""
+
+#: includes/Auth.php:337 includes/Rest.php:265
+msgid "Eitaa connection is not active on this site."
+msgstr ""
+
+#: includes/Auth.php:351
+msgid "Eitaa data is missing. Please open the site from the Eitaa mini-app."
+msgstr ""
+
+#: includes/Auth.php:409
+msgid "The shared contact is missing."
+msgstr ""
+
+#: includes/Auth.php:444 includes/Frontend.php:451
+msgid "Eitaa login failed. Please close the mini-app, open it again and retry."
+msgstr ""
+
+#: includes/Auth.php:456
+msgid "Too many attempts. Please wait a few minutes and try again."
+msgstr ""
+
+#: includes/Auth.php:698
+msgid "Your account could not be created. Please contact the site administrator."
+msgstr ""
+
+#. translators: %d: number of items in the cart.
+#: includes/Frontend.php:448
+#, php-format
+msgid "Cart (%d)"
+msgstr ""
+
+#: includes/Frontend.php:449
+msgid "Continue to checkout"
+msgstr ""
+
+#: includes/Frontend.php:450
+msgid "Logging you in…"
+msgstr ""
+
+#: includes/Frontend.php:452
+msgid "You can log in with your Eitaa number any time from the login button."
+msgstr ""
+
+#: includes/Frontend.php:453
+msgid "Please update your Eitaa app to use this feature."
+msgstr ""
+
+#: includes/Frontend.php:454
+msgid "Connection problem. Please check your internet and try again."
+msgstr ""
+
+#: includes/Frontend.php:455
+msgid "Your Eitaa account is now connected."
+msgstr ""
+
+#: includes/License/Manager.php:59
+msgid "Zhaket"
+msgstr ""
+
+#: includes/License/Manager.php:64
+msgid "RTL-Theme"
+msgstr ""
+
+#: includes/License/Manager.php:132
+msgid "The marketplace license endpoint is not configured in this build."
+msgstr ""
+
+#: includes/License/Manager.php:171
+msgid "Unexpected response from the license server."
+msgstr ""
+
+#: includes/License/Manager.php:193
+msgid "The license was removed from this site."
+msgstr ""
+
+#: includes/License/Manager.php:208
+msgid "No license entered"
+msgstr ""
+
+#: includes/License/Manager.php:209
+msgid "License is valid — updates are enabled"
+msgstr ""
+
+#: includes/License/Manager.php:210
+msgid "License is not valid — automatic updates are disabled (all features keep working)"
+msgstr ""
+
+#: includes/License/Manager.php:211
+msgid "License has expired — automatic updates are disabled (all features keep working)"
+msgstr ""
+
+#: includes/License/Manager.php:212
+msgid "License check is not available in this build"
+msgstr ""
+
+#: includes/License/Manager.php:213
+msgid "The license server could not be reached"
+msgstr ""
+
+#: includes/License/Manager.php:226
+msgid "Product license"
+msgstr ""
+
+#: includes/License/Manager.php:227
+msgid "The license is only used for automatic updates. Users, logins and messages never depend on it."
+msgstr ""
+
+#: includes/License/Manager.php:238
+msgid "License key"
+msgstr ""
+
+#. translators: %s: expiry date.
+#: includes/License/Manager.php:243
+#, php-format
+msgid "expires: %s"
+msgstr ""
+
+#: includes/License/Manager.php:245
+msgid "Activate / check"
+msgstr ""
+
+#: includes/License/Manager.php:247
+msgid "Remove license"
+msgstr ""
+
+#: includes/Login_Button.php:117
+msgid "Connected to Eitaa"
+msgstr ""
+
+#: includes/Login_Button.php:117
+msgid "Connect my Eitaa account"
+msgstr ""
+
+#: includes/Login_Button.php:168
+msgid "Eitaa login button"
+msgstr ""
+
+#: includes/Login_Button.php:170
+msgid "Leave empty to use the text from the plugin settings."
+msgstr ""
+
+#: includes/Login_Button.php:172
+msgid "Shown only to guests. Inside the Eitaa mini-app it logs the visitor in with their Eitaa number; outside Eitaa it is hidden or shows a hint (see settings)."
+msgstr ""
+
+#: includes/Mapping/Table.php:135
+msgid "The selected table does not exist."
+msgstr ""
+
+#: includes/Mapping/Table.php:187
+msgid "No table selected."
+msgstr ""
+
+#: includes/Mapping/Table.php:197
+msgid "The phone or user ID column does not exist in the selected table."
+msgstr ""
+
+#: includes/Mapping/Table.php:201
+msgid "The phone column and the user ID column must be different."
+msgstr ""
+
+#: includes/Mapping/Table.php:206
+msgid "An extra column does not exist in the selected table."
+msgstr ""
+
+#: includes/Mapping/Table.php:329
+msgid "The custom table map is not valid."
+msgstr ""
+
+#: includes/Mapping/Table.php:332
+msgid "The custom table map is read-only."
+msgstr ""
+
+#: includes/Mapping/Table.php:354
+msgid "Writing to the custom table failed."
+msgstr ""
+
+#: includes/Messenger.php:59 includes/functions.php:43
+msgid "The Eitaa app token is not configured."
+msgstr ""
+
+#: includes/Messenger.php:62 includes/functions.php:58
+msgid "The recipient has no Eitaa account connected."
+msgstr ""
+
+#: includes/Messenger.php:65 includes/Queue.php:383
+msgid "The message text is empty."
+msgstr ""
+
+#. translators: %s: error returned by Eitaayar.
+#: includes/Messenger.php:111
+#, php-format
+msgid "Eitaayar rejected the message: %s"
+msgstr ""
+
+#: includes/Messenger.php:112
+msgid "Eitaayar did not confirm the delivery. Make sure the user opened your mini-app and allowed messages."
+msgstr ""
+
+#. translators: %s: transport error.
+#: includes/Messenger.php:193
+#, php-format
+msgid "Could not reach Eitaayar: %s"
+msgstr ""
+
+#. translators: %d: HTTP status code.
+#: includes/Messenger.php:202
+#, php-format
+msgid "Unexpected response from Eitaayar (HTTP %d)."
+msgstr ""
+
+#: includes/Phone_Mapper.php:638
+msgid "This is not a valid Iranian mobile number."
+msgstr ""
+
+#: includes/Rest.php:176
+msgid "Eitaa data must be sent in the X-Eitaa-Init-Data header, never in the URL."
+msgstr ""
+
+#: includes/Settings.php:373
+msgid "Log in instantly with your Eitaa number — no password or SMS code needed."
+msgstr ""
+
+#: includes/Settings.php:375
+msgid "Share my number"
+msgstr ""
+
+#: includes/Settings.php:377
+msgid "Later"
+msgstr ""
+
+#: includes/Settings.php:379 templates/phone-bar.php:16
+msgid "Log in with Eitaa"
+msgstr ""
+
+#: includes/Settings.php:381
+msgid "To log in with Eitaa, open this site from our Eitaa mini-app."
+msgstr ""
+
+#: includes/Settings.php:383
+msgid ""
+"Hello {name}!\n"
+"Your account at {site} was created with your Eitaa number.\n"
+"{link}"
+msgstr ""
+
+#: includes/Settings.php:385
+msgid ""
+"New user registered at {site}: {name} ({user_login})\n"
+"{link}"
+msgstr ""
+
+#: includes/Settings.php:387
+msgid ""
+"Hello {name}, a new login to your {site} account was recorded on {date}.\n"
+"If it wasn't you, change your password: {link}"
+msgstr ""
+
+#: includes/Settings.php:389
+msgid ""
+"Hello {name}, the password of your {site} account was changed on {date}.\n"
+"If you did not do this, contact support immediately."
+msgstr ""
+
+#: includes/Settings.php:391
+msgid ""
+"Hello {name}, order #{order_number} at {site} is now: {status}.\n"
+"Total: {total}\n"
+"{link}"
+msgstr ""
+
+#: includes/Settings.php:393
+msgid ""
+"New order #{order_number} at {site}\n"
+"Customer: {name}\n"
+"Total: {total}\n"
+"{link}"
+msgstr ""
+
+#: includes/Settings.php:395
+msgid ""
+"Hello {name}, a new note was added to order #{order_number}:\n"
+"{note}\n"
+"{link}"
+msgstr ""
+
+#: includes/Settings.php:397
+msgid ""
+"Hello {name}, order #{order_number} has been shipped.\n"
+"Tracking code: {tracking}\n"
+"{link}"
+msgstr ""
+
+#: includes/Settings.php:399
+msgid ""
+"Hello {name}, you left {cart_count} item(s) in your cart at {site}. Complete your purchase here:\n"
+"{link}"
+msgstr ""
+
+#: includes/functions.php:70
+msgid "The message could not be queued."
+msgstr ""
+
+#. translators: 1: required PHP version, 2: required WordPress version.
+#: mw24-eitaa.php:60
+#, php-format
+msgid "Eitaa Connect needs PHP %1$s+ and WordPress %2$s+. The plugin is inactive until the server is upgraded."
+msgstr ""
+
+#: templates/login-button.php:30
+msgid "Open in Eitaa"
+msgstr ""
+

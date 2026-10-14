@@ -1,0 +1,18 @@
+{
+	"id": "melipayamak",
+	"name": "Melipayamak (ملی پیامک)",
+	"version": "1.0.0",
+	"verified": true,
+	"priority": 30,
+	"source": "Melipayamak plugin 2.2.x stores the user mobile in the mpmobile meta key and validates it as 09XXXXXXXXX.",
+	"detect": {
+		"plugins": [ "melipayamak" ]
+	},
+	"fields": [
+		{ "meta_key": "mpmobile", "format": "0", "lookup": true, "write": true }
+	],
+	"notes": {
+		"en": "Melipayamak login / two-factor mobile field (mpmobile, 09…).",
+		"fa": "فیلد موبایل ورود و ورود دومرحله‌ای ملی پیامک (mpmobile با قالب 09…)."
+	}
+}

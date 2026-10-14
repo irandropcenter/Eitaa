@@ -1,0 +1,17 @@
+{
+	"id": "pro-login",
+	"name": "Pro Login",
+	"version": "1.0.0",
+	"verified": false,
+	"priority": 85,
+	"source": "Template for “Pro Login” style mobile login plugins sold on Iranian marketplaces; the meta key must be confirmed per site.",
+	"detect": {
+		"plugins": [ "pro-login", "prologin", "pro-login-register" ]
+	},
+	"fields": [],
+	"suggest_like": [ "%phone%", "%mobile%" ],
+	"notes": {
+		"en": "Detected, but the meta key must be confirmed: pick it from the database list below and add it to the manual map.",
+		"fa": "شناسایی شد، اما متاکلید باید تأیید شود: آن را از فهرست دیتابیس انتخاب و به نقشهٔ دستی اضافه کنید."
+	}
+}

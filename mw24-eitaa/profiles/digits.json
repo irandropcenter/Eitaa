@@ -1,0 +1,22 @@
+{
+	"id": "digits",
+	"name": "Digits",
+	"version": "1.0.0",
+	"verified": true,
+	"priority": 10,
+	"source": "Digits 7.x/8.x: digits_update_mobile() writes digt_countrycode, digits_phone_no and digits_phone; getUserFromPhone() searches digits_phone.",
+	"detect": {
+		"plugins": [ "digits" ],
+		"functions": [ "digits_update_mobile", "getUserFromPhone" ]
+	},
+	"fields": [
+		{ "meta_key": "digits_phone", "format": "+98", "lookup": true, "write": true },
+		{ "meta_key": "digits_phone_no", "format": "9", "lookup": true, "write": true },
+		{ "meta_key": "digt_countrycode", "value": "+98", "write": true },
+		{ "meta_key": "digt_mobile", "format": "+98", "lookup": true, "write": false }
+	],
+	"notes": {
+		"en": "Writes digits_phone (+98…), digits_phone_no (9…) and digt_countrycode (+98) so Digits recognizes the same user.",
+		"fa": "مقادیر digits_phone (+98…)، digits_phone_no (9…) و digt_countrycode (+98) نوشته می‌شود تا Digits همان کاربر را بشناسد."
+	}
+}

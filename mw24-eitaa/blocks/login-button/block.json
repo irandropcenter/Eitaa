@@ -1,0 +1,25 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "mw24-eitaa/login-button",
+	"version": "1.0.0",
+	"title": "Eitaa login button",
+	"category": "widgets",
+	"icon": "smartphone",
+	"description": "Lets visitors log in with their Eitaa-verified mobile number inside the Eitaa mini-app.",
+	"keywords": [ "eitaa", "login", "mobile" ],
+	"textdomain": "mw24-eitaa",
+	"attributes": {
+		"label": {
+			"type": "string",
+			"default": ""
+		}
+	},
+	"supports": {
+		"html": false,
+		"align": [ "left", "center", "right" ],
+		"className": true
+	},
+	"editorScript": "mw24-eitaa-block-editor",
+	"editorStyle": "mw24-eitaa-button"
+}
